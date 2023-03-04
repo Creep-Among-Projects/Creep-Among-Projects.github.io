@@ -1,0 +1,18 @@
+site_name: CreepAmongProjects
+theme:
+  name: material
+  custom_dir: overrides
+nav:
+  - Home: index.md
+  - Projects: projects/index.md
+  - About: about.md
+  - QoD: qod.md
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
