@@ -29,6 +29,8 @@ Thx:
 
 （什么？BING每日一图和每日一句的支持？{--支持是不可能的，这辈子都不可能的--}如果有需要会加的）
 
+我很可爱，{--给我[打钱](https://afdian.net/a/woshishabi)--}
+
 ---
 
 List of QoDs:
