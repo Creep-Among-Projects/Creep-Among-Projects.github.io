@@ -128,7 +128,7 @@ qod = [[quotes[_], downloaded_images[_]] for _ in range(len(downloaded_images))]
 if not os.path.exists('./docs/qods/'):
     os.mkdir('./docs/qods')
 
-smileysans_hitokoto = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=130)
+smileysans_hitokoto = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=120)
 smileysans_source = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=90)
 smileysans_author = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=50)
 
@@ -146,7 +146,7 @@ for _ in qod:
     # img2.save(f'./docs/qods/{_[1][0]}.bmp')
 
     source_text = f'{_[0]["from_who"]} - {_[0]["from"]}' if _[0]['from_who'] else f'{_[0]["from"]}'
-    opacity_color = (int(_[1][1][1:3], 16), int(_[1][1][3:5], 16), int(_[1][1][5:7], 16), 77)
+    opacity_color = (int(_[1][1][1:3], 16), int(_[1][1][3:5], 16), int(_[1][1][5:7], 16), 128)
     draw = ImageDraw.ImageDraw(img2, mode='RGBA')
     draw.rectangle([50, img2.size[1] / 2 - 47, img2.size[0] - 50, img2.size[1] / 2 + 357], fill=opacity_color)
     draw.text((img2.size[0] / 2, img2.size[1] / 2 + 50),
@@ -167,7 +167,7 @@ for _ in qod:
               font=smileysans_author,
               anchor='mm',
               align='center')
-    img2.paste(pexels_logo, (img2.size[0] - 616, img2.size[1] - 250))
+    img2.paste(pexels_logo, (img2.size[0] - 616, img2.size[1] - 250), mask=pexels_logo)
     img2.save(f'./docs/qods/{_[1][0]}.jpg')
 
 # Write to MarkDown
