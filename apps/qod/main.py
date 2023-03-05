@@ -134,7 +134,7 @@ smileysans_author = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=50
 
 pexels_logo = Image.open('./cache/pexels_logo.png')
 pexels_logo = pexels_logo.convert(mode='RGBA')
-pexels_logo = pexels_logo.resize((pexels_logo.size[0] / 2, pexels_logo.size[1] / 2))
+pexels_logo = pexels_logo.resize((int(pexels_logo.size[0] / 2), int(pexels_logo.size[1] / 2)))
 
 for _ in qod:
     print('-' * 80)
@@ -150,7 +150,7 @@ for _ in qod:
     source_text = f'{_[0]["from_who"]} - {_[0]["from"]}' if _[0]['from_who'] else f'{_[0]["from"]}'
     opacity_color = (int(_[1][1][1:3], 16), int(_[1][1][3:5], 16), int(_[1][1][5:7], 16), 128)
     draw = ImageDraw.ImageDraw(img2, mode='RGBA')
-    draw.rectangle([50, img2.size[1] / 2 - 47, img2.size[0] - 50, img2.size[1] / 2 + 357], fill=opacity_color)
+    draw.rectangle([50, img2.size[1] / 2 - 67, img2.size[0] - 50, img2.size[1] / 2 + 377], fill=opacity_color)
     draw.text((img2.size[0] / 2, img2.size[1] / 2 + 50),
               text=_[0]['hitokoto'],
               fill=(255, 255, 255),
