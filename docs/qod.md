@@ -10,7 +10,9 @@ Generate a quote with background three times a day.
 
 本网站同步部署于：
 - [Github Pages](https://creep-among-projects.github.io)
+
 - [Netlify](https://creep-among-projects.netlify.app)
+
 - [Cloudflare Pages](https://creepamongprojects.pages.dev)
 
 Github：[CAP-Pages/apps/qod](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/tree/master/apps/qod)
