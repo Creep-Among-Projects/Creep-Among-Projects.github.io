@@ -9,6 +9,7 @@ Generate a quote with background three times a day.
 每天生成带有背景图片的激励语三回啊三回。
 
 本网站同步部署于：
+
 - [Github Pages](https://creep-among-projects.github.io)
 
 - [Netlify](https://creep-among-projects.netlify.app)
