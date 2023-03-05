@@ -134,6 +134,7 @@ smileysans_author = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=50
 
 pexels_logo = Image.open('./cache/pexels_logo.png')
 pexels_logo = pexels_logo.convert(mode='RGBA')
+pexels_logo.thumbnail(283, 100)
 
 for _ in qod:
     print('-' * 80)
@@ -168,7 +169,7 @@ for _ in qod:
               font=smileysans_author,
               anchor='mm',
               align='center')
-    img2.paste(pexels_logo, (img2.size[0] - 616, img2.size[1] - 250), pexels_logo)
+    img2.paste(pexels_logo, (img2.size[0] - 333, img2.size[1] - 150), pexels_logo)
     img2.save(f'./docs/qods/{_[1][0]}.jpg')
 
 # Write to MarkDown
