@@ -128,9 +128,9 @@ qod = [[quotes[_], downloaded_images[_]] for _ in range(len(downloaded_images))]
 if not os.path.exists('./docs/qods/'):
     os.mkdir('./docs/qods')
 
-smileysans_hitokoto = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=120)
-smileysans_source = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=90)
-smileysans_author = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=50)
+smileysans_hitokoto = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=100)
+smileysans_source = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=75)
+smileysans_author = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=40)
 
 pexels_logo = Image.open('./cache/pexels_logo.png')
 pexels_logo = pexels_logo.convert(mode='RGBA')
