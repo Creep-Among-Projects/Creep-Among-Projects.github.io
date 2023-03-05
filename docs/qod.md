@@ -8,14 +8,22 @@ Generate a quote with background three times a day.
 
 每天生成带有背景图片的激励语三回啊三回。
 
-Github：[CAP-Pages/apps/qod](https://github.com/Creep-Among-Projects/CAP-Pages/tree/master/apps/qod)
+本网站同步部署于：
+
+- [Github Pages](https://creep-among-projects.github.io)
+
+- [Netlify](https://creep-among-projects.netlify.app)
+
+- [Cloudflare Pages](https://creepamongprojects.pages.dev)
+
+Github：[CAP-Pages/apps/qod](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/tree/master/apps/qod)
 
 Status:
 
 状态:
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/CAP-Pages/qod.yml?label=QODGEN&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/qod.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/CAP-Pages/MkDocsDeploy.yml?label=MKDOCS&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/MkDocsDeploy.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/Creep-Among-Projects.github.io/qod.yml?label=QODGEN&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/qod.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/Creep-Among-Projects.github.io/MkDocsDeploy.yml?label=MKDOCS&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/MkDocsDeploy.yml)
 [![996.icu](https://img.shields.io/badge/996.icu-link-red?style=for-the-badge)](https://996.icu)
 
 Thx:
@@ -26,8 +34,12 @@ Thx:
 [![Hitokoto](https://developer.hitokoto.cn/logo.png "Quote Provided by Hitokoto")](https://hitokoto.cn)
 [![Github Pages](https://github.githubassets.com/images/mona-loading-dark.gif "Github")](https://github.com)
 [![Smiley Sans](https://raw.githubusercontent.com/atelier-anchor/smiley-sans/main/docs/images/smiley-sans.light.svg "Smiley Sans")](https://github.com/atelier-anchor/smiley-sans)
+[![Netlify](https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png "Netlify")](https://www.netlify.com)
+[![Cloudflare Pages](https://logos-marques.com/wp-content/uploads/2021/03/Cloudflare-Logo.png "Cloudflare Pages")](https://www.cloudflare.com/)
 
 （什么？BING每日一图和每日一句的支持？{--支持是不可能的，这辈子都不可能的--}如果有需要会加的）
+
+我很可爱，{--给我[打钱](https://afdian.net/a/woshishabi)--}
 
 ---
 
@@ -124,3 +136,9 @@ Theoretically three daily quotes will be automatically updated here each day.
 |2023-03-03|2387873|生命中，再无聊的时光，也都是限量版。|[图片链接](./qods/2387873.jpg)|
 |2023-03-03|267151|因为不可能，所以才值得相信。|[图片链接](./qods/267151.jpg)|
 |2023-03-03|457882|拼命奔跑，华丽跌倒。人山人海，边走边爱。|[图片链接](./qods/457882.jpg)|
+|2023-03-04|1785283|只有登上山顶，才能看到那边的风光。|[图片链接](./qods/1785283.jpg)|
+|2023-03-04|635279|既然认准这条路，何必去打听要走多久。|[图片链接](./qods/635279.jpg)|
+|2023-03-04|103567|Why so serious?|[图片链接](./qods/103567.jpg)|
+|2023-03-04|2618804|你可不是什么普通女孩，你是我的女孩。|[图片链接](./qods/2618804.jpg)|
+|2023-03-04|70577|如果能摸摸我的头的话，我会很高兴的！|[图片链接](./qods/70577.jpg)|
+|2023-03-04|1320684|闻道者，朝生夕死，足尔；寻道者，忘生之死，憾尔。|[图片链接](./qods/1320684.jpg)|
