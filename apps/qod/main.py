@@ -25,7 +25,7 @@ PEXELS_QUERY = ['nature', 'sunset', 'sea']
 HITOKOTO_URL = 'https://international.v1.hitokoto.cn/?c=d&c=f&c=h&c=i&c=k&max_length=25'
 
 engine = sqlalchemy.engine.create_engine('sqlite:///./apps/qod/db.db?check_same_thread=False', echo=False)
-Base = sqlalchemy.ext.declarative.declarative_base()
+Base = sqlalchemy.orm.declarative_base()
 
 
 class Backgrounds(Base):
@@ -104,7 +104,7 @@ quotes = []
 while len(quotes) < len(downloaded_images):
     hitokoto_result = requests.get(HITOKOTO_URL, headers=GENERAL_HEADERS).json()
     if session.query(Quotes).filter_by(hitokoto=hitokoto_result['hitokoto']).all():
-        time.sleep(1)
+        time.sleep(0.5)
         continue
     print('Quote:', hitokoto_result['hitokoto'])
     new_quote = Quotes(
@@ -168,7 +168,7 @@ for _ in qod:
               font=smileysans_author,
               anchor='mm',
               align='center')
-    img2.paste(pexels_logo, (img2.size[0] - 616, img2.size[1] - 250))
+    img2.paste(pexels_logo, (img2.size[0] - 616, img2.size[1] - 250), pexels_logo)
     img2.save(f'./docs/qods/{_[1][0]}.jpg')
 
 # Write to MarkDown
