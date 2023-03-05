@@ -8,6 +8,11 @@ Generate a quote with background three times a day.
 
 每天生成带有背景图片的激励语三回啊三回。
 
+本网站同步部署于：
+- [Github Pages](https://creep-among-projects.github.io)
+- [Netlify](https://creep-among-projects.netlify.app)
+- [Cloudflare Pages](https://creepamongprojects.pages.dev)
+
 Github：[CAP-Pages/apps/qod](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/tree/master/apps/qod)
 
 Status:
@@ -26,6 +31,8 @@ Thx:
 [![Hitokoto](https://developer.hitokoto.cn/logo.png "Quote Provided by Hitokoto")](https://hitokoto.cn)
 [![Github Pages](https://github.githubassets.com/images/mona-loading-dark.gif "Github")](https://github.com)
 [![Smiley Sans](https://raw.githubusercontent.com/atelier-anchor/smiley-sans/main/docs/images/smiley-sans.light.svg "Smiley Sans")](https://github.com/atelier-anchor/smiley-sans)
+[![Netlify](https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png "Netlify")](https://www.netlify.com)
+[![Cloudflare Pages](https://logos-marques.com/wp-content/uploads/2021/03/Cloudflare-Logo.png "Cloudflare Pages")](https://www.cloudflare.com/)
 
 （什么？BING每日一图和每日一句的支持？{--支持是不可能的，这辈子都不可能的--}如果有需要会加的）
 
