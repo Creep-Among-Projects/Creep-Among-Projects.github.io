@@ -134,7 +134,7 @@ smileysans_author = ImageFont.truetype('./cache/SmileySans-Oblique.ttf', size=50
 
 pexels_logo = Image.open('./cache/pexels_logo.png')
 pexels_logo = pexels_logo.convert(mode='RGBA')
-pexels_logo.thumbnail(283, 100)
+pexels_logo = pexels_logo.resize((pexels_logo.size[0] / 2, pexels_logo.size[1] / 2))
 
 for _ in qod:
     print('-' * 80)
