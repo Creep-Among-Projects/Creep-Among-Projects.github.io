@@ -23,8 +23,7 @@ Status:
 状态:
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/Creep-Among-Projects.github.io/qod.yml?label=QODGEN&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/qod.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/Creep-Among-Projects.github.io/MkDocsDeploy.yml?label=MKDOCS&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/MkDocsDeploy.yml)
-[![MossFrp Check In](https://github.com/woshishabii/MossFrpCheckIn/actions/workflows/checkin.yml/badge.svg)](https://github.com/woshishabii/MossFrpCheckIn/actions/workflows/checkin.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Creep-Among-Projects/Creep-Among-Projects.github.io/MkDocsDeploy.yml?label=MKDOCS&style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/workflows/MkDocsDeploy)
 [![Github Repo Size](https://img.shields.io/github/repo-size/creep-among-projects/creep-among-projects.github.io?style=for-the-badge&color=66ccff)](https://github.com/Creep-Among-Projects/Creep-Among-Projects.github.io)
 ![Lines of code](https://img.shields.io/tokei/lines/github/creep-among-projects/creep-among-projects.github.io?color=%2366ccff&style=for-the-badge)
 [![996.icu](https://img.shields.io/badge/996.icu-link-red?style=for-the-badge)](https://996.icu)
