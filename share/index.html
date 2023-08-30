@@ -455,25 +455,9 @@
 
 <h1 id="_1">这里用来挂文件</h1>
 <h2 id="5919">5919</h2>
-<p><button type="button" id="5919">Click Me!</button></p>
-<script>
-    var btn5919 = document.getElementById('5919');
-    var files_5919 = ["https://seclang.pages.dev/share/5919.part1.rar", "https://seclang.pages.dev/share/5919.part2.rar", "https://seclang.pages.dev/share/5919.part3.rar"];
-    var filenames_5919 = ["5919.part1.rar", "5919.part2.rar", "5919.part3.rar"];
-    function download(name, href) {
-        var a = document.createElement('a'),
-            e = document.createEvent('MouseEvents');
-        e.initEvent('click', false, false);
-        a.href = href;
-        a.download = name;
-        a.dispatchEvent(e);
-    }
-    btn5919.onclick = function name(params) {
-        for (let index = 0; index < files_5919.length; index++) {
-            download(filenames_5919[index], files_5919[index]);
-        }
-    }
-</script>
+<p><a href="https://seclang.pages.dev/share/5919.part1.rar">part1</a>
+<a href="https://seclang.pages.dev/share/5919.part2.rar">part2</a>
+<a href="https://seclang.pages.dev/share/5919.part3.rar">part3</a></p>
 
 
 
