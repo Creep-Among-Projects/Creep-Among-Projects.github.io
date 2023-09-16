@@ -474,3 +474,6 @@ List of Backgrounds / 图片列表:
 |2023-09-16|1655828|美人卷珠帘，深坐颦蛾眉。|[图片链接](./backgrounds_no_countdown/1655828.jpg)|workflow_dispatch|
 |2023-09-16|333525|你还欠我一句对不起，可我不会再说没关系了。|[图片链接](./backgrounds_no_countdown/333525.jpg)|workflow_dispatch|
 |2023-09-16|301387|生命在于折腾，生命不息，折腾不止|[图片链接](./backgrounds_no_countdown/301387.jpg)|workflow_dispatch|
+|2023-09-16|2422265|为难当前，唯有责任。|[图片链接](./backgrounds_no_countdown/2422265.jpg)|schedule|
+|2023-09-16|414659|相逢一醉是前缘，风雨散、飘然何处。|[图片链接](./backgrounds_no_countdown/414659.jpg)|schedule|
+|2023-09-16|1252890|我也晓得过苦楚，却无人渡我回家。|[图片链接](./backgrounds_no_countdown/1252890.jpg)|schedule|
