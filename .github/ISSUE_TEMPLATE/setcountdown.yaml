@@ -1,0 +1,12 @@
+name: Set Count Down
+description: reeeee
+title: "SETCountDown[YEAR]|[MONTH]|[DAY]"
+body:
+  - type: input
+    id: countdown
+    attributes:
+      label: CountDown
+      description: Count Down Ends at
+      placeholder: ex. 2025|6|5
+    validations:
+      required: false

@@ -1,0 +1,43 @@
+name: Quote of Day Generator
+on: 
+  push:
+    paths:
+      - "apps/qod/**"
+  workflow_dispatch:
+  schedule:
+    - cron: '30 20 * * *'
+jobs:
+  generate_qod:
+    name: Generate QoD
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Python Environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          architecture: x64
+      - name: Install Libraries
+        run: |
+          pip install -r apps/qod/requirements.txt
+          mkdir cache
+          wget -O cache/smiley-sans.zip https://github.com/atelier-anchor/smiley-sans/releases/download/v1.1.1/smiley-sans-v1.1.1.zip
+          wget -O cache/pexels_logo.png --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "https://images.pexels.com/lib/api/pexels-white.png"
+          unzip cache/smiley-sans.zip -d cache
+      - name: Generate QoD
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          python apps/qod/main.py
+      - name: Commit Changes
+        run: |
+          git config user.name woshishabii
+          git config user.email 3488229708@qq.com
+          git add .
+          git commit -m "QoD Generator: `date "+%Y-%m-%d %H:%M:%S UTC%:z"`" || true
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

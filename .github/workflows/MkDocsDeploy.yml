@@ -1,0 +1,29 @@
+name: MkDocs Deploy
+on: 
+  push:
+   paths-ignore:
+     - "**.py"
+  pull_request:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Quote of Day Generator", "Background Generator"]
+    types: [completed]
+
+jobs:
+  build:
+    name: Build MkDocs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install MkDocs
+        run: pip install mkdocs-material
+      - name: Build Project
+        run: mkdocs build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

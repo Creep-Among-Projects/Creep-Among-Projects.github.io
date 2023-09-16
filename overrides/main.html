@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block announce %}
+<p id="hitokoto">
+    <a href="#" id="hitokoto_text">:D 获取中...</a>
+</p>
+
+<script src="https://v1.hitokoto.cn/?c=l&encode=js&select=%23hitokoto" defer></script>
+{% endblock %}
+
+{% block styles %}
+{{ super() }}
+<style>
+    img[alt="Pexels"] {
+        height: 50px;
+    }
+
+    img[alt="Hitokoto"] {
+        height: 50px;
+    }
+
+    img[alt="Github Pages"] {
+        height: 50px;
+    }
+
+    img[alt="Smiley Sans"] {
+        height: 50px;
+    }
+    
+    img[alt="Netlify"] {
+        height: 50px;
+    }
+    
+    img[alt="Cloudflare Pages"] {
+        height: 50px;
+    }
+</style>
+{% endblock %}

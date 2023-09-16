@@ -1,0 +1,12 @@
+name: Set Hitokoto
+description: reeeee
+title: "SETHitokoto[CONTENT]"
+body:
+  - type: input
+    id: countdown
+    attributes:
+      label: Hitokoto
+      description: Hitokoto
+      placeholder: ex. 真正的优秀不是别人逼出来的，而是自己和自己死磕。——《真正的优秀，都是自找的》
+    validations:
+      required: false

@@ -1,0 +1,28 @@
+site_name: CreepAmongProjects
+theme:
+  name: material
+  custom_dir: overrides
+nav:
+  - Home: index.md
+  - QoD: qod.md
+  - Backgrounds: background.md
+  - BackgroundsNoCD: background_no_cd.md
+  - 挂人: hang.md
+  - 挂文件: share.md
+  - About: about.md
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
