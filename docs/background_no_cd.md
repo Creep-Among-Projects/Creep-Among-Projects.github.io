@@ -477,3 +477,6 @@ List of Backgrounds / 图片列表:
 |2023-09-16|2422265|为难当前，唯有责任。|[图片链接](./backgrounds_no_countdown/2422265.jpg)|schedule|
 |2023-09-16|414659|相逢一醉是前缘，风雨散、飘然何处。|[图片链接](./backgrounds_no_countdown/414659.jpg)|schedule|
 |2023-09-16|1252890|我也晓得过苦楚，却无人渡我回家。|[图片链接](./backgrounds_no_countdown/1252890.jpg)|schedule|
+|2023-09-17|2196602|金风玉露一相逢，便胜却人间无数。|[图片链接](./backgrounds_no_countdown/2196602.jpg)|schedule|
+|2023-09-17|33688|酒逢知己千杯少，话不投机半句多。|[图片链接](./backgrounds_no_countdown/33688.jpg)|schedule|
+|2023-09-17|1743400|凡心所向，素履可往，生如逆旅，一苇以航。|[图片链接](./backgrounds_no_countdown/1743400.jpg)|schedule|
