@@ -504,3 +504,6 @@ List of Backgrounds / 图片列表:
 |2023-09-21|2904142|夏天重要的事不过一二：能够静静吹风，可以好好吃饭。|[图片链接](./backgrounds_no_countdown/2904142.jpg)|schedule|
 |2023-09-21|2088211|自古逢秋悲寂寥，我言秋日胜春朝。|[图片链接](./backgrounds_no_countdown/2088211.jpg)|schedule|
 |2023-09-21|110873|我的每一个动作都有你的印记|[图片链接](./backgrounds_no_countdown/110873.jpg)|schedule|
+|2023-09-21|3227984|物是旧时物，人非旧时人。|[图片链接](./backgrounds_no_countdown/3227984.jpg)|workflow_dispatch|
+|2023-09-21|2470655|没有激流就称不上勇进，没有山峰就谈不上攀登。|[图片链接](./backgrounds_no_countdown/2470655.jpg)|workflow_dispatch|
+|2023-09-21|2627945|心中是寂然的轰鸣，像是某种巨大的坍塌。|[图片链接](./backgrounds_no_countdown/2627945.jpg)|workflow_dispatch|
