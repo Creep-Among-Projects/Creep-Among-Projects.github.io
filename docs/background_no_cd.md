@@ -501,3 +501,6 @@ List of Backgrounds / 图片列表:
 |2023-09-20|2085998|来源于噩梦，却是迷人的。|[图片链接](./backgrounds_no_countdown/2085998.jpg)|schedule|
 |2023-09-20|1048283|忽见陌头杨柳色，悔教夫婿觅封侯。|[图片链接](./backgrounds_no_countdown/1048283.jpg)|schedule|
 |2023-09-20|573238|你很朴实＝你可以无偿为我工作而且不抱怨。|[图片链接](./backgrounds_no_countdown/573238.jpg)|schedule|
+|2023-09-21|2904142|夏天重要的事不过一二：能够静静吹风，可以好好吃饭。|[图片链接](./backgrounds_no_countdown/2904142.jpg)|schedule|
+|2023-09-21|2088211|自古逢秋悲寂寥，我言秋日胜春朝。|[图片链接](./backgrounds_no_countdown/2088211.jpg)|schedule|
+|2023-09-21|110873|我的每一个动作都有你的印记|[图片链接](./backgrounds_no_countdown/110873.jpg)|schedule|
