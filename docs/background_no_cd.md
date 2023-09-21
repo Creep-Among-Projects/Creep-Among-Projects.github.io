@@ -510,3 +510,6 @@ List of Backgrounds / 图片列表:
 |2023-09-21|3560044|天生我材必有用，千金散尽还复来。|[图片链接](./backgrounds_no_countdown/3560044.jpg)|schedule|
 |2023-09-21|783944|举杯邀明月，对影成三人。|[图片链接](./backgrounds_no_countdown/783944.jpg)|schedule|
 |2023-09-21|896673|有家,有爱,有欧派|[图片链接](./backgrounds_no_countdown/896673.jpg)|schedule|
+|2023-09-22|4737484|问君能有几多愁？恰似一江春水向东流。|[图片链接](./backgrounds_no_countdown/4737484.jpg)|schedule|
+|2023-09-22|3472690|谁葬我于故土之上兮！|[图片链接](./backgrounds_no_countdown/3472690.jpg)|schedule|
+|2023-09-22|4601807|如果能摸摸我的头的话，我会很高兴的！|[图片链接](./backgrounds_no_countdown/4601807.jpg)|schedule|
