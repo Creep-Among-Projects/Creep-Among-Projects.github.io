@@ -1124,3 +1124,6 @@ List of Backgrounds / 图片列表:
 |2023-09-21|3227984|物是旧时物，人非旧时人。|[图片链接](./backgrounds/3227984.jpg)|workflow_dispatch|
 |2023-09-21|2470655|没有激流就称不上勇进，没有山峰就谈不上攀登。|[图片链接](./backgrounds/2470655.jpg)|workflow_dispatch|
 |2023-09-21|2627945|心中是寂然的轰鸣，像是某种巨大的坍塌。|[图片链接](./backgrounds/2627945.jpg)|workflow_dispatch|
+|2023-09-21|3560044|天生我材必有用，千金散尽还复来。|[图片链接](./backgrounds/3560044.jpg)|schedule|
+|2023-09-21|783944|举杯邀明月，对影成三人。|[图片链接](./backgrounds/783944.jpg)|schedule|
+|2023-09-21|896673|有家,有爱,有欧派|[图片链接](./backgrounds/896673.jpg)|schedule|
