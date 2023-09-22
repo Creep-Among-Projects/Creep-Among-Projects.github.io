@@ -513,3 +513,6 @@ List of Backgrounds / 图片列表:
 |2023-09-22|4737484|问君能有几多愁？恰似一江春水向东流。|[图片链接](./backgrounds_no_countdown/4737484.jpg)|schedule|
 |2023-09-22|3472690|谁葬我于故土之上兮！|[图片链接](./backgrounds_no_countdown/3472690.jpg)|schedule|
 |2023-09-22|4601807|如果能摸摸我的头的话，我会很高兴的！|[图片链接](./backgrounds_no_countdown/4601807.jpg)|schedule|
+|2023-09-22|1605148|今日欢呼孙大圣，只缘妖雾又重来。|[图片链接](./backgrounds_no_countdown/1605148.jpg)|schedule|
+|2023-09-22|2849133|你可不是什么普通女孩，你是我的女孩。|[图片链接](./backgrounds_no_countdown/2849133.jpg)|schedule|
+|2023-09-22|3584430|红豆生南国，春来发几枝。|[图片链接](./backgrounds_no_countdown/3584430.jpg)|schedule|
