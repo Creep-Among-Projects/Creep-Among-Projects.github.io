@@ -516,3 +516,6 @@ List of Backgrounds / 图片列表:
 |2023-09-22|1605148|今日欢呼孙大圣，只缘妖雾又重来。|[图片链接](./backgrounds_no_countdown/1605148.jpg)|schedule|
 |2023-09-22|2849133|你可不是什么普通女孩，你是我的女孩。|[图片链接](./backgrounds_no_countdown/2849133.jpg)|schedule|
 |2023-09-22|3584430|红豆生南国，春来发几枝。|[图片链接](./backgrounds_no_countdown/3584430.jpg)|schedule|
+|2023-09-23|5677459|山风拂面；如山在呢喃，而少年无言。|[图片链接](./backgrounds_no_countdown/5677459.jpg)|schedule|
+|2023-09-23|5212582|听闻晚风将玫瑰碾碎，在嗫嚅的世俗里，万物生长。|[图片链接](./backgrounds_no_countdown/5212582.jpg)|schedule|
+|2023-09-23|4577838|这一切，暗无天日。|[图片链接](./backgrounds_no_countdown/4577838.jpg)|schedule|
