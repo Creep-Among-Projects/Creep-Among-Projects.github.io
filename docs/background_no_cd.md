@@ -528,3 +528,6 @@ List of Backgrounds / 图片列表:
 |2023-09-24|5402181|命运负责洗牌和发牌，而我们只能出牌。|[图片链接](./backgrounds_no_countdown/5402181.jpg)|schedule|
 |2023-09-24|4516067|人在年轻时，不该遇到太惊艳的人。|[图片链接](./backgrounds_no_countdown/4516067.jpg)|schedule|
 |2023-09-24|325117|没有调查就没有发言权。|[图片链接](./backgrounds_no_countdown/325117.jpg)|schedule|
+|2023-09-25|159020|成年人的世界没有容易二字。|[图片链接](./backgrounds_no_countdown/159020.jpg)|schedule|
+|2023-09-25|133953|公民们，庇护所即将关闭，感谢所有人，再见。|[图片链接](./backgrounds_no_countdown/133953.jpg)|schedule|
+|2023-09-25|1819650|想留的人却总难留，想说的话都到嘴边。|[图片链接](./backgrounds_no_countdown/1819650.jpg)|schedule|
