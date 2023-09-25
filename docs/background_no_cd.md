@@ -534,3 +534,6 @@ List of Backgrounds / 图片列表:
 |2023-09-25|2088203|一切已失去，不可以再追。|[图片链接](./backgrounds_no_countdown/2088203.jpg)|schedule|
 |2023-09-25|2310713|所有的结局亦是开端，我们只是当时不知道而已。|[图片链接](./backgrounds_no_countdown/2310713.jpg)|schedule|
 |2023-09-25|1486974|其实很多人都没去过自己家乡的景点，别问好不好玩了。|[图片链接](./backgrounds_no_countdown/1486974.jpg)|schedule|
+|2023-09-26|1693095|笑得甜的女人，将来的运气都不会太坏。|[图片链接](./backgrounds_no_countdown/1693095.jpg)|schedule|
+|2023-09-26|2361997|死去的人不需要花。被花所拯救的是留下来的人。|[图片链接](./backgrounds_no_countdown/2361997.jpg)|schedule|
+|2023-09-26|2344227|现在的魏无羡，离开了蓝忘机就不行。|[图片链接](./backgrounds_no_countdown/2344227.jpg)|schedule|
