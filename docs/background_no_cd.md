@@ -531,3 +531,6 @@ List of Backgrounds / 图片列表:
 |2023-09-25|159020|成年人的世界没有容易二字。|[图片链接](./backgrounds_no_countdown/159020.jpg)|schedule|
 |2023-09-25|133953|公民们，庇护所即将关闭，感谢所有人，再见。|[图片链接](./backgrounds_no_countdown/133953.jpg)|schedule|
 |2023-09-25|1819650|想留的人却总难留，想说的话都到嘴边。|[图片链接](./backgrounds_no_countdown/1819650.jpg)|schedule|
+|2023-09-25|2088203|一切已失去，不可以再追。|[图片链接](./backgrounds_no_countdown/2088203.jpg)|schedule|
+|2023-09-25|2310713|所有的结局亦是开端，我们只是当时不知道而已。|[图片链接](./backgrounds_no_countdown/2310713.jpg)|schedule|
+|2023-09-25|1486974|其实很多人都没去过自己家乡的景点，别问好不好玩了。|[图片链接](./backgrounds_no_countdown/1486974.jpg)|schedule|
