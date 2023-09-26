@@ -1157,3 +1157,6 @@ List of Backgrounds / 图片列表:
 |2023-09-26|136699|我没有梦想，但我可以守护别人的梦想！|[图片链接](./backgrounds/136699.jpg)|schedule|
 |2023-09-26|2113554|虽然我和他已十年不见，但我知道我会永远怀念他。|[图片链接](./backgrounds/2113554.jpg)|schedule|
 |2023-09-26|1465904|You complete me !|[图片链接](./backgrounds/1465904.jpg)|schedule|
+|2023-09-27|2038832|时间是存在者的时间。|[图片链接](./backgrounds/2038832.jpg)|schedule|
+|2023-09-27|2310648|我也想要成为那种可以给别人带去幸福的人。|[图片链接](./backgrounds/2310648.jpg)|schedule|
+|2023-09-27|773294|这两个过早的品尝了人世沧桑的孩子一见如故。|[图片链接](./backgrounds/773294.jpg)|schedule|
