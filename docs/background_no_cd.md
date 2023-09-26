@@ -537,3 +537,6 @@ List of Backgrounds / 图片列表:
 |2023-09-26|1693095|笑得甜的女人，将来的运气都不会太坏。|[图片链接](./backgrounds_no_countdown/1693095.jpg)|schedule|
 |2023-09-26|2361997|死去的人不需要花。被花所拯救的是留下来的人。|[图片链接](./backgrounds_no_countdown/2361997.jpg)|schedule|
 |2023-09-26|2344227|现在的魏无羡，离开了蓝忘机就不行。|[图片链接](./backgrounds_no_countdown/2344227.jpg)|schedule|
+|2023-09-26|136699|我没有梦想，但我可以守护别人的梦想！|[图片链接](./backgrounds_no_countdown/136699.jpg)|schedule|
+|2023-09-26|2113554|虽然我和他已十年不见，但我知道我会永远怀念他。|[图片链接](./backgrounds_no_countdown/2113554.jpg)|schedule|
+|2023-09-26|1465904|You complete me !|[图片链接](./backgrounds_no_countdown/1465904.jpg)|schedule|
