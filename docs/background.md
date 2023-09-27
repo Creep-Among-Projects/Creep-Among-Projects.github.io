@@ -1160,3 +1160,6 @@ List of Backgrounds / 图片列表:
 |2023-09-27|2038832|时间是存在者的时间。|[图片链接](./backgrounds/2038832.jpg)|schedule|
 |2023-09-27|2310648|我也想要成为那种可以给别人带去幸福的人。|[图片链接](./backgrounds/2310648.jpg)|schedule|
 |2023-09-27|773294|这两个过早的品尝了人世沧桑的孩子一见如故。|[图片链接](./backgrounds/773294.jpg)|schedule|
+|2023-09-27|2559484|I'm nothing without you.|[图片链接](./backgrounds/2559484.jpg)|schedule|
+|2023-09-27|4014853|服下红色药丸吧，那是自由的象征。|[图片链接](./backgrounds/4014853.jpg)|schedule|
+|2023-09-27|3733925|人的痛苦会把自己折磨到多深呢？|[图片链接](./backgrounds/3733925.jpg)|schedule|
