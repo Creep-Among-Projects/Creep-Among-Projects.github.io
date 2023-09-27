@@ -1163,3 +1163,6 @@ List of Backgrounds / 图片列表:
 |2023-09-27|2559484|I'm nothing without you.|[图片链接](./backgrounds/2559484.jpg)|schedule|
 |2023-09-27|4014853|服下红色药丸吧，那是自由的象征。|[图片链接](./backgrounds/4014853.jpg)|schedule|
 |2023-09-27|3733925|人的痛苦会把自己折磨到多深呢？|[图片链接](./backgrounds/3733925.jpg)|schedule|
+|2023-09-28|3657143|胜日寻芳泗水滨，无边光景一时新。|[图片链接](./backgrounds/3657143.jpg)|schedule|
+|2023-09-28|4124167|忘掉拥有过的花，去种有结果的树。|[图片链接](./backgrounds/4124167.jpg)|schedule|
+|2023-09-28|3374334|往昔红颜梦，今朝朦胧泪。|[图片链接](./backgrounds/3374334.jpg)|schedule|
