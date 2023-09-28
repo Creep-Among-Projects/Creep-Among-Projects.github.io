@@ -552,3 +552,6 @@ List of Backgrounds / 图片列表:
 |2023-09-28|2948636|我们所爱之物昭示着我们究竟是谁。|[图片链接](./backgrounds_no_countdown/2948636.jpg)|schedule|
 |2023-09-28|1449638|当君怀归日，是妾断肠时。|[图片链接](./backgrounds_no_countdown/1449638.jpg)|schedule|
 |2023-09-28|5708064|希望你今后的每一次笑，都是真心的。|[图片链接](./backgrounds_no_countdown/5708064.jpg)|schedule|
+|2023-09-29|6331085|就算路不坦荡也要做自己的太阳。|[图片链接](./backgrounds_no_countdown/6331085.jpg)|schedule|
+|2023-09-29|6825703|任何一件事都具有两面性。|[图片链接](./backgrounds_no_countdown/6825703.jpg)|schedule|
+|2023-09-29|4603529|有一个捉迷藏社团，他们团长现在还没找到。|[图片链接](./backgrounds_no_countdown/4603529.jpg)|schedule|
