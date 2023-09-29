@@ -555,3 +555,6 @@ List of Backgrounds / 图片列表:
 |2023-09-29|6331085|就算路不坦荡也要做自己的太阳。|[图片链接](./backgrounds_no_countdown/6331085.jpg)|schedule|
 |2023-09-29|6825703|任何一件事都具有两面性。|[图片链接](./backgrounds_no_countdown/6825703.jpg)|schedule|
 |2023-09-29|4603529|有一个捉迷藏社团，他们团长现在还没找到。|[图片链接](./backgrounds_no_countdown/4603529.jpg)|schedule|
+|2023-09-29|7093148|如果你能在浪费时间中获得乐趣，就不算浪费时间。|[图片链接](./backgrounds_no_countdown/7093148.jpg)|schedule|
+|2023-09-29|7647583|世界上有太多孤独的人害怕先踏出第一步。|[图片链接](./backgrounds_no_countdown/7647583.jpg)|schedule|
+|2023-09-29|10042038|窈窕淑女，君子好逑。|[图片链接](./backgrounds_no_countdown/10042038.jpg)|schedule|
