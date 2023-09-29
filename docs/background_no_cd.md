@@ -558,3 +558,6 @@ List of Backgrounds / 图片列表:
 |2023-09-29|7093148|如果你能在浪费时间中获得乐趣，就不算浪费时间。|[图片链接](./backgrounds_no_countdown/7093148.jpg)|schedule|
 |2023-09-29|7647583|世界上有太多孤独的人害怕先踏出第一步。|[图片链接](./backgrounds_no_countdown/7647583.jpg)|schedule|
 |2023-09-29|10042038|窈窕淑女，君子好逑。|[图片链接](./backgrounds_no_countdown/10042038.jpg)|schedule|
+|2023-09-30|15483332|天欲使其灭亡，必先使其疯狂。|[图片链接](./backgrounds_no_countdown/15483332.jpg)|schedule|
+|2023-09-30|6107989|无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。|[图片链接](./backgrounds_no_countdown/6107989.jpg)|schedule|
+|2023-09-30|844297|我懂规则，爱了就逃。|[图片链接](./backgrounds_no_countdown/844297.jpg)|schedule|
