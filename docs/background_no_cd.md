@@ -564,3 +564,6 @@ List of Backgrounds / 图片列表:
 |2023-09-30|3783385|远离亲人，我很遗憾，但这是我不得不做的事情。|[图片链接](./backgrounds_no_countdown/3783385.jpg)|schedule|
 |2023-09-30|2531709|亲近你的朋友，但更要亲近你的敌人。|[图片链接](./backgrounds_no_countdown/2531709.jpg)|schedule|
 |2023-09-30|1254736|就算是堕落浪子，也能力挽狂澜。|[图片链接](./backgrounds_no_countdown/1254736.jpg)|schedule|
+|2023-10-01|3289880|远赴人间惊鸿宴，一睹大唐盛世颜。|[图片链接](./backgrounds_no_countdown/3289880.jpg)|schedule|
+|2023-10-01|2775196|满堂花醉三千客，一剑霜寒十四州。|[图片链接](./backgrounds_no_countdown/2775196.jpg)|schedule|
+|2023-10-01|1461441|人最怕的是发现了自己想要的东西。|[图片链接](./backgrounds_no_countdown/1461441.jpg)|schedule|
