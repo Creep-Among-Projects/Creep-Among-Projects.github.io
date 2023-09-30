@@ -561,3 +561,6 @@ List of Backgrounds / 图片列表:
 |2023-09-30|15483332|天欲使其灭亡，必先使其疯狂。|[图片链接](./backgrounds_no_countdown/15483332.jpg)|schedule|
 |2023-09-30|6107989|无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。|[图片链接](./backgrounds_no_countdown/6107989.jpg)|schedule|
 |2023-09-30|844297|我懂规则，爱了就逃。|[图片链接](./backgrounds_no_countdown/844297.jpg)|schedule|
+|2023-09-30|3783385|远离亲人，我很遗憾，但这是我不得不做的事情。|[图片链接](./backgrounds_no_countdown/3783385.jpg)|schedule|
+|2023-09-30|2531709|亲近你的朋友，但更要亲近你的敌人。|[图片链接](./backgrounds_no_countdown/2531709.jpg)|schedule|
+|2023-09-30|1254736|就算是堕落浪子，也能力挽狂澜。|[图片链接](./backgrounds_no_countdown/1254736.jpg)|schedule|
