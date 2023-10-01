@@ -570,3 +570,6 @@ List of Backgrounds / 图片列表:
 |2023-10-01|2114014|千万丈的大厦总要有片奠基石，最初的爱好无可替代。|[图片链接](./backgrounds_no_countdown/2114014.jpg)|schedule|
 |2023-10-01|3889928|八方各异气，千里殊风雨。|[图片链接](./backgrounds_no_countdown/3889928.jpg)|schedule|
 |2023-10-01|3888585|我只是个路过的假面骑士。|[图片链接](./backgrounds_no_countdown/3888585.jpg)|schedule|
+|2023-10-02|1478524|我怎么会知道，这些牡蛎产自哪个海岸呢？|[图片链接](./backgrounds_no_countdown/1478524.jpg)|schedule|
+|2023-10-02|3554423|只有身处暖春，才会怕冷。|[图片链接](./backgrounds_no_countdown/3554423.jpg)|schedule|
+|2023-10-02|5326925|谎话被歌颂，扮清醒的人作哑装聋。|[图片链接](./backgrounds_no_countdown/5326925.jpg)|schedule|
