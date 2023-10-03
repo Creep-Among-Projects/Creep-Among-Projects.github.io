@@ -582,3 +582,6 @@ List of Backgrounds / 图片列表:
 |2023-10-03|2762179|宇宙是蚂蚁的梦。|[图片链接](./backgrounds_no_countdown/2762179.jpg)|schedule|
 |2023-10-03|2775541|哪一场仗不难打，越难打，就更要打。|[图片链接](./backgrounds_no_countdown/2775541.jpg)|schedule|
 |2023-10-03|1755683|高山仰行，景行行止。|[图片链接](./backgrounds_no_countdown/1755683.jpg)|schedule|
+|2023-10-04|3254753|得到了再失去，总是比从来就没有得到更伤人。|[图片链接](./backgrounds_no_countdown/3254753.jpg)|schedule|
+|2023-10-04|2775193|城南小陌又逢春，只见梅花不见人。|[图片链接](./backgrounds_no_countdown/2775193.jpg)|schedule|
+|2023-10-04|2909083|人生于我，一场豪赌而已。|[图片链接](./backgrounds_no_countdown/2909083.jpg)|schedule|
