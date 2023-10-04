@@ -588,3 +588,6 @@ List of Backgrounds / 图片列表:
 |2023-10-04|4319847|他年我若为青帝，报与桃花一处开。|[图片链接](./backgrounds_no_countdown/4319847.jpg)|schedule|
 |2023-10-04|2569471|所谓宿命，其实都是最好的安排。|[图片链接](./backgrounds_no_countdown/2569471.jpg)|schedule|
 |2023-10-04|1885795|给时光以生命，给岁月以文明。|[图片链接](./backgrounds_no_countdown/1885795.jpg)|schedule|
+|2023-10-05|1154504|日子总是往前走，人总是在变，不知道是淡忘还是适应。|[图片链接](./backgrounds_no_countdown/1154504.jpg)|schedule|
+|2023-10-05|378279|死亡不是生命的终点，遗忘才是。|[图片链接](./backgrounds_no_countdown/378279.jpg)|schedule|
+|2023-10-05|4823232|我在你看不见的地方，看了你无数次.|[图片链接](./backgrounds_no_countdown/4823232.jpg)|schedule|
