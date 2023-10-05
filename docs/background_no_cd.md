@@ -594,3 +594,6 @@ List of Backgrounds / 图片列表:
 |2023-10-05|4955064|労働者の命は何よりも大切です。|[图片链接](./backgrounds_no_countdown/4955064.jpg)|schedule|
 |2023-10-05|4577831|我只对我喜欢的人说真话，我不喜欢你。|[图片链接](./backgrounds_no_countdown/4577831.jpg)|schedule|
 |2023-10-05|3224156|不管风吹浪打，胜似闲庭信步。|[图片链接](./backgrounds_no_countdown/3224156.jpg)|schedule|
+|2023-10-06|5619657|喝他喝过的酒，受他受过的伤。|[图片链接](./backgrounds_no_countdown/5619657.jpg)|schedule|
+|2023-10-06|2086620|丢掉幻想，准备斗争。|[图片链接](./backgrounds_no_countdown/2086620.jpg)|schedule|
+|2023-10-06|3742709|此后人间应如是，天南海北不相逢。|[图片链接](./backgrounds_no_countdown/3742709.jpg)|schedule|
