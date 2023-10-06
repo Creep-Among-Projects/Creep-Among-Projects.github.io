@@ -600,3 +600,6 @@ List of Backgrounds / 图片列表:
 |2023-10-06|2093252|天涯地角有穷时，只有相思无尽处。|[图片链接](./backgrounds_no_countdown/2093252.jpg)|schedule|
 |2023-10-06|5245865|就像是一场华尔街的阴谋，透露着优雅的杀戮。|[图片链接](./backgrounds_no_countdown/5245865.jpg)|schedule|
 |2023-10-06|6348820|树梢间泻下的秋日阳光，在她肩部一闪一闪地跳跃着。|[图片链接](./backgrounds_no_countdown/6348820.jpg)|schedule|
+|2023-10-07|4381454|聪明是一种天赋，而善良是一种选择。|[图片链接](./backgrounds_no_countdown/4381454.jpg)|schedule|
+|2023-10-07|4052678|背影要显得很高大，才够真实的自己躲在自己的阴影下。|[图片链接](./backgrounds_no_countdown/4052678.jpg)|schedule|
+|2023-10-07|4853473|自责要短暂，不过要长久铭记。|[图片链接](./backgrounds_no_countdown/4853473.jpg)|schedule|
