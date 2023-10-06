@@ -597,3 +597,6 @@ List of Backgrounds / 图片列表:
 |2023-10-06|5619657|喝他喝过的酒，受他受过的伤。|[图片链接](./backgrounds_no_countdown/5619657.jpg)|schedule|
 |2023-10-06|2086620|丢掉幻想，准备斗争。|[图片链接](./backgrounds_no_countdown/2086620.jpg)|schedule|
 |2023-10-06|3742709|此后人间应如是，天南海北不相逢。|[图片链接](./backgrounds_no_countdown/3742709.jpg)|schedule|
+|2023-10-06|2093252|天涯地角有穷时，只有相思无尽处。|[图片链接](./backgrounds_no_countdown/2093252.jpg)|schedule|
+|2023-10-06|5245865|就像是一场华尔街的阴谋，透露着优雅的杀戮。|[图片链接](./backgrounds_no_countdown/5245865.jpg)|schedule|
+|2023-10-06|6348820|树梢间泻下的秋日阳光，在她肩部一闪一闪地跳跃着。|[图片链接](./backgrounds_no_countdown/6348820.jpg)|schedule|
