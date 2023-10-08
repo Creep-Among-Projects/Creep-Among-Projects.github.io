@@ -609,3 +609,6 @@ List of Backgrounds / 图片列表:
 |2023-10-08|5138883|心情已经习惯和候鸟一起迁徙只是有些仓惶而已。|[图片链接](./backgrounds_no_countdown/5138883.jpg)|schedule|
 |2023-10-08|4976595|朝阳不再盛，白日忽西幽。|[图片链接](./backgrounds_no_countdown/4976595.jpg)|schedule|
 |2023-10-08|3831772|这瓜多少钱一斤？|[图片链接](./backgrounds_no_countdown/3831772.jpg)|schedule|
+|2023-10-08|5428362|举世皆浊我独清，众人皆醉我独醒。|[图片链接](./backgrounds_no_countdown/5428362.jpg)|schedule|
+|2023-10-08|5500268|忘情不如情忘，绝念不如念绝。|[图片链接](./backgrounds_no_countdown/5500268.jpg)|schedule|
+|2023-10-08|7562783|我问风扇我丑吗，风扇摇了一晚上头。|[图片链接](./backgrounds_no_countdown/7562783.jpg)|schedule|
