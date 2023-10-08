@@ -612,3 +612,6 @@ List of Backgrounds / 图片列表:
 |2023-10-08|5428362|举世皆浊我独清，众人皆醉我独醒。|[图片链接](./backgrounds_no_countdown/5428362.jpg)|schedule|
 |2023-10-08|5500268|忘情不如情忘，绝念不如念绝。|[图片链接](./backgrounds_no_countdown/5500268.jpg)|schedule|
 |2023-10-08|7562783|我问风扇我丑吗，风扇摇了一晚上头。|[图片链接](./backgrounds_no_countdown/7562783.jpg)|schedule|
+|2023-10-09|4139312|谎言重复一千遍就成了真理。|[图片链接](./backgrounds_no_countdown/4139312.jpg)|schedule|
+|2023-10-09|4245826|哪有什么岁月静好，只是有人在替你负重前行。|[图片链接](./backgrounds_no_countdown/4245826.jpg)|schedule|
+|2023-10-09|1546464|纵使天光终将熄灭，我们也要歌颂太阳。|[图片链接](./backgrounds_no_countdown/1546464.jpg)|schedule|
