@@ -618,3 +618,6 @@ List of Backgrounds / 图片列表:
 |2023-10-09|4876362|十年生死两茫茫，不思量，自难忘。|[图片链接](./backgrounds_no_countdown/4876362.jpg)|schedule|
 |2023-10-09|5116574|没有值不值得，只有愿不愿意。|[图片链接](./backgrounds_no_countdown/5116574.jpg)|schedule|
 |2023-10-09|3874479|过去的人真笨，过去的人真难。|[图片链接](./backgrounds_no_countdown/3874479.jpg)|schedule|
+|2023-10-10|5341778|生命如同寓言，其价值不在于长短，而在于内容。|[图片链接](./backgrounds_no_countdown/5341778.jpg)|schedule|
+|2023-10-10|6662557|大漠孤烟直，长河落日圆。|[图片链接](./backgrounds_no_countdown/6662557.jpg)|schedule|
+|2023-10-10|5611198|闻君有两意，故来相决绝。|[图片链接](./backgrounds_no_countdown/5611198.jpg)|schedule|
