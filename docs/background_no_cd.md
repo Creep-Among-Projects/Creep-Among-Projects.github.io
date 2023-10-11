@@ -621,3 +621,6 @@ List of Backgrounds / 图片列表:
 |2023-10-10|5341778|生命如同寓言，其价值不在于长短，而在于内容。|[图片链接](./backgrounds_no_countdown/5341778.jpg)|schedule|
 |2023-10-10|6662557|大漠孤烟直，长河落日圆。|[图片链接](./backgrounds_no_countdown/6662557.jpg)|schedule|
 |2023-10-10|5611198|闻君有两意，故来相决绝。|[图片链接](./backgrounds_no_countdown/5611198.jpg)|schedule|
+|2023-10-11|7865008|千万生灵，唯你有权看到我脆弱。|[图片链接](./backgrounds_no_countdown/7865008.jpg)|schedule|
+|2023-10-11|158827|长阶血未尽，那是他带你回家的路。|[图片链接](./backgrounds_no_countdown/158827.jpg)|schedule|
+|2023-10-11|53594|小舟从此逝，江海寄余生。|[图片链接](./backgrounds_no_countdown/53594.jpg)|schedule|
