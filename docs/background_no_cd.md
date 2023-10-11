@@ -624,3 +624,6 @@ List of Backgrounds / 图片列表:
 |2023-10-11|7865008|千万生灵，唯你有权看到我脆弱。|[图片链接](./backgrounds_no_countdown/7865008.jpg)|schedule|
 |2023-10-11|158827|长阶血未尽，那是他带你回家的路。|[图片链接](./backgrounds_no_countdown/158827.jpg)|schedule|
 |2023-10-11|53594|小舟从此逝，江海寄余生。|[图片链接](./backgrounds_no_countdown/53594.jpg)|schedule|
+|2023-10-12|66997|行远自迩，登高自卑。|[图片链接](./backgrounds_no_countdown/66997.jpg)|schedule|
+|2023-10-12|46160|人生当苦无妨，良人当归极好。|[图片链接](./backgrounds_no_countdown/46160.jpg)|schedule|
+|2023-10-12|907485|甲之蜜糖，乙之砒霜。|[图片链接](./backgrounds_no_countdown/907485.jpg)|schedule|
