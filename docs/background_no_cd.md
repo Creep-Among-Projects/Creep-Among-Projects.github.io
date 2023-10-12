@@ -630,3 +630,6 @@ List of Backgrounds / 图片列表:
 |2023-10-12|1227513|我追索人心的深度，却看到了人心的浅薄。|[图片链接](./backgrounds_no_countdown/1227513.jpg)|schedule|
 |2023-10-12|355465|恋情未露人已知，本欲独自暗相思。|[图片链接](./backgrounds_no_countdown/355465.jpg)|schedule|
 |2023-10-12|55787|年长者最大的修养就是控制住批评年轻人的欲望。|[图片链接](./backgrounds_no_countdown/55787.jpg)|schedule|
+|2023-10-13|440731|上善若水，水善利万物而不争。|[图片链接](./backgrounds_no_countdown/440731.jpg)|schedule|
+|2023-10-13|19670|一切都将逝去，唯有死神永生。|[图片链接](./backgrounds_no_countdown/19670.jpg)|schedule|
+|2023-10-13|2043035|别的禅，我都不修。独你是我的禅，秀色可餐|[图片链接](./backgrounds_no_countdown/2043035.jpg)|schedule|
