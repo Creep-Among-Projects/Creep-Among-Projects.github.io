@@ -627,3 +627,6 @@ List of Backgrounds / 图片列表:
 |2023-10-12|66997|行远自迩，登高自卑。|[图片链接](./backgrounds_no_countdown/66997.jpg)|schedule|
 |2023-10-12|46160|人生当苦无妨，良人当归极好。|[图片链接](./backgrounds_no_countdown/46160.jpg)|schedule|
 |2023-10-12|907485|甲之蜜糖，乙之砒霜。|[图片链接](./backgrounds_no_countdown/907485.jpg)|schedule|
+|2023-10-12|1227513|我追索人心的深度，却看到了人心的浅薄。|[图片链接](./backgrounds_no_countdown/1227513.jpg)|schedule|
+|2023-10-12|355465|恋情未露人已知，本欲独自暗相思。|[图片链接](./backgrounds_no_countdown/355465.jpg)|schedule|
+|2023-10-12|55787|年长者最大的修养就是控制住批评年轻人的欲望。|[图片链接](./backgrounds_no_countdown/55787.jpg)|schedule|
