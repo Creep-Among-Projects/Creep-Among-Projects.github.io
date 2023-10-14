@@ -1259,3 +1259,6 @@ List of Backgrounds / 图片列表:
 |2023-10-14|417045|找不到路，就自己走一条出来。|[图片链接](./backgrounds/417045.jpg)|schedule|
 |2023-10-14|373394|但愿世间人无病，何愁架上药生尘。|[图片链接](./backgrounds/373394.jpg)|schedule|
 |2023-10-14|1166209|我寻了半生的春天，你一笑便是了。|[图片链接](./backgrounds/1166209.jpg)|schedule|
+|2023-10-15|258149|生而为人，我很抱歉|[图片链接](./backgrounds/258149.jpg)|schedule|
+|2023-10-15|314726|心之所愿，无所不成。|[图片链接](./backgrounds/314726.jpg)|schedule|
+|2023-10-15|116720|霜雪吹满头，也算是白首。|[图片链接](./backgrounds/116720.jpg)|schedule|
