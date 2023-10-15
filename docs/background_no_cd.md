@@ -645,3 +645,6 @@ List of Backgrounds / 图片列表:
 |2023-10-15|258149|生而为人，我很抱歉|[图片链接](./backgrounds_no_countdown/258149.jpg)|schedule|
 |2023-10-15|314726|心之所愿，无所不成。|[图片链接](./backgrounds_no_countdown/314726.jpg)|schedule|
 |2023-10-15|116720|霜雪吹满头，也算是白首。|[图片链接](./backgrounds_no_countdown/116720.jpg)|schedule|
+|2023-10-15|531756|有一种爱情，是插在心上的刀。|[图片链接](./backgrounds_no_countdown/531756.jpg)|schedule|
+|2023-10-15|96622|纱雾拨尽青天启，和泉响彻白日出。|[图片链接](./backgrounds_no_countdown/96622.jpg)|schedule|
+|2023-10-15|531767|我觉得这个世上这么多人，可是没有人想听我讲话。|[图片链接](./backgrounds_no_countdown/531767.jpg)|schedule|
