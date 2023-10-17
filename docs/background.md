@@ -1277,3 +1277,6 @@ List of Backgrounds / 图片列表:
 |2023-10-17|691901|须知少时拏云志，曾许人间第一流。|[图片链接](./backgrounds/691901.jpg)|workflow_dispatch|
 |2023-10-17|956981|亦恶亦怜薛成美，半生恶尽半生痴。|[图片链接](./backgrounds/956981.jpg)|workflow_dispatch|
 |2023-10-17|457881|闪烁的灯光是我在异世界大声地呼唤你。|[图片链接](./backgrounds/457881.jpg)|workflow_dispatch|
+|2023-10-18|813465|我们的科学永远只是找到近似真理。|[图片链接](./backgrounds/813465.jpg)|schedule|
+|2023-10-18|695657|那个篝火余烬旁的孩子，由外向乐观变得孤僻自闭了。|[图片链接](./backgrounds/695657.jpg)|schedule|
+|2023-10-18|1430675|天上剑仙三百万，见我也须尽低眉|[图片链接](./backgrounds/1430675.jpg)|schedule|
