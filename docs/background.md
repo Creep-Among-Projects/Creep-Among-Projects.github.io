@@ -1274,3 +1274,6 @@ List of Backgrounds / 图片列表:
 |2023-10-17|3934512|上帝是个无耻的老赌徒，他抛弃了我们！|[图片链接](./backgrounds/3934512.jpg)|schedule|
 |2023-10-17|158163|师者，所以传道授业解惑也。|[图片链接](./backgrounds/158163.jpg)|schedule|
 |2023-10-17|36717|每一个不曾起舞的日子，都是对生命的辜负。|[图片链接](./backgrounds/36717.jpg)|schedule|
+|2023-10-17|691901|须知少时拏云志，曾许人间第一流。|[图片链接](./backgrounds/691901.jpg)|workflow_dispatch|
+|2023-10-17|956981|亦恶亦怜薛成美，半生恶尽半生痴。|[图片链接](./backgrounds/956981.jpg)|workflow_dispatch|
+|2023-10-17|457881|闪烁的灯光是我在异世界大声地呼唤你。|[图片链接](./backgrounds/457881.jpg)|workflow_dispatch|
