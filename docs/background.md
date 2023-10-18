@@ -1289,3 +1289,6 @@ List of Backgrounds / 图片列表:
 |2023-10-19|912110|早知如此绊人心，何如当初莫相识。|[图片链接](./backgrounds/912110.jpg)|schedule|
 |2023-10-19|114979|连雨不知春去，一晴方觉夏深。|[图片链接](./backgrounds/114979.jpg)|schedule|
 |2023-10-19|631342|南朝四百八十寺，多少楼台烟雨中。|[图片链接](./backgrounds/631342.jpg)|schedule|
+|2023-10-19|1974521|相思似海深，旧事如天远。|[图片链接](./backgrounds/1974521.jpg)|workflow_dispatch|
+|2023-10-19|519411|如果你瞄准月亮，即便迷失也只是落在星河之间。|[图片链接](./backgrounds/519411.jpg)|workflow_dispatch|
+|2023-10-19|4672450|纵然变化，依然故我。|[图片链接](./backgrounds/4672450.jpg)|workflow_dispatch|
