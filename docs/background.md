@@ -1280,3 +1280,6 @@ List of Backgrounds / 图片列表:
 |2023-10-18|813465|我们的科学永远只是找到近似真理。|[图片链接](./backgrounds/813465.jpg)|schedule|
 |2023-10-18|695657|那个篝火余烬旁的孩子，由外向乐观变得孤僻自闭了。|[图片链接](./backgrounds/695657.jpg)|schedule|
 |2023-10-18|1430675|天上剑仙三百万，见我也须尽低眉|[图片链接](./backgrounds/1430675.jpg)|schedule|
+|2023-10-18|1367179|我想要山盟，你却带给我海誓。|[图片链接](./backgrounds/1367179.jpg)|workflow_dispatch|
+|2023-10-18|2088205|总有一天你会笑着说出曾经令你痛苦的事情。|[图片链接](./backgrounds/2088205.jpg)|workflow_dispatch|
+|2023-10-18|86695|鞭炮再响，可哪有我想你那么想|[图片链接](./backgrounds/86695.jpg)|workflow_dispatch|
