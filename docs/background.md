@@ -1292,3 +1292,6 @@ List of Backgrounds / 图片列表:
 |2023-10-19|1974521|相思似海深，旧事如天远。|[图片链接](./backgrounds/1974521.jpg)|workflow_dispatch|
 |2023-10-19|519411|如果你瞄准月亮，即便迷失也只是落在星河之间。|[图片链接](./backgrounds/519411.jpg)|workflow_dispatch|
 |2023-10-19|4672450|纵然变化，依然故我。|[图片链接](./backgrounds/4672450.jpg)|workflow_dispatch|
+|2023-10-19|1921336|人的一切痛苦，本质上都是对自己无能的愤怒。|[图片链接](./backgrounds/1921336.jpg)|schedule|
+|2023-10-19|158433|绿树阴浓夏日长，楼台倒影入池塘。|[图片链接](./backgrounds/158433.jpg)|schedule|
+|2023-10-19|3052361|江南可采莲，莲叶何田田。|[图片链接](./backgrounds/3052361.jpg)|schedule|
