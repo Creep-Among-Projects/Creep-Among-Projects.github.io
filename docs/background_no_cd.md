@@ -684,3 +684,6 @@ List of Backgrounds / 图片列表:
 |2023-10-20|80476|盈盈一水间，脉脉不得语。|[图片链接](./backgrounds_no_countdown/80476.jpg)|schedule|
 |2023-10-20|691668|须知政权是由枪杆子中取得的。|[图片链接](./backgrounds_no_countdown/691668.jpg)|schedule|
 |2023-10-20|2387877|我的辫子长在头上，诸君的辫子长在心里。|[图片链接](./backgrounds_no_countdown/2387877.jpg)|schedule|
+|2023-10-21|2775580|每天笑一笑对一个皇帝来说很重要，因为这有助于消化。|[图片链接](./backgrounds_no_countdown/2775580.jpg)|schedule|
+|2023-10-21|127160|博学而笃志，切问而近思。|[图片链接](./backgrounds_no_countdown/127160.jpg)|schedule|
+|2023-10-21|814449|我们生活在阴沟里，但有人依然仰望星空。|[图片链接](./backgrounds_no_countdown/814449.jpg)|schedule|
