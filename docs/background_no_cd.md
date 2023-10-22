@@ -696,3 +696,6 @@ List of Backgrounds / 图片列表:
 |2023-10-22|442597|我曾踏月而来，只因你在山中。|[图片链接](./backgrounds_no_countdown/442597.jpg)|schedule|
 |2023-10-22|169789|偶尔的停顿和修整，对于人生是非常必要的。|[图片链接](./backgrounds_no_countdown/169789.jpg)|schedule|
 |2023-10-22|531972|爱你所爱，行你所行，听从你心，无问西东。|[图片链接](./backgrounds_no_countdown/531972.jpg)|schedule|
+|2023-10-23|417122|不是天才，就要慎独。|[图片链接](./backgrounds_no_countdown/417122.jpg)|schedule|
+|2023-10-23|994605|我最喜欢你的那一年，那将是我永远不会再有的十八岁。|[图片链接](./backgrounds_no_countdown/994605.jpg)|schedule|
+|2023-10-23|1287142|凡人皆有一死，凡人皆需供奉。|[图片链接](./backgrounds_no_countdown/1287142.jpg)|schedule|
