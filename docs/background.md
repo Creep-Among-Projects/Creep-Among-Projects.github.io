@@ -1319,3 +1319,6 @@ List of Backgrounds / 图片列表:
 |2023-10-23|416920|行百里者半九十。|[图片链接](./backgrounds/416920.jpg)|schedule|
 |2023-10-23|447329|还君明珠双泪垂，恨不相逢未嫁时。|[图片链接](./backgrounds/447329.jpg)|schedule|
 |2023-10-23|2531237|凡事都有偶然的凑巧，结果却又如宿命的必然。|[图片链接](./backgrounds/2531237.jpg)|schedule|
+|2023-10-24|1154619|如果你执意追逐我的幻影，迟早会被真正的我打败。|[图片链接](./backgrounds/1154619.jpg)|workflow_dispatch|
+|2023-10-24|53153|黎明之前总有一段时间特别黑。|[图片链接](./backgrounds/53153.jpg)|workflow_dispatch|
+|2023-10-24|1033729|有什么胜利可言，挺住意味着一切。|[图片链接](./backgrounds/1033729.jpg)|workflow_dispatch|
