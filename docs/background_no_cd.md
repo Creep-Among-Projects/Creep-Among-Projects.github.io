@@ -708,3 +708,6 @@ List of Backgrounds / 图片列表:
 |2023-10-24|462023|你心中无爱，怎会懂珍惜二字。|[图片链接](./backgrounds_no_countdown/462023.jpg)|schedule|
 |2023-10-24|97558|你欺他眼盲，骗得他好苦！|[图片链接](./backgrounds_no_countdown/97558.jpg)|schedule|
 |2023-10-24|1262302|以有涯随无涯，殆已！已而为知者，殆而已矣！|[图片链接](./backgrounds_no_countdown/1262302.jpg)|schedule|
+|2023-10-25|982673|总有一些东西，要用消失来证明珍贵。|[图片链接](./backgrounds_no_countdown/982673.jpg)|push|
+|2023-10-25|163255|春赏百花秋望月，夏沐凉风冬听雪。|[图片链接](./backgrounds_no_countdown/163255.jpg)|push|
+|2023-10-25|388415|爱情不是一个拼图，是一个圆碰到另一个圆。|[图片链接](./backgrounds_no_countdown/388415.jpg)|push|
