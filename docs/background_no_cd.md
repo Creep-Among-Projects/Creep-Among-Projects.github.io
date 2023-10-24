@@ -705,3 +705,6 @@ List of Backgrounds / 图片列表:
 |2023-10-24|1154619|如果你执意追逐我的幻影，迟早会被真正的我打败。|[图片链接](./backgrounds_no_countdown/1154619.jpg)|workflow_dispatch|
 |2023-10-24|53153|黎明之前总有一段时间特别黑。|[图片链接](./backgrounds_no_countdown/53153.jpg)|workflow_dispatch|
 |2023-10-24|1033729|有什么胜利可言，挺住意味着一切。|[图片链接](./backgrounds_no_countdown/1033729.jpg)|workflow_dispatch|
+|2023-10-24|462023|你心中无爱，怎会懂珍惜二字。|[图片链接](./backgrounds_no_countdown/462023.jpg)|schedule|
+|2023-10-24|97558|你欺他眼盲，骗得他好苦！|[图片链接](./backgrounds_no_countdown/97558.jpg)|schedule|
+|2023-10-24|1262302|以有涯随无涯，殆已！已而为知者，殆而已矣！|[图片链接](./backgrounds_no_countdown/1262302.jpg)|schedule|
