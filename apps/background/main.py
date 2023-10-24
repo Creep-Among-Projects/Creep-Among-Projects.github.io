@@ -243,7 +243,7 @@ if not str(ISSUE_TITLE).startswith('SETHitokoto'):
     
     while True:
         hitokoto_result = requests.get(HITOKOTO_URL, headers=GENERAL_HEADERS).json()
-        if session.query(Quotes).filter_by(hitokoto=hitokoto_result['hitokoto']).all():
+        if session.query(Quotes).filter_by(ID=hitokoto_result['id']).all():
             time.sleep(0.5)
             continue
         print('Quote\t:', hitokoto_result['hitokoto'])
