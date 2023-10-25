@@ -1334,3 +1334,6 @@ List of Backgrounds / 图片列表:
 |2023-10-26|436383|想要更多的力量，去爱这个世界。|[图片链接](./backgrounds/436383.jpg)|schedule|
 |2023-10-26|1320674|生在此侧，死在彼侧。我在此侧，不在彼侧。|[图片链接](./backgrounds/1320674.jpg)|schedule|
 |2023-10-26|1029618|只有坦然接受命运的不公，才能安然享受生命的平等。|[图片链接](./backgrounds/1029618.jpg)|schedule|
+|2023-10-26|1424337|且视他人之疑目如盏盏鬼火，大胆地去你的夜路。|[图片链接](./backgrounds/1424337.jpg)|workflow_dispatch|
+|2023-10-26|1631678|这个房间里只有一个人和一个人，而非两个人，不是吗？|[图片链接](./backgrounds/1631678.jpg)|workflow_dispatch|
+|2023-10-26|1806766|山有木兮木有枝，心悦君兮君不知。|[图片链接](./backgrounds/1806766.jpg)|workflow_dispatch|
