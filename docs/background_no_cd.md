@@ -711,3 +711,6 @@ List of Backgrounds / 图片列表:
 |2023-10-25|982673|总有一些东西，要用消失来证明珍贵。|[图片链接](./backgrounds_no_countdown/982673.jpg)|push|
 |2023-10-25|163255|春赏百花秋望月，夏沐凉风冬听雪。|[图片链接](./backgrounds_no_countdown/163255.jpg)|push|
 |2023-10-25|388415|爱情不是一个拼图，是一个圆碰到另一个圆。|[图片链接](./backgrounds_no_countdown/388415.jpg)|push|
+|2023-10-25|2090646|有思想，也有忧伤和理想，这才是生活。|[图片链接](./backgrounds_no_countdown/2090646.jpg)|schedule|
+|2023-10-25|2674062|好好学习，天天向上。|[图片链接](./backgrounds_no_countdown/2674062.jpg)|schedule|
+|2023-10-25|60013|你是我羽翼下的风。|[图片链接](./backgrounds_no_countdown/60013.jpg)|schedule|
