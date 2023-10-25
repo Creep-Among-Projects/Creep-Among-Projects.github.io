@@ -714,3 +714,6 @@ List of Backgrounds / 图片列表:
 |2023-10-25|2090646|有思想，也有忧伤和理想，这才是生活。|[图片链接](./backgrounds_no_countdown/2090646.jpg)|schedule|
 |2023-10-25|2674062|好好学习，天天向上。|[图片链接](./backgrounds_no_countdown/2674062.jpg)|schedule|
 |2023-10-25|60013|你是我羽翼下的风。|[图片链接](./backgrounds_no_countdown/60013.jpg)|schedule|
+|2023-10-26|436383|想要更多的力量，去爱这个世界。|[图片链接](./backgrounds_no_countdown/436383.jpg)|schedule|
+|2023-10-26|1320674|生在此侧，死在彼侧。我在此侧，不在彼侧。|[图片链接](./backgrounds_no_countdown/1320674.jpg)|schedule|
+|2023-10-26|1029618|只有坦然接受命运的不公，才能安然享受生命的平等。|[图片链接](./backgrounds_no_countdown/1029618.jpg)|schedule|
