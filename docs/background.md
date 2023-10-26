@@ -1337,3 +1337,6 @@ List of Backgrounds / 图片列表:
 |2023-10-26|1424337|且视他人之疑目如盏盏鬼火，大胆地去你的夜路。|[图片链接](./backgrounds/1424337.jpg)|workflow_dispatch|
 |2023-10-26|1631678|这个房间里只有一个人和一个人，而非两个人，不是吗？|[图片链接](./backgrounds/1631678.jpg)|workflow_dispatch|
 |2023-10-26|1806766|山有木兮木有枝，心悦君兮君不知。|[图片链接](./backgrounds/1806766.jpg)|workflow_dispatch|
+|2023-10-26|1123445|自然选择号，前进四。|[图片链接](./backgrounds/1123445.jpg)|schedule|
+|2023-10-26|56832|奇怪的是，当他死去，所有人才开始爱他。|[图片链接](./backgrounds/56832.jpg)|schedule|
+|2023-10-26|37728|赢了萌王，输了京介|[图片链接](./backgrounds/37728.jpg)|schedule|
