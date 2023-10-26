@@ -723,3 +723,6 @@ List of Backgrounds / 图片列表:
 |2023-10-26|1123445|自然选择号，前进四。|[图片链接](./backgrounds_no_countdown/1123445.jpg)|schedule|
 |2023-10-26|56832|奇怪的是，当他死去，所有人才开始爱他。|[图片链接](./backgrounds_no_countdown/56832.jpg)|schedule|
 |2023-10-26|37728|赢了萌王，输了京介|[图片链接](./backgrounds_no_countdown/37728.jpg)|schedule|
+|2023-10-27|1367180|一个细胞里，却分裂出了两种截然不同的命运。|[图片链接](./backgrounds_no_countdown/1367180.jpg)|schedule|
+|2023-10-27|87739|我从不猜测，那是破坏思维的坏习惯。|[图片链接](./backgrounds_no_countdown/87739.jpg)|schedule|
+|2023-10-27|417063|莫等闲，白了少年头，空悲切。|[图片链接](./backgrounds_no_countdown/417063.jpg)|schedule|
