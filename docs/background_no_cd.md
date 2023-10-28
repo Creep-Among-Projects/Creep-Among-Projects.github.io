@@ -732,3 +732,6 @@ List of Backgrounds / 图片列表:
 |2023-10-28|96654|相见争如不见，多情何似无情。|[图片链接](./backgrounds_no_countdown/96654.jpg)|schedule|
 |2023-10-28|575101|后代人的权利远比当代人的欲望更重要。|[图片链接](./backgrounds_no_countdown/575101.jpg)|schedule|
 |2023-10-28|1096298|叶底藏花一度，梦里踏雪几回。|[图片链接](./backgrounds_no_countdown/1096298.jpg)|schedule|
+|2023-10-28|2088210|野蛮人之间人吃人，文明人之间人骗人。|[图片链接](./backgrounds_no_countdown/2088210.jpg)|schedule|
+|2023-10-28|33545|我们执着于寻找对方缺少的品质，真是太傻了。|[图片链接](./backgrounds_no_countdown/33545.jpg)|schedule|
+|2023-10-28|572487|去年今日此门中，人面桃花相映红。|[图片链接](./backgrounds_no_countdown/572487.jpg)|schedule|
