@@ -735,3 +735,6 @@ List of Backgrounds / 图片列表:
 |2023-10-28|2088210|野蛮人之间人吃人，文明人之间人骗人。|[图片链接](./backgrounds_no_countdown/2088210.jpg)|schedule|
 |2023-10-28|33545|我们执着于寻找对方缺少的品质，真是太傻了。|[图片链接](./backgrounds_no_countdown/33545.jpg)|schedule|
 |2023-10-28|572487|去年今日此门中，人面桃花相映红。|[图片链接](./backgrounds_no_countdown/572487.jpg)|schedule|
+|2023-10-29|801885|如期待奇迹发生，那唯有不停伸手去抓紧，去把握才行。|[图片链接](./backgrounds_no_countdown/801885.jpg)|schedule|
+|2023-10-29|561463|生活百般滋味，人生需要笑对。|[图片链接](./backgrounds_no_countdown/561463.jpg)|schedule|
+|2023-10-29|3590|生活和漫画里面的那种热血还是不一样的。|[图片链接](./backgrounds_no_countdown/3590.jpg)|schedule|
