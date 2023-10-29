@@ -741,3 +741,6 @@ List of Backgrounds / 图片列表:
 |2023-10-29|244483|世间好物不坚牢，彩云易散琉璃脆。|[图片链接](./backgrounds_no_countdown/244483.jpg)|schedule|
 |2023-10-29|1025349|自身拥有越丰富，他在别人身上所能发现得到的就越少。|[图片链接](./backgrounds_no_countdown/1025349.jpg)|schedule|
 |2023-10-29|207529|大鹏一日同风起，扶摇直上九万里。|[图片链接](./backgrounds_no_countdown/207529.jpg)|schedule|
+|2023-10-30|1080876|天子坛中寻一笑，枕月云深魏无羡。|[图片链接](./backgrounds_no_countdown/1080876.jpg)|schedule|
+|2023-10-30|1257860|如果我做错了什么，对不起。|[图片链接](./backgrounds_no_countdown/1257860.jpg)|schedule|
+|2023-10-30|415368|理性的人追求的并非快乐，而只是避免痛苦。|[图片链接](./backgrounds_no_countdown/415368.jpg)|schedule|
