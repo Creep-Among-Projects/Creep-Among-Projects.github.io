@@ -744,3 +744,6 @@ List of Backgrounds / 图片列表:
 |2023-10-30|1080876|天子坛中寻一笑，枕月云深魏无羡。|[图片链接](./backgrounds_no_countdown/1080876.jpg)|schedule|
 |2023-10-30|1257860|如果我做错了什么，对不起。|[图片链接](./backgrounds_no_countdown/1257860.jpg)|schedule|
 |2023-10-30|415368|理性的人追求的并非快乐，而只是避免痛苦。|[图片链接](./backgrounds_no_countdown/415368.jpg)|schedule|
+|2023-10-30|3274903|我薛洋，晓天地，晓人心，但终究不晓星尘。|[图片链接](./backgrounds_no_countdown/3274903.jpg)|schedule|
+|2023-10-30|1001682|人生天地之间，若白驹之过隙，忽然而已。|[图片链接](./backgrounds_no_countdown/1001682.jpg)|schedule|
+|2023-10-30|1054218|挑战自我，不进则退。|[图片链接](./backgrounds_no_countdown/1054218.jpg)|schedule|
