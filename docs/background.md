@@ -1376,3 +1376,6 @@ List of Backgrounds / 图片列表:
 |2023-11-01|121646|缘起，我在人群中看你；缘灭，我看你在人群中。|[图片链接](./backgrounds/121646.jpg)|workflow_dispatch|
 |2023-11-01|105249|我见青山多妩媚，料青山见我应如是。|[图片链接](./backgrounds/105249.jpg)|workflow_dispatch|
 |2023-11-01|355810|每个人都是月亮，总有一个阴暗面，从来不让人看见。|[图片链接](./backgrounds/355810.jpg)|workflow_dispatch|
+|2023-11-01|316799|我的人生没有彩排，每天都是现场直播。|[图片链接](./backgrounds/316799.jpg)|workflow_dispatch|
+|2023-11-01|1423600|上帝不会为难头脑简单的孩子|[图片链接](./backgrounds/1423600.jpg)|workflow_dispatch|
+|2023-11-01|1738675|水的清澈，并非因为它不含杂质，而是在于懂得沉淀。|[图片链接](./backgrounds/1738675.jpg)|workflow_dispatch|
