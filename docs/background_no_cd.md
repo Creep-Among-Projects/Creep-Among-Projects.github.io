@@ -756,3 +756,6 @@ List of Backgrounds / 图片列表:
 |2023-11-01|139446|小时候词不达意，长大了言不由衷。|[图片链接](./backgrounds_no_countdown/139446.jpg)|schedule|
 |2023-11-01|693776|爱欲于人，犹如执炬，逆风而行，必有烧手之患。|[图片链接](./backgrounds_no_countdown/693776.jpg)|schedule|
 |2023-11-01|2309266|虚空，孤寂。|[图片链接](./backgrounds_no_countdown/2309266.jpg)|schedule|
+|2023-11-01|121646|缘起，我在人群中看你；缘灭，我看你在人群中。|[图片链接](./backgrounds_no_countdown/121646.jpg)|workflow_dispatch|
+|2023-11-01|105249|我见青山多妩媚，料青山见我应如是。|[图片链接](./backgrounds_no_countdown/105249.jpg)|workflow_dispatch|
+|2023-11-01|355810|每个人都是月亮，总有一个阴暗面，从来不让人看见。|[图片链接](./backgrounds_no_countdown/355810.jpg)|workflow_dispatch|
