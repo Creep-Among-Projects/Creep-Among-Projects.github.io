@@ -753,3 +753,6 @@ List of Backgrounds / 图片列表:
 |2023-10-31|259818|不为成仙，只为在这红尘中等你归来！|[图片链接](./backgrounds_no_countdown/259818.jpg)|schedule|
 |2023-10-31|620337|人红是非多，人傻当枪使。人蠢猛跟风，人笨不自知。|[图片链接](./backgrounds_no_countdown/620337.jpg)|schedule|
 |2023-10-31|36487|弱小和无知从来都不是生存的障碍，傲慢才是！！|[图片链接](./backgrounds_no_countdown/36487.jpg)|schedule|
+|2023-11-01|139446|小时候词不达意，长大了言不由衷。|[图片链接](./backgrounds_no_countdown/139446.jpg)|schedule|
+|2023-11-01|693776|爱欲于人，犹如执炬，逆风而行，必有烧手之患。|[图片链接](./backgrounds_no_countdown/693776.jpg)|schedule|
+|2023-11-01|2309266|虚空，孤寂。|[图片链接](./backgrounds_no_countdown/2309266.jpg)|schedule|
