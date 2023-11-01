@@ -768,3 +768,6 @@ List of Backgrounds / 图片列表:
 |2023-11-01|998641|你是故意找茬是不是？|[图片链接](./backgrounds_no_countdown/998641.jpg)|schedule|
 |2023-11-01|57705|不要在晚上做出任何决定。|[图片链接](./backgrounds_no_countdown/57705.jpg)|schedule|
 |2023-11-01|631477|内心湛然，则无往而不乐。|[图片链接](./backgrounds_no_countdown/631477.jpg)|schedule|
+|2023-11-02|1793525|我乃死，我乃生。我为暗，我亦为光。|[图片链接](./backgrounds_no_countdown/1793525.jpg)|schedule|
+|2023-11-02|937782|娶妻无媒毋须恨，书中有女颜如玉。|[图片链接](./backgrounds_no_countdown/937782.jpg)|schedule|
+|2023-11-02|540518|那些听不见音乐的人以为跳舞的人疯了。|[图片链接](./backgrounds_no_countdown/540518.jpg)|schedule|
