@@ -762,3 +762,6 @@ List of Backgrounds / 图片列表:
 |2023-11-01|316799|我的人生没有彩排，每天都是现场直播。|[图片链接](./backgrounds_no_countdown/316799.jpg)|workflow_dispatch|
 |2023-11-01|1423600|上帝不会为难头脑简单的孩子|[图片链接](./backgrounds_no_countdown/1423600.jpg)|workflow_dispatch|
 |2023-11-01|1738675|水的清澈，并非因为它不含杂质，而是在于懂得沉淀。|[图片链接](./backgrounds_no_countdown/1738675.jpg)|workflow_dispatch|
+|2023-11-01|122990|夕阳无限好，只是近黄昏。|[图片链接](./backgrounds_no_countdown/122990.jpg)|workflow_dispatch|
+|2023-11-01|2670898|人闲桂花落，夜静春山空。|[图片链接](./backgrounds_no_countdown/2670898.jpg)|workflow_dispatch|
+|2023-11-01|1262304|星星之火，可以燎原。|[图片链接](./backgrounds_no_countdown/1262304.jpg)|workflow_dispatch|
