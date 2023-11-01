@@ -1382,3 +1382,6 @@ List of Backgrounds / 图片列表:
 |2023-11-01|122990|夕阳无限好，只是近黄昏。|[图片链接](./backgrounds/122990.jpg)|workflow_dispatch|
 |2023-11-01|2670898|人闲桂花落，夜静春山空。|[图片链接](./backgrounds/2670898.jpg)|workflow_dispatch|
 |2023-11-01|1262304|星星之火，可以燎原。|[图片链接](./backgrounds/1262304.jpg)|workflow_dispatch|
+|2023-11-01|998641|你是故意找茬是不是？|[图片链接](./backgrounds/998641.jpg)|schedule|
+|2023-11-01|57705|不要在晚上做出任何决定。|[图片链接](./backgrounds/57705.jpg)|schedule|
+|2023-11-01|631477|内心湛然，则无往而不乐。|[图片链接](./backgrounds/631477.jpg)|schedule|
