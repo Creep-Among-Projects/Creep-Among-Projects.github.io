@@ -777,3 +777,6 @@ List of Backgrounds / 图片列表:
 |2023-11-03|2098427|愿你历尽千帆，归来仍是少年.|[图片链接](./backgrounds_no_countdown/2098427.jpg)|schedule|
 |2023-11-03|92664|青山一道同云雨，明月何曾是两乡。|[图片链接](./backgrounds_no_countdown/92664.jpg)|schedule|
 |2023-11-03|70577|你...真是本末倒置，罔顾人伦！|[图片链接](./backgrounds_no_countdown/70577.jpg)|schedule|
+|2023-11-04|1212600|见贤思齐焉，见不贤而内自省也。|[图片链接](./backgrounds_no_countdown/1212600.jpg)|schedule|
+|2023-11-04|258205|一别都门三改火，天涯踏尽红尘。|[图片链接](./backgrounds_no_countdown/258205.jpg)|schedule|
+|2023-11-04|2805156|和谐的生活离不开摸头和被摸头。|[图片链接](./backgrounds_no_countdown/2805156.jpg)|schedule|
