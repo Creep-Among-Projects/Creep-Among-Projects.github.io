@@ -774,3 +774,6 @@ List of Backgrounds / 图片列表:
 |2023-11-03|694587|生不由己，不如不生。|[图片链接](./backgrounds_no_countdown/694587.jpg)|schedule|
 |2023-11-03|127577|虽有遗憾，绝不后悔。|[图片链接](./backgrounds_no_countdown/127577.jpg)|schedule|
 |2023-11-03|746749|如果你仲记得我，就返转头啦。|[图片链接](./backgrounds_no_countdown/746749.jpg)|schedule|
+|2023-11-03|2098427|愿你历尽千帆，归来仍是少年.|[图片链接](./backgrounds_no_countdown/2098427.jpg)|schedule|
+|2023-11-03|92664|青山一道同云雨，明月何曾是两乡。|[图片链接](./backgrounds_no_countdown/92664.jpg)|schedule|
+|2023-11-03|70577|你...真是本末倒置，罔顾人伦！|[图片链接](./backgrounds_no_countdown/70577.jpg)|schedule|
