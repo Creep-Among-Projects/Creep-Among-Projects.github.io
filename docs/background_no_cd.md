@@ -783,3 +783,6 @@ List of Backgrounds / 图片列表:
 |2023-11-04|1853354|但屈指西风几时来，又不道流年暗中偷换。|[图片链接](./backgrounds_no_countdown/1853354.jpg)|schedule|
 |2023-11-04|412462|永远相信美好的事情，即将发生|[图片链接](./backgrounds_no_countdown/412462.jpg)|schedule|
 |2023-11-04|209831|远看山有色，近听水无声。|[图片链接](./backgrounds_no_countdown/209831.jpg)|schedule|
+|2023-11-05|3279307|所谓无底深渊，下去，也是前程万里。|[图片链接](./backgrounds_no_countdown/3279307.jpg)|schedule|
+|2023-11-05|924824|记得当时年纪小，你爱卖萌我爱笑。|[图片链接](./backgrounds_no_countdown/924824.jpg)|schedule|
+|2023-11-05|323705|双马尾是最好的方向盘|[图片链接](./backgrounds_no_countdown/323705.jpg)|schedule|
