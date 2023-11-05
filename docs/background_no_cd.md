@@ -786,3 +786,6 @@ List of Backgrounds / 图片列表:
 |2023-11-05|3279307|所谓无底深渊，下去，也是前程万里。|[图片链接](./backgrounds_no_countdown/3279307.jpg)|schedule|
 |2023-11-05|924824|记得当时年纪小，你爱卖萌我爱笑。|[图片链接](./backgrounds_no_countdown/924824.jpg)|schedule|
 |2023-11-05|323705|双马尾是最好的方向盘|[图片链接](./backgrounds_no_countdown/323705.jpg)|schedule|
+|2023-11-06|1660561|简童，我把肾给你，你把心给我吧。|[图片链接](./backgrounds_no_countdown/1660561.jpg)|schedule|
+|2023-11-06|2873992|人类侥幸拥有了智慧，就应该善用它。|[图片链接](./backgrounds_no_countdown/2873992.jpg)|schedule|
+|2023-11-06|3551227|金钱和女人，是人生犯错的根源。|[图片链接](./backgrounds_no_countdown/3551227.jpg)|schedule|
