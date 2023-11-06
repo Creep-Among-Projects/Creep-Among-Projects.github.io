@@ -792,3 +792,6 @@ List of Backgrounds / 图片列表:
 |2023-11-06|1048039|再凶的男孩子，绑鞋带还不是要系蝴蝶结。|[图片链接](./backgrounds_no_countdown/1048039.jpg)|schedule|
 |2023-11-06|2086748|滴不尽相思血泪抛红豆，开不完春柳春花满画楼。|[图片链接](./backgrounds_no_countdown/2086748.jpg)|schedule|
 |2023-11-06|391831|抱竹辞旧岁，好运滚滚来！|[图片链接](./backgrounds_no_countdown/391831.jpg)|schedule|
+|2023-11-07|1266810|趁天空不注意，劫持一点晚霞送给你。|[图片链接](./backgrounds_no_countdown/1266810.jpg)|schedule|
+|2023-11-07|1146134|最是人间留不住，朱颜辞镜花辞树。|[图片链接](./backgrounds_no_countdown/1146134.jpg)|schedule|
+|2023-11-07|759606|我需要一块二向箔,清理用。|[图片链接](./backgrounds_no_countdown/759606.jpg)|schedule|
