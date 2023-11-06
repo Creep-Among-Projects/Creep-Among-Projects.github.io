@@ -1412,3 +1412,6 @@ List of Backgrounds / 图片列表:
 |2023-11-07|1266810|趁天空不注意，劫持一点晚霞送给你。|[图片链接](./backgrounds/1266810.jpg)|schedule|
 |2023-11-07|1146134|最是人间留不住，朱颜辞镜花辞树。|[图片链接](./backgrounds/1146134.jpg)|schedule|
 |2023-11-07|759606|我需要一块二向箔,清理用。|[图片链接](./backgrounds/759606.jpg)|schedule|
+|2023-11-07|993022|我很累，想停下了。就让我停下吧。|[图片链接](./backgrounds/993022.jpg)|workflow_dispatch|
+|2023-11-07|2088142|若以色见我，以音声求我，是人行邪道，不能见如来。|[图片链接](./backgrounds/2088142.jpg)|workflow_dispatch|
+|2023-11-07|1136571|恐惧的话，只是因为内心不够强大|[图片链接](./backgrounds/1136571.jpg)|workflow_dispatch|
