@@ -789,3 +789,6 @@ List of Backgrounds / 图片列表:
 |2023-11-06|1660561|简童，我把肾给你，你把心给我吧。|[图片链接](./backgrounds_no_countdown/1660561.jpg)|schedule|
 |2023-11-06|2873992|人类侥幸拥有了智慧，就应该善用它。|[图片链接](./backgrounds_no_countdown/2873992.jpg)|schedule|
 |2023-11-06|3551227|金钱和女人，是人生犯错的根源。|[图片链接](./backgrounds_no_countdown/3551227.jpg)|schedule|
+|2023-11-06|1048039|再凶的男孩子，绑鞋带还不是要系蝴蝶结。|[图片链接](./backgrounds_no_countdown/1048039.jpg)|schedule|
+|2023-11-06|2086748|滴不尽相思血泪抛红豆，开不完春柳春花满画楼。|[图片链接](./backgrounds_no_countdown/2086748.jpg)|schedule|
+|2023-11-06|391831|抱竹辞旧岁，好运滚滚来！|[图片链接](./backgrounds_no_countdown/391831.jpg)|schedule|
