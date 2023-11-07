@@ -801,3 +801,6 @@ List of Backgrounds / 图片列表:
 |2023-11-07|139975|人最强大的武器，是习惯和信赖。|[图片链接](./backgrounds_no_countdown/139975.jpg)|schedule|
 |2023-11-07|3347244|想要成为无论多么悲伤的时候，也能够漂亮微笑的人吧。|[图片链接](./backgrounds_no_countdown/3347244.jpg)|schedule|
 |2023-11-07|1032650|穿山甲到底说了什么？|[图片链接](./backgrounds_no_countdown/1032650.jpg)|schedule|
+|2023-11-08|46164|你真的，不打算用自己喜欢的方式去过这一生吗？|[图片链接](./backgrounds_no_countdown/46164.jpg)|schedule|
+|2023-11-08|908644|平生不下泪，于此泣无穷。|[图片链接](./backgrounds_no_countdown/908644.jpg)|schedule|
+|2023-11-08|296234|地球只有一个，而欧派有两个。|[图片链接](./backgrounds_no_countdown/296234.jpg)|schedule|
