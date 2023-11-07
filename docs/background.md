@@ -1421,3 +1421,6 @@ List of Backgrounds / 图片列表:
 |2023-11-08|46164|你真的，不打算用自己喜欢的方式去过这一生吗？|[图片链接](./backgrounds/46164.jpg)|schedule|
 |2023-11-08|908644|平生不下泪，于此泣无穷。|[图片链接](./backgrounds/908644.jpg)|schedule|
 |2023-11-08|296234|地球只有一个，而欧派有两个。|[图片链接](./backgrounds/296234.jpg)|schedule|
+|2023-11-08|1828305|世界是一场空虚的宇宙，有时候仍像是一个梦。|[图片链接](./backgrounds/1828305.jpg)|workflow_dispatch|
+|2023-11-08|37403|要对得起你的苦难。|[图片链接](./backgrounds/37403.jpg)|workflow_dispatch|
+|2023-11-08|1144176|待到秋来九月八，我花开后百花杀。|[图片链接](./backgrounds/1144176.jpg)|workflow_dispatch|
