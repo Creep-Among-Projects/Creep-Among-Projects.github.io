@@ -1415,3 +1415,6 @@ List of Backgrounds / 图片列表:
 |2023-11-07|993022|我很累，想停下了。就让我停下吧。|[图片链接](./backgrounds/993022.jpg)|workflow_dispatch|
 |2023-11-07|2088142|若以色见我，以音声求我，是人行邪道，不能见如来。|[图片链接](./backgrounds/2088142.jpg)|workflow_dispatch|
 |2023-11-07|1136571|恐惧的话，只是因为内心不够强大|[图片链接](./backgrounds/1136571.jpg)|workflow_dispatch|
+|2023-11-07|139975|人最强大的武器，是习惯和信赖。|[图片链接](./backgrounds/139975.jpg)|schedule|
+|2023-11-07|3347244|想要成为无论多么悲伤的时候，也能够漂亮微笑的人吧。|[图片链接](./backgrounds/3347244.jpg)|schedule|
+|2023-11-07|1032650|穿山甲到底说了什么？|[图片链接](./backgrounds/1032650.jpg)|schedule|
