@@ -1424,3 +1424,6 @@ List of Backgrounds / 图片列表:
 |2023-11-08|1828305|世界是一场空虚的宇宙，有时候仍像是一个梦。|[图片链接](./backgrounds/1828305.jpg)|workflow_dispatch|
 |2023-11-08|37403|要对得起你的苦难。|[图片链接](./backgrounds/37403.jpg)|workflow_dispatch|
 |2023-11-08|1144176|待到秋来九月八，我花开后百花杀。|[图片链接](./backgrounds/1144176.jpg)|workflow_dispatch|
+|2023-11-08|207216|我们擦身而过，是为了相识或者遗忘。|[图片链接](./backgrounds/207216.jpg)|schedule|
+|2023-11-08|103553|萧萧梧叶送寒声，江上秋风动客情。|[图片链接](./backgrounds/103553.jpg)|schedule|
+|2023-11-08|666839|生当复来归，死当长相思。|[图片链接](./backgrounds/666839.jpg)|schedule|
