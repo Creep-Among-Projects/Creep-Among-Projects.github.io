@@ -810,3 +810,6 @@ List of Backgrounds / 图片列表:
 |2023-11-08|207216|我们擦身而过，是为了相识或者遗忘。|[图片链接](./backgrounds_no_countdown/207216.jpg)|schedule|
 |2023-11-08|103553|萧萧梧叶送寒声，江上秋风动客情。|[图片链接](./backgrounds_no_countdown/103553.jpg)|schedule|
 |2023-11-08|666839|生当复来归，死当长相思。|[图片链接](./backgrounds_no_countdown/666839.jpg)|schedule|
+|2023-11-09|109678|今夜不知何处宿，平沙万里绝人烟。|[图片链接](./backgrounds_no_countdown/109678.jpg)|schedule|
+|2023-11-09|627823|那杀不死我的，使我更坚强。|[图片链接](./backgrounds_no_countdown/627823.jpg)|schedule|
+|2023-11-09|267151|无论撒怎样的谎，都无法欺骗自己的心。|[图片链接](./backgrounds_no_countdown/267151.jpg)|schedule|
