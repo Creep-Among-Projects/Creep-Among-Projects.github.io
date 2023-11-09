@@ -813,3 +813,6 @@ List of Backgrounds / 图片列表:
 |2023-11-09|109678|今夜不知何处宿，平沙万里绝人烟。|[图片链接](./backgrounds_no_countdown/109678.jpg)|schedule|
 |2023-11-09|627823|那杀不死我的，使我更坚强。|[图片链接](./backgrounds_no_countdown/627823.jpg)|schedule|
 |2023-11-09|267151|无论撒怎样的谎，都无法欺骗自己的心。|[图片链接](./backgrounds_no_countdown/267151.jpg)|schedule|
+|2023-11-09|813269|你想走，就请立马抽刀，爱一笔勾销。|[图片链接](./backgrounds_no_countdown/813269.jpg)|schedule|
+|2023-11-09|92340|宅，是一种生活状态；死宅，是一种人生境界…|[图片链接](./backgrounds_no_countdown/92340.jpg)|schedule|
+|2023-11-09|417213|吻就落在耳后，阻隔喧嚣缺口。|[图片链接](./backgrounds_no_countdown/417213.jpg)|schedule|
