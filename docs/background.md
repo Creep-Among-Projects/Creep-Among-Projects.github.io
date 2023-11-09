@@ -1436,3 +1436,6 @@ List of Backgrounds / 图片列表:
 |2023-11-10|176851|人生总是那么痛苦吗?还是只有小时候是这样?|[图片链接](./backgrounds/176851.jpg)|schedule|
 |2023-11-10|327434|经过上千年的修炼，你学到的就是这个吗？|[图片链接](./backgrounds/327434.jpg)|schedule|
 |2023-11-10|206359|向之所欣，俯仰之间，已为陈迹。|[图片链接](./backgrounds/206359.jpg)|schedule|
+|2023-11-10|1421903|如果你的人生只有柠檬，不妨配盐喝点龙舌兰。|[图片链接](./backgrounds/1421903.jpg)|workflow_dispatch|
+|2023-11-10|633520|吾道本无我，未曾嫌世人。如今到尘世，弥觉此心真|[图片链接](./backgrounds/633520.jpg)|workflow_dispatch|
+|2023-11-10|1110661|飞雪连天射白鹿，笑书神侠倚碧鸳。|[图片链接](./backgrounds/1110661.jpg)|workflow_dispatch|
