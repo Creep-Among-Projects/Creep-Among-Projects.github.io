@@ -828,3 +828,6 @@ List of Backgrounds / 图片列表:
 |2023-11-11|2873671|出言有尺，嬉闹有度，做事有余，说话有德。|[图片链接](./backgrounds_no_countdown/2873671.jpg)|schedule|
 |2023-11-11|571169|上帝给了人类有限的力量，但是却给了他们无限的欲望。|[图片链接](./backgrounds_no_countdown/571169.jpg)|schedule|
 |2023-11-11|227513|未经审视的人生是不值得过的。|[图片链接](./backgrounds_no_countdown/227513.jpg)|schedule|
+|2023-11-11|356267|你说过，人最大的敌人是自己。|[图片链接](./backgrounds_no_countdown/356267.jpg)|schedule|
+|2023-11-11|165488|无聊的并不是时间，而是平庸无奇的我。|[图片链接](./backgrounds_no_countdown/165488.jpg)|schedule|
+|2023-11-11|139381|你可以不学习，但你的竞争对手不会！|[图片链接](./backgrounds_no_countdown/139381.jpg)|schedule|
