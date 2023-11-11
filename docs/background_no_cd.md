@@ -831,3 +831,6 @@ List of Backgrounds / 图片列表:
 |2023-11-11|356267|你说过，人最大的敌人是自己。|[图片链接](./backgrounds_no_countdown/356267.jpg)|schedule|
 |2023-11-11|165488|无聊的并不是时间，而是平庸无奇的我。|[图片链接](./backgrounds_no_countdown/165488.jpg)|schedule|
 |2023-11-11|139381|你可以不学习，但你的竞争对手不会！|[图片链接](./backgrounds_no_countdown/139381.jpg)|schedule|
+|2023-11-12|417173|和风斜阳西向晚，晚风吹尽阴蒙云。|[图片链接](./backgrounds_no_countdown/417173.jpg)|schedule|
+|2023-11-12|2114689|君子可寓意于物，但不可留意于物。|[图片链接](./backgrounds_no_countdown/2114689.jpg)|schedule|
+|2023-11-12|2088151|邓林之阴初见昆仑君，惊鸿一瞥，乱我心曲。|[图片链接](./backgrounds_no_countdown/2088151.jpg)|schedule|
