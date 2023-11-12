@@ -834,3 +834,6 @@ List of Backgrounds / 图片列表:
 |2023-11-12|417173|和风斜阳西向晚，晚风吹尽阴蒙云。|[图片链接](./backgrounds_no_countdown/417173.jpg)|schedule|
 |2023-11-12|2114689|君子可寓意于物，但不可留意于物。|[图片链接](./backgrounds_no_countdown/2114689.jpg)|schedule|
 |2023-11-12|2088151|邓林之阴初见昆仑君，惊鸿一瞥，乱我心曲。|[图片链接](./backgrounds_no_countdown/2088151.jpg)|schedule|
+|2023-11-12|714633|等到功成名就的一天，日月山川都来祝贺。|[图片链接](./backgrounds_no_countdown/714633.jpg)|schedule|
+|2023-11-12|3601453|掉头一去是风吹黑发，回首再来已雪满白头。|[图片链接](./backgrounds_no_countdown/3601453.jpg)|schedule|
+|2023-11-12|1285625|欺骗的友谊是痛苦的创伤，虚伪的同情是锐利的毒箭。|[图片链接](./backgrounds_no_countdown/1285625.jpg)|schedule|
