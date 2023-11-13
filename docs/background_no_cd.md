@@ -843,3 +843,6 @@ List of Backgrounds / 图片列表:
 |2023-11-13|1632781|你最可爱,我说时来不及思索,但思索过后,还是这样说|[图片链接](./backgrounds_no_countdown/1632781.jpg)|schedule|
 |2023-11-13|975012|革命尚未成功，同志仍需努力！|[图片链接](./backgrounds_no_countdown/975012.jpg)|schedule|
 |2023-11-13|556669|海内存知己，天涯若比邻。|[图片链接](./backgrounds_no_countdown/556669.jpg)|schedule|
+|2023-11-14|1054220|生而为人，我很抱歉。|[图片链接](./backgrounds_no_countdown/1054220.jpg)|schedule|
+|2023-11-14|346529|人类把最精密的保密系统，都用在了自我毁灭上。|[图片链接](./backgrounds_no_countdown/346529.jpg)|schedule|
+|2023-11-14|3374210|智慧需要沉淀，积累才能够饱满。|[图片链接](./backgrounds_no_countdown/3374210.jpg)|schedule|
