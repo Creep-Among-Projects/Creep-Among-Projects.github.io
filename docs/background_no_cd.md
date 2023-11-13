@@ -846,3 +846,6 @@ List of Backgrounds / 图片列表:
 |2023-11-14|1054220|生而为人，我很抱歉。|[图片链接](./backgrounds_no_countdown/1054220.jpg)|schedule|
 |2023-11-14|346529|人类把最精密的保密系统，都用在了自我毁灭上。|[图片链接](./backgrounds_no_countdown/346529.jpg)|schedule|
 |2023-11-14|3374210|智慧需要沉淀，积累才能够饱满。|[图片链接](./backgrounds_no_countdown/3374210.jpg)|schedule|
+|2023-11-14|1928745|对现实扭过脸去，只为古人唱赞歌，不替当今说人话|[图片链接](./backgrounds_no_countdown/1928745.jpg)|issues|
+|2023-11-14|112065|对现实扭过脸去，只为古人唱赞歌，不替当今说人话|[图片链接](./backgrounds_no_countdown/112065.jpg)|issues|
+|2023-11-14|360912|对现实扭过脸去，只为古人唱赞歌，不替当今说人话|[图片链接](./backgrounds_no_countdown/360912.jpg)|issues|
