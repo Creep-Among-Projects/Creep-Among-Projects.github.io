@@ -840,3 +840,6 @@ List of Backgrounds / 图片列表:
 |2023-11-13|1906658|给岁月以文明，而不是给文明以岁月。|[图片链接](./backgrounds_no_countdown/1906658.jpg)|schedule|
 |2023-11-13|315938|我会和命运战斗，并且战胜给你看！|[图片链接](./backgrounds_no_countdown/315938.jpg)|schedule|
 |2023-11-13|457882|此生谁料，心在天山，身老沧洲。|[图片链接](./backgrounds_no_countdown/457882.jpg)|schedule|
+|2023-11-13|1632781|你最可爱,我说时来不及思索,但思索过后,还是这样说|[图片链接](./backgrounds_no_countdown/1632781.jpg)|schedule|
+|2023-11-13|975012|革命尚未成功，同志仍需努力！|[图片链接](./backgrounds_no_countdown/975012.jpg)|schedule|
+|2023-11-13|556669|海内存知己，天涯若比邻。|[图片链接](./backgrounds_no_countdown/556669.jpg)|schedule|
