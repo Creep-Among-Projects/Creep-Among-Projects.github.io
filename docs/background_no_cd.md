@@ -852,3 +852,6 @@ List of Backgrounds / 图片列表:
 |2023-11-14|1205301|风烟俱净，天山共色。从流飘荡，任意东西。|[图片链接](./backgrounds_no_countdown/1205301.jpg)|schedule|
 |2023-11-14|2835562|跑得快不一定赢，老跌跟头才是成功。|[图片链接](./backgrounds_no_countdown/2835562.jpg)|schedule|
 |2023-11-14|2700532|生如夏花之绚烂，死如秋叶之静美。|[图片链接](./backgrounds_no_countdown/2700532.jpg)|schedule|
+|2023-11-15|1133505|患了中二病，等于有了一种信仰。|[图片链接](./backgrounds_no_countdown/1133505.jpg)|schedule|
+|2023-11-15|681381|人类一思考，上帝就发笑。|[图片链接](./backgrounds_no_countdown/681381.jpg)|schedule|
+|2023-11-15|1248132|树木在夜晚来临前的淡金色的暮霭中闪闪发光。|[图片链接](./backgrounds_no_countdown/1248132.jpg)|schedule|
