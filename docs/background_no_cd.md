@@ -849,3 +849,6 @@ List of Backgrounds / 图片列表:
 |2023-11-14|1928745|对现实扭过脸去，只为古人唱赞歌，不替当今说人话|[图片链接](./backgrounds_no_countdown/1928745.jpg)|issues|
 |2023-11-14|112065|对现实扭过脸去，只为古人唱赞歌，不替当今说人话|[图片链接](./backgrounds_no_countdown/112065.jpg)|issues|
 |2023-11-14|360912|对现实扭过脸去，只为古人唱赞歌，不替当今说人话|[图片链接](./backgrounds_no_countdown/360912.jpg)|issues|
+|2023-11-14|1205301|风烟俱净，天山共色。从流飘荡，任意东西。|[图片链接](./backgrounds_no_countdown/1205301.jpg)|schedule|
+|2023-11-14|2835562|跑得快不一定赢，老跌跟头才是成功。|[图片链接](./backgrounds_no_countdown/2835562.jpg)|schedule|
+|2023-11-14|2700532|生如夏花之绚烂，死如秋叶之静美。|[图片链接](./backgrounds_no_countdown/2700532.jpg)|schedule|
