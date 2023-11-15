@@ -858,3 +858,6 @@ List of Backgrounds / 图片列表:
 |2023-11-15|635279|你的无畏来源于无知。|[图片链接](./backgrounds_no_countdown/635279.jpg)|schedule|
 |2023-11-15|1655828|死亡是我最后的情人。|[图片链接](./backgrounds_no_countdown/1655828.jpg)|schedule|
 |2023-11-15|333525|故乡的云。上古的玉。随手的诗。十九岁的你。|[图片链接](./backgrounds_no_countdown/333525.jpg)|schedule|
+|2023-11-16|301387|夜深忽梦少年事，唯梦闲人不梦君。|[图片链接](./backgrounds_no_countdown/301387.jpg)|schedule|
+|2023-11-16|2422265|取法于上，仅得为中；取法于中，故为其下。|[图片链接](./backgrounds_no_countdown/2422265.jpg)|schedule|
+|2023-11-16|414659|为者常成，行者常至。|[图片链接](./backgrounds_no_countdown/414659.jpg)|schedule|
