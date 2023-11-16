@@ -864,3 +864,6 @@ List of Backgrounds / 图片列表:
 |2023-11-16|1252890|弱小和无知，不是生存的障碍，傲慢才是。|[图片链接](./backgrounds_no_countdown/1252890.jpg)|schedule|
 |2023-11-16|2196602|遗忘比绝望更强有力。|[图片链接](./backgrounds_no_countdown/2196602.jpg)|schedule|
 |2023-11-16|33688|夏天重要的事不过一二：能够静静吹风，可以好好吃饭。|[图片链接](./backgrounds_no_countdown/33688.jpg)|schedule|
+|2023-11-17|1743400|凛冬将至|[图片链接](./backgrounds_no_countdown/1743400.jpg)|schedule|
+|2023-11-17|638900|回眸一笑百媚生，六宫粉黛无颜色。|[图片链接](./backgrounds_no_countdown/638900.jpg)|schedule|
+|2023-11-17|1631677|燕子来时新社，梨花落后清明。|[图片链接](./backgrounds_no_countdown/1631677.jpg)|schedule|
