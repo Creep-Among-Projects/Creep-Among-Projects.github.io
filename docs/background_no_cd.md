@@ -870,3 +870,6 @@ List of Backgrounds / 图片列表:
 |2023-11-17|380283|为了理想的实现，航行的孤独在所难免。|[图片链接](./backgrounds_no_countdown/380283.jpg)|workflow_dispatch|
 |2023-11-17|39669|一本书上每多一个公式，就会减少一半读者。|[图片链接](./backgrounds_no_countdown/39669.jpg)|workflow_dispatch|
 |2023-11-17|912364|反正年纪还小，日子还长，那就一边生活，一边期待吧。|[图片链接](./backgrounds_no_countdown/912364.jpg)|workflow_dispatch|
+|2023-11-17|2043837|凋零与不朽共存，这就是奇迹！|[图片链接](./backgrounds_no_countdown/2043837.jpg)|schedule|
+|2023-11-17|414491|一懒众衫小。|[图片链接](./backgrounds_no_countdown/414491.jpg)|schedule|
+|2023-11-17|449751|善与恶逆转的瞬间，便是奇迹|[图片链接](./backgrounds_no_countdown/449751.jpg)|schedule|
