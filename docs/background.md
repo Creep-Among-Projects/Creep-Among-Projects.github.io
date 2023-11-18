@@ -1494,3 +1494,6 @@ List of Backgrounds / 图片列表:
 |2023-11-18|96377|深处暖春 ，才会怕冷。
 |[图片链接](./backgrounds/96377.jpg)|schedule|
 |2023-11-18|433155|出入相友，守望相助。|[图片链接](./backgrounds/433155.jpg)|schedule|
+|2023-11-18|585759|师哥，玫瑰到了花期，我很想你。|[图片链接](./backgrounds/585759.jpg)|schedule|
+|2023-11-18|244517|眼睛是心灵的窗户。|[图片链接](./backgrounds/244517.jpg)|schedule|
+|2023-11-18|1167052|世界上大部分事，都没有太大意义，真理与热爱除外。|[图片链接](./backgrounds/1167052.jpg)|schedule|
