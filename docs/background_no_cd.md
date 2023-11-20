@@ -889,3 +889,6 @@ List of Backgrounds / 图片列表:
 |2023-11-20|462119|我们把世界看错，反说它欺骗了我们。|[图片链接](./backgrounds_no_countdown/462119.jpg)|schedule|
 |2023-11-20|2071216|小楼一夜听春雨，深巷明朝卖杏花。|[图片链接](./backgrounds_no_countdown/2071216.jpg)|schedule|
 |2023-11-20|1154610|生命的意义这件事，想必人类自己也不明白吧。|[图片链接](./backgrounds_no_countdown/1154610.jpg)|schedule|
+|2023-11-20|2085998|人生在世不称意，不如自挂东南枝|[图片链接](./backgrounds_no_countdown/2085998.jpg)|schedule|
+|2023-11-20|2232979|简单的东西不是最好的，但最好的东西一定是简单的。|[图片链接](./backgrounds_no_countdown/2232979.jpg)|schedule|
+|2023-11-20|1048283|借问江潮与海水，何似君情与妾心？|[图片链接](./backgrounds_no_countdown/1048283.jpg)|schedule|
