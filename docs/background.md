@@ -1512,3 +1512,6 @@ List of Backgrounds / 图片列表:
 |2023-11-21|573238|Control is Power.|[图片链接](./backgrounds/573238.jpg)|schedule|
 |2023-11-21|2904142|与你的生命等价的东西，这个世界上根本没有。|[图片链接](./backgrounds/2904142.jpg)|schedule|
 |2023-11-21|2088211|宁教我负天下人，休教天下人负我。|[图片链接](./backgrounds/2088211.jpg)|schedule|
+|2023-11-21|110873|山外青山楼外楼，西湖歌舞几时休？|[图片链接](./backgrounds/110873.jpg)|workflow_dispatch|
+|2023-11-21|1154510|生气归生气，又不是不爱你……|[图片链接](./backgrounds/1154510.jpg)|workflow_dispatch|
+|2023-11-21|96798|浮萍漂泊本无根，天涯游子君莫问。|[图片链接](./backgrounds/96798.jpg)|workflow_dispatch|
