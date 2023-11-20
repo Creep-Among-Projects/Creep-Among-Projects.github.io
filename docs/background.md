@@ -1509,3 +1509,6 @@ List of Backgrounds / 图片列表:
 |2023-11-20|2085998|人生在世不称意，不如自挂东南枝|[图片链接](./backgrounds/2085998.jpg)|schedule|
 |2023-11-20|2232979|简单的东西不是最好的，但最好的东西一定是简单的。|[图片链接](./backgrounds/2232979.jpg)|schedule|
 |2023-11-20|1048283|借问江潮与海水，何似君情与妾心？|[图片链接](./backgrounds/1048283.jpg)|schedule|
+|2023-11-21|573238|Control is Power.|[图片链接](./backgrounds/573238.jpg)|schedule|
+|2023-11-21|2904142|与你的生命等价的东西，这个世界上根本没有。|[图片链接](./backgrounds/2904142.jpg)|schedule|
+|2023-11-21|2088211|宁教我负天下人，休教天下人负我。|[图片链接](./backgrounds/2088211.jpg)|schedule|
