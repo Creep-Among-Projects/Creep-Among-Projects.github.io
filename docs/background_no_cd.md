@@ -901,3 +901,6 @@ List of Backgrounds / 图片列表:
 |2023-11-21|325185|无可奈何花落去，似曾相识燕归来。|[图片链接](./backgrounds_no_countdown/325185.jpg)|schedule|
 |2023-11-21|273886|劝君莫惜金缕衣，劝君惜取少年时。|[图片链接](./backgrounds_no_countdown/273886.jpg)|schedule|
 |2023-11-21|2046548|情深不寿，强极则辱，谦谦君子，温润如玉。|[图片链接](./backgrounds_no_countdown/2046548.jpg)|schedule|
+|2023-11-22|1366909|恋爱本质不是走向婚姻，而是探究最真实的自己。|[图片链接](./backgrounds_no_countdown/1366909.jpg)|schedule|
+|2023-11-22|128302|绝望的人没有故乡。|[图片链接](./backgrounds_no_countdown/128302.jpg)|schedule|
+|2023-11-22|1107717|友谊是一个灵魂对一个灵魂的认可。|[图片链接](./backgrounds_no_countdown/1107717.jpg)|schedule|
