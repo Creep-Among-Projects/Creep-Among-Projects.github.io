@@ -910,3 +910,6 @@ List of Backgrounds / 图片列表:
 |2023-11-22|772803|祝你此生，梦想光芒，野蛮生长，永不彷徨。|[图片链接](./backgrounds_no_countdown/772803.jpg)|push|
 |2023-11-22|3225517|身无彩凤双飞翼，心有灵犀一点通。|[图片链接](./backgrounds_no_countdown/3225517.jpg)|push|
 |2023-11-22|316398|若你回头看我一眼，我此生不必再见春天。|[图片链接](./backgrounds_no_countdown/316398.jpg)|push|
+|2023-11-22|1547813|路曼曼其修远兮，吾将上下而求索。|[图片链接](./backgrounds_no_countdown/1547813.jpg)|schedule|
+|2023-11-22|15286|盛年不重来，一日难再晨。|[图片链接](./backgrounds_no_countdown/15286.jpg)|schedule|
+|2023-11-22|707344|路漫漫其修远兮，吾将上下而求索。|[图片链接](./backgrounds_no_countdown/707344.jpg)|schedule|
