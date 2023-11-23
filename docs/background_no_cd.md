@@ -919,3 +919,6 @@ List of Backgrounds / 图片列表:
 |2023-11-23|733860|当混浊成为一种常态，清白便成为一种罪过。|[图片链接](./backgrounds_no_countdown/733860.jpg)|schedule|
 |2023-11-23|2086622|我要赢一壶酒，拿来娶你。|[图片链接](./backgrounds_no_countdown/2086622.jpg)|schedule|
 |2023-11-23|234272|上元佳节，神武大街，惊鸿一瞥，百世沦陷。|[图片链接](./backgrounds_no_countdown/234272.jpg)|schedule|
+|2023-11-24|1028225|风声细碎烛影乱，相思浓时情转淡。|[图片链接](./backgrounds_no_countdown/1028225.jpg)|schedule|
+|2023-11-24|2189696|鱼与熊掌不可兼得，唯独穷和单身可以|[图片链接](./backgrounds_no_countdown/2189696.jpg)|schedule|
+|2023-11-24|1276518|吾尝终日不食，终夜不寝，以思无益，不如学也。|[图片链接](./backgrounds_no_countdown/1276518.jpg)|schedule|
