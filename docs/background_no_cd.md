@@ -922,3 +922,6 @@ List of Backgrounds / 图片列表:
 |2023-11-24|1028225|风声细碎烛影乱，相思浓时情转淡。|[图片链接](./backgrounds_no_countdown/1028225.jpg)|schedule|
 |2023-11-24|2189696|鱼与熊掌不可兼得，唯独穷和单身可以|[图片链接](./backgrounds_no_countdown/2189696.jpg)|schedule|
 |2023-11-24|1276518|吾尝终日不食，终夜不寝，以思无益，不如学也。|[图片链接](./backgrounds_no_countdown/1276518.jpg)|schedule|
+|2023-11-24|1761279|快乐的时候不要想以后，痛苦的时候多想想将来。|[图片链接](./backgrounds_no_countdown/1761279.jpg)|schedule|
+|2023-11-24|1381679|清江一曲抱村流，长夏江村事事幽。|[图片链接](./backgrounds_no_countdown/1381679.jpg)|schedule|
+|2023-11-24|446462|救救我啊奥特曼，哪怕你只能撑三分钟…|[图片链接](./backgrounds_no_countdown/446462.jpg)|schedule|
