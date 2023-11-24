@@ -925,3 +925,6 @@ List of Backgrounds / 图片列表:
 |2023-11-24|1761279|快乐的时候不要想以后，痛苦的时候多想想将来。|[图片链接](./backgrounds_no_countdown/1761279.jpg)|schedule|
 |2023-11-24|1381679|清江一曲抱村流，长夏江村事事幽。|[图片链接](./backgrounds_no_countdown/1381679.jpg)|schedule|
 |2023-11-24|446462|救救我啊奥特曼，哪怕你只能撑三分钟…|[图片链接](./backgrounds_no_countdown/446462.jpg)|schedule|
+|2023-11-25|298821|人恰得亏，戏不好看。|[图片链接](./backgrounds_no_countdown/298821.jpg)|schedule|
+|2023-11-25|1624504|死并非生的对立面，而作为生的一部分永存。|[图片链接](./backgrounds_no_countdown/1624504.jpg)|schedule|
+|2023-11-25|534164|合群是平凡的开始，独行是拔尖的开端。|[图片链接](./backgrounds_no_countdown/534164.jpg)|schedule|
