@@ -928,3 +928,6 @@ List of Backgrounds / 图片列表:
 |2023-11-25|298821|人恰得亏，戏不好看。|[图片链接](./backgrounds_no_countdown/298821.jpg)|schedule|
 |2023-11-25|1624504|死并非生的对立面，而作为生的一部分永存。|[图片链接](./backgrounds_no_countdown/1624504.jpg)|schedule|
 |2023-11-25|534164|合群是平凡的开始，独行是拔尖的开端。|[图片链接](./backgrounds_no_countdown/534164.jpg)|schedule|
+|2023-11-25|1234035|广厦千间，夜眠仅需六尺；家财万贯，日食不过三餐。|[图片链接](./backgrounds_no_countdown/1234035.jpg)|schedule|
+|2023-11-25|2105416|运伟大之思者，必行伟大之迷途。|[图片链接](./backgrounds_no_countdown/2105416.jpg)|schedule|
+|2023-11-25|612891|弱小和无知，都不是生存的障碍，傲慢才是。|[图片链接](./backgrounds_no_countdown/612891.jpg)|schedule|
