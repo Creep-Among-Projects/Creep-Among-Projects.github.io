@@ -937,3 +937,6 @@ List of Backgrounds / 图片列表:
 |2023-11-26|624015|梅须逊雪三分白，雪却输梅一段香。|[图片链接](./backgrounds_no_countdown/624015.jpg)|schedule|
 |2023-11-26|573863|诚知此恨人人有，贫贱夫妻百事哀。|[图片链接](./backgrounds_no_countdown/573863.jpg)|schedule|
 |2023-11-26|889930|长大了，就要自己做决定，哪怕是艰难的决定。|[图片链接](./backgrounds_no_countdown/889930.jpg)|schedule|
+|2023-11-27|2887497|圣人不死，大盗不止。|[图片链接](./backgrounds_no_countdown/2887497.jpg)|schedule|
+|2023-11-27|2088172|情人怨遥夜，竟夕起相思。|[图片链接](./backgrounds_no_countdown/2088172.jpg)|schedule|
+|2023-11-27|165537|如果必须要失去，那么不如一开始就不曾拥有。|[图片链接](./backgrounds_no_countdown/165537.jpg)|schedule|
