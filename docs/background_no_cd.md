@@ -940,3 +940,6 @@ List of Backgrounds / 图片列表:
 |2023-11-27|2887497|圣人不死，大盗不止。|[图片链接](./backgrounds_no_countdown/2887497.jpg)|schedule|
 |2023-11-27|2088172|情人怨遥夜，竟夕起相思。|[图片链接](./backgrounds_no_countdown/2088172.jpg)|schedule|
 |2023-11-27|165537|如果必须要失去，那么不如一开始就不曾拥有。|[图片链接](./backgrounds_no_countdown/165537.jpg)|schedule|
+|2023-11-27|592284|死亡不属于工人阶级！|[图片链接](./backgrounds_no_countdown/592284.jpg)|schedule|
+|2023-11-27|69825|小胖子溜边走~|[图片链接](./backgrounds_no_countdown/69825.jpg)|schedule|
+|2023-11-27|1424239|我从他的生命里消失，而他依然闪亮。|[图片链接](./backgrounds_no_countdown/1424239.jpg)|schedule|
