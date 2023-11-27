@@ -1563,3 +1563,6 @@ List of Backgrounds / 图片列表:
 |2023-11-28|572897|舌头无骨却是伤人最深。|[图片链接](./backgrounds/572897.jpg)|schedule|
 |2023-11-28|796656|风啊，你还要吹到何时......|[图片链接](./backgrounds/796656.jpg)|schedule|
 |2023-11-28|54332|人生充斥着谎言,我又岂能独善其身!|[图片链接](./backgrounds/54332.jpg)|schedule|
+|2023-11-28|1731041|应该在肩膀上长着自己的脑袋。|[图片链接](./backgrounds/1731041.jpg)|workflow_dispatch|
+|2023-11-28|228095|为什么我眼睛一睁开，你就不是我的了。|[图片链接](./backgrounds/228095.jpg)|workflow_dispatch|
+|2023-11-28|614484|你背朝太阳，就只能看到自己的影子。|[图片链接](./backgrounds/614484.jpg)|workflow_dispatch|
