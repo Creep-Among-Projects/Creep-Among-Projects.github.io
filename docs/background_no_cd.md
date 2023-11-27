@@ -943,3 +943,6 @@ List of Backgrounds / 图片列表:
 |2023-11-27|592284|死亡不属于工人阶级！|[图片链接](./backgrounds_no_countdown/592284.jpg)|schedule|
 |2023-11-27|69825|小胖子溜边走~|[图片链接](./backgrounds_no_countdown/69825.jpg)|schedule|
 |2023-11-27|1424239|我从他的生命里消失，而他依然闪亮。|[图片链接](./backgrounds_no_countdown/1424239.jpg)|schedule|
+|2023-11-28|572897|舌头无骨却是伤人最深。|[图片链接](./backgrounds_no_countdown/572897.jpg)|schedule|
+|2023-11-28|796656|风啊，你还要吹到何时......|[图片链接](./backgrounds_no_countdown/796656.jpg)|schedule|
+|2023-11-28|54332|人生充斥着谎言,我又岂能独善其身!|[图片链接](./backgrounds_no_countdown/54332.jpg)|schedule|
