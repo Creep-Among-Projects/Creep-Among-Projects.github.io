@@ -1566,3 +1566,6 @@ List of Backgrounds / 图片列表:
 |2023-11-28|1731041|应该在肩膀上长着自己的脑袋。|[图片链接](./backgrounds/1731041.jpg)|workflow_dispatch|
 |2023-11-28|228095|为什么我眼睛一睁开，你就不是我的了。|[图片链接](./backgrounds/228095.jpg)|workflow_dispatch|
 |2023-11-28|614484|你背朝太阳，就只能看到自己的影子。|[图片链接](./backgrounds/614484.jpg)|workflow_dispatch|
+|2023-11-28|1192671|沧海横流，方显英雄本色。|[图片链接](./backgrounds/1192671.jpg)|schedule|
+|2023-11-28|2088202|将悲伤和痛苦，化作光芒。|[图片链接](./backgrounds/2088202.jpg)|schedule|
+|2023-11-28|219837|黑色世界唯有东方的曙光。|[图片链接](./backgrounds/219837.jpg)|schedule|
