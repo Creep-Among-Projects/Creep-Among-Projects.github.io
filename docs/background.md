@@ -1572,3 +1572,6 @@ List of Backgrounds / 图片列表:
 |2023-11-29|697313|月儿弯弯照九州，几家欢乐几家愁。|[图片链接](./backgrounds/697313.jpg)|schedule|
 |2023-11-29|2088019|你的一生，我只借一程，这一程便是余生。|[图片链接](./backgrounds/2088019.jpg)|schedule|
 |2023-11-29|1062249|小楼昨夜又东风，故国不堪回首月明中。|[图片链接](./backgrounds/1062249.jpg)|schedule|
+|2023-11-29|2918152|人间没有单纯的快乐，快乐总夹带着烦恼和忧虑。|[图片链接](./backgrounds/2918152.jpg)|workflow_dispatch|
+|2023-11-29|321552|妆罢低声问夫婿，画眉深浅入时无。|[图片链接](./backgrounds/321552.jpg)|workflow_dispatch|
+|2023-11-29|691031|弱小和无知从来就不是一个文明毁灭的原因，傲慢才是。|[图片链接](./backgrounds/691031.jpg)|workflow_dispatch|
