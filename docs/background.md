@@ -1578,3 +1578,6 @@ List of Backgrounds / 图片列表:
 |2023-11-29|2522085|每想你一次，天上飘落一粒沙，从此形成了撒哈拉！|[图片链接](./backgrounds/2522085.jpg)|workflow_dispatch|
 |2023-11-29|2832026|劝君更尽一杯酒，西出阳关无故人。|[图片链接](./backgrounds/2832026.jpg)|workflow_dispatch|
 |2023-11-29|459038|人们生于信仰，毁于信仰。人们在信仰的灰烬重生。|[图片链接](./backgrounds/459038.jpg)|workflow_dispatch|
+|2023-11-29|1450078|必须在敌军还分散的时候，出其不意地袭击他们。|[图片链接](./backgrounds/1450078.jpg)|schedule|
+|2023-11-29|1996042|世界灿烂盛大，欢迎回家。|[图片链接](./backgrounds/1996042.jpg)|schedule|
+|2023-11-29|235795|记忆是痛苦的根源。|[图片链接](./backgrounds/235795.jpg)|schedule|
