@@ -958,3 +958,6 @@ List of Backgrounds / 图片列表:
 |2023-11-29|2918152|人间没有单纯的快乐，快乐总夹带着烦恼和忧虑。|[图片链接](./backgrounds_no_countdown/2918152.jpg)|workflow_dispatch|
 |2023-11-29|321552|妆罢低声问夫婿，画眉深浅入时无。|[图片链接](./backgrounds_no_countdown/321552.jpg)|workflow_dispatch|
 |2023-11-29|691031|弱小和无知从来就不是一个文明毁灭的原因，傲慢才是。|[图片链接](./backgrounds_no_countdown/691031.jpg)|workflow_dispatch|
+|2023-11-29|2522085|每想你一次，天上飘落一粒沙，从此形成了撒哈拉！|[图片链接](./backgrounds_no_countdown/2522085.jpg)|workflow_dispatch|
+|2023-11-29|2832026|劝君更尽一杯酒，西出阳关无故人。|[图片链接](./backgrounds_no_countdown/2832026.jpg)|workflow_dispatch|
+|2023-11-29|459038|人们生于信仰，毁于信仰。人们在信仰的灰烬重生。|[图片链接](./backgrounds_no_countdown/459038.jpg)|workflow_dispatch|
