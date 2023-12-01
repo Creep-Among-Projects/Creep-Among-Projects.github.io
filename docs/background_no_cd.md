@@ -973,3 +973,6 @@ List of Backgrounds / 图片列表:
 |2023-12-01|1426827|鸿雁长飞光不度，鱼龙潜跃水成文。|[图片链接](./backgrounds_no_countdown/1426827.jpg)|schedule|
 |2023-12-01|602794|一个人的自身越是丰富，就越难以忍受世俗常规的安排。|[图片链接](./backgrounds_no_countdown/602794.jpg)|schedule|
 |2023-12-01|2877375|最好的感觉，是有人懂你的欲言又止。|[图片链接](./backgrounds_no_countdown/2877375.jpg)|schedule|
+|2023-12-01|1268129|所谓辉煌的人生，不过是欲望的囚徒。|[图片链接](./backgrounds_no_countdown/1268129.jpg)|schedule|
+|2023-12-01|2888333|我本可以忍受黑暗，可是我看见了光明。|[图片链接](./backgrounds_no_countdown/2888333.jpg)|schedule|
+|2023-12-01|364086|假作真时真亦假，无为有处有还无。|[图片链接](./backgrounds_no_countdown/364086.jpg)|schedule|
