@@ -1599,3 +1599,6 @@ List of Backgrounds / 图片列表:
 |2023-12-02|1090972|昨夜小寐，忽疑君到，却是琉璃火，未央天。|[图片链接](./backgrounds/1090972.jpg)|schedule|
 |2023-12-02|2080961|八阵图名成卧龙，六韬书功在飞熊。|[图片链接](./backgrounds/2080961.jpg)|schedule|
 |2023-12-02|925263|Discover, Create and Use.|[图片链接](./backgrounds/925263.jpg)|schedule|
+|2023-12-03|1653631|有些事情，即便不用纸笔，也一样会被铭记。|[图片链接](./backgrounds/1653631.jpg)|schedule|
+|2023-12-03|101529|自立自主总胜过俯首为奴！|[图片链接](./backgrounds/101529.jpg)|schedule|
+|2023-12-03|822528|黑夜给了我黑色眼睛，我却用它寻找光明。|[图片链接](./backgrounds/822528.jpg)|schedule|
