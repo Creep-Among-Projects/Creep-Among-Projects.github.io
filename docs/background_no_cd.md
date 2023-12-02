@@ -979,3 +979,6 @@ List of Backgrounds / 图片列表:
 |2023-12-02|1336924|辉煌时刻不常有，能装多久是多久。|[图片链接](./backgrounds_no_countdown/1336924.jpg)|schedule|
 |2023-12-02|1105189|即使窗外天寒地冻，吃一口肉，一切自有力量。|[图片链接](./backgrounds_no_countdown/1105189.jpg)|schedule|
 |2023-12-02|610293|月濯云深里 留雪拥襟 持琴问灵 拂剑承天地|[图片链接](./backgrounds_no_countdown/610293.jpg)|schedule|
+|2023-12-02|1090972|昨夜小寐，忽疑君到，却是琉璃火，未央天。|[图片链接](./backgrounds_no_countdown/1090972.jpg)|schedule|
+|2023-12-02|2080961|八阵图名成卧龙，六韬书功在飞熊。|[图片链接](./backgrounds_no_countdown/2080961.jpg)|schedule|
+|2023-12-02|925263|Discover, Create and Use.|[图片链接](./backgrounds_no_countdown/925263.jpg)|schedule|
