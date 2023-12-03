@@ -988,3 +988,6 @@ List of Backgrounds / 图片列表:
 |2023-12-03|56890|纵星河万里，亦不及你一垂眸。|[图片链接](./backgrounds_no_countdown/56890.jpg)|schedule|
 |2023-12-03|957002|我们哭着降临世界，却可以笑着走向永恒。|[图片链接](./backgrounds_no_countdown/957002.jpg)|schedule|
 |2023-12-03|1366921|我们控制，我们收容，我们保护。|[图片链接](./backgrounds_no_countdown/1366921.jpg)|schedule|
+|2023-12-04|2223082|有三秋桂子，十里荷花。|[图片链接](./backgrounds_no_countdown/2223082.jpg)|schedule|
+|2023-12-04|957010|极霸矛，湘阿痕响啊。|[图片链接](./backgrounds_no_countdown/957010.jpg)|schedule|
+|2023-12-04|2236602|苍天有眼，命数天定，但行好事，莫问前程。|[图片链接](./backgrounds_no_countdown/2236602.jpg)|schedule|
