@@ -985,3 +985,6 @@ List of Backgrounds / 图片列表:
 |2023-12-03|1653631|有些事情，即便不用纸笔，也一样会被铭记。|[图片链接](./backgrounds_no_countdown/1653631.jpg)|schedule|
 |2023-12-03|101529|自立自主总胜过俯首为奴！|[图片链接](./backgrounds_no_countdown/101529.jpg)|schedule|
 |2023-12-03|822528|黑夜给了我黑色眼睛，我却用它寻找光明。|[图片链接](./backgrounds_no_countdown/822528.jpg)|schedule|
+|2023-12-03|56890|纵星河万里，亦不及你一垂眸。|[图片链接](./backgrounds_no_countdown/56890.jpg)|schedule|
+|2023-12-03|957002|我们哭着降临世界，却可以笑着走向永恒。|[图片链接](./backgrounds_no_countdown/957002.jpg)|schedule|
+|2023-12-03|1366921|我们控制，我们收容，我们保护。|[图片链接](./backgrounds_no_countdown/1366921.jpg)|schedule|
