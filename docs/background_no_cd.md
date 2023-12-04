@@ -991,3 +991,6 @@ List of Backgrounds / 图片列表:
 |2023-12-04|2223082|有三秋桂子，十里荷花。|[图片链接](./backgrounds_no_countdown/2223082.jpg)|schedule|
 |2023-12-04|957010|极霸矛，湘阿痕响啊。|[图片链接](./backgrounds_no_countdown/957010.jpg)|schedule|
 |2023-12-04|2236602|苍天有眼，命数天定，但行好事，莫问前程。|[图片链接](./backgrounds_no_countdown/2236602.jpg)|schedule|
+|2023-12-04|772520|哲学的基本问题是思维和存在的关系问题。|[图片链接](./backgrounds_no_countdown/772520.jpg)|schedule|
+|2023-12-04|920534|风里有花香，身边有最爱的人。|[图片链接](./backgrounds_no_countdown/920534.jpg)|schedule|
+|2023-12-04|456710|我爱你，与你有何相干？毁灭你，又与你有何相干？|[图片链接](./backgrounds_no_countdown/456710.jpg)|schedule|
