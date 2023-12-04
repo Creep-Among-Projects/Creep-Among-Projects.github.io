@@ -994,3 +994,6 @@ List of Backgrounds / 图片列表:
 |2023-12-04|772520|哲学的基本问题是思维和存在的关系问题。|[图片链接](./backgrounds_no_countdown/772520.jpg)|schedule|
 |2023-12-04|920534|风里有花香，身边有最爱的人。|[图片链接](./backgrounds_no_countdown/920534.jpg)|schedule|
 |2023-12-04|456710|我爱你，与你有何相干？毁灭你，又与你有何相干？|[图片链接](./backgrounds_no_countdown/456710.jpg)|schedule|
+|2023-12-05|905318|愿我等之誓言，超越姓名与身份而永存。|[图片链接](./backgrounds_no_countdown/905318.jpg)|schedule|
+|2023-12-05|3571576|每一个不曾起舞的日子，都是对生活的辜负！|[图片链接](./backgrounds_no_countdown/3571576.jpg)|schedule|
+|2023-12-05|1314186|愿万般熙攘化为清风明月，四方梦想变成未来可期。|[图片链接](./backgrounds_no_countdown/1314186.jpg)|schedule|
