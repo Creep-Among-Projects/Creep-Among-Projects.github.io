@@ -1006,3 +1006,6 @@ List of Backgrounds / 图片列表:
 |2023-12-06|1089462|梦想还是要有的，万一见鬼了呢？|[图片链接](./backgrounds_no_countdown/1089462.jpg)|schedule|
 |2023-12-06|2087517|人言落日是天涯，望极天涯不见家。|[图片链接](./backgrounds_no_countdown/2087517.jpg)|schedule|
 |2023-12-06|1574181|哪有什么人生开挂，不过是坚持很久的厚积薄发。|[图片链接](./backgrounds_no_countdown/1574181.jpg)|schedule|
+|2023-12-07|39531|凤凰台上凤凰游，凤去台空江自流。|[图片链接](./backgrounds_no_countdown/39531.jpg)|schedule|
+|2023-12-07|127073|千里莺啼绿映红，水村山郭酒旗风。|[图片链接](./backgrounds_no_countdown/127073.jpg)|schedule|
+|2023-12-07|590134|岁月总让人成长，却从不指明方向。|[图片链接](./backgrounds_no_countdown/590134.jpg)|schedule|
