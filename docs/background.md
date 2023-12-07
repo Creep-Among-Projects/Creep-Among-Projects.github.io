@@ -1635,3 +1635,6 @@ List of Backgrounds / 图片列表:
 |2023-12-08|3214944|馀情渺渺，茂林觞咏如今悄。|[图片链接](./backgrounds/3214944.jpg)|workflow_dispatch|
 |2023-12-08|1118866|没有人的文明毫无意义。|[图片链接](./backgrounds/1118866.jpg)|workflow_dispatch|
 |2023-12-08|957039|江畔何人初见月？江月何年初照人？|[图片链接](./backgrounds/957039.jpg)|workflow_dispatch|
+|2023-12-08|3961942|此剑抚平天下不平事，此剑无愧世间有愧人。|[图片链接](./backgrounds/3961942.jpg)|workflow_dispatch|
+|2023-12-08|417083|春水碧于天，画船听雨眠。|[图片链接](./backgrounds/417083.jpg)|workflow_dispatch|
+|2023-12-08|2125422|接叶巢莺，平波卷絮，断桥斜日归船。|[图片链接](./backgrounds/2125422.jpg)|workflow_dispatch|
