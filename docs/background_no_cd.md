@@ -1012,3 +1012,6 @@ List of Backgrounds / 图片列表:
 |2023-12-07|172067| 像旧时候，像老朋友。|[图片链接](./backgrounds_no_countdown/172067.jpg)|schedule|
 |2023-12-07|1666529|晚来天欲雪，能饮一杯无。|[图片链接](./backgrounds_no_countdown/1666529.jpg)|schedule|
 |2023-12-07|2086621|我所理解的生活就是和喜欢的一切在一起。|[图片链接](./backgrounds_no_countdown/2086621.jpg)|schedule|
+|2023-12-08|2832048|不是渐行渐远，而是有一天终要重逢。|[图片链接](./backgrounds_no_countdown/2832048.jpg)|schedule|
+|2023-12-08|259881|君知妾有夫，赠妾双明珠。|[图片链接](./backgrounds_no_countdown/259881.jpg)|schedule|
+|2023-12-08|3571551|Why so serious?|[图片链接](./backgrounds_no_countdown/3571551.jpg)|schedule|
