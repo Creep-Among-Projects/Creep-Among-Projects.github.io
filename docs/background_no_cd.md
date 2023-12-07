@@ -1015,3 +1015,6 @@ List of Backgrounds / 图片列表:
 |2023-12-08|2832048|不是渐行渐远，而是有一天终要重逢。|[图片链接](./backgrounds_no_countdown/2832048.jpg)|schedule|
 |2023-12-08|259881|君知妾有夫，赠妾双明珠。|[图片链接](./backgrounds_no_countdown/259881.jpg)|schedule|
 |2023-12-08|3571551|Why so serious?|[图片链接](./backgrounds_no_countdown/3571551.jpg)|schedule|
+|2023-12-08|3214944|馀情渺渺，茂林觞咏如今悄。|[图片链接](./backgrounds_no_countdown/3214944.jpg)|workflow_dispatch|
+|2023-12-08|1118866|没有人的文明毫无意义。|[图片链接](./backgrounds_no_countdown/1118866.jpg)|workflow_dispatch|
+|2023-12-08|957039|江畔何人初见月？江月何年初照人？|[图片链接](./backgrounds_no_countdown/957039.jpg)|workflow_dispatch|
