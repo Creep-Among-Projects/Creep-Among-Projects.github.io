@@ -1638,3 +1638,6 @@ List of Backgrounds / 图片列表:
 |2023-12-08|3961942|此剑抚平天下不平事，此剑无愧世间有愧人。|[图片链接](./backgrounds/3961942.jpg)|workflow_dispatch|
 |2023-12-08|417083|春水碧于天，画船听雨眠。|[图片链接](./backgrounds/417083.jpg)|workflow_dispatch|
 |2023-12-08|2125422|接叶巢莺，平波卷絮，断桥斜日归船。|[图片链接](./backgrounds/2125422.jpg)|workflow_dispatch|
+|2023-12-08|641559|愿你遍布祖国山河，觉得人生也值得。|[图片链接](./backgrounds/641559.jpg)|schedule|
+|2023-12-08|1881621|路为纸，地成册，行做笔，心当墨。|[图片链接](./backgrounds/1881621.jpg)|schedule|
+|2023-12-08|1460658|这个世界没有什么好畏惧的，反正我们只来一次。|[图片链接](./backgrounds/1460658.jpg)|schedule|
