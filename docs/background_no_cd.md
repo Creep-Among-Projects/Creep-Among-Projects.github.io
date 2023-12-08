@@ -1024,3 +1024,6 @@ List of Backgrounds / 图片列表:
 |2023-12-08|641559|愿你遍布祖国山河，觉得人生也值得。|[图片链接](./backgrounds_no_countdown/641559.jpg)|schedule|
 |2023-12-08|1881621|路为纸，地成册，行做笔，心当墨。|[图片链接](./backgrounds_no_countdown/1881621.jpg)|schedule|
 |2023-12-08|1460658|这个世界没有什么好畏惧的，反正我们只来一次。|[图片链接](./backgrounds_no_countdown/1460658.jpg)|schedule|
+|2023-12-09|1529881|生活就像超级女生，走到最后的都是纯爷们。|[图片链接](./backgrounds_no_countdown/1529881.jpg)|schedule|
+|2023-12-09|1444619|此生的约定，白头亦不负。|[图片链接](./backgrounds_no_countdown/1444619.jpg)|schedule|
+|2023-12-09|1262803|所有的偶然，不过是想要遇见你。|[图片链接](./backgrounds_no_countdown/1262803.jpg)|schedule|
