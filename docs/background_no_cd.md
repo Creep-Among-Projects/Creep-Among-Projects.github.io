@@ -1030,3 +1030,6 @@ List of Backgrounds / 图片列表:
 |2023-12-09|80453|世上本没有什么岁月静好，只是有人为你负重前行。|[图片链接](./backgrounds_no_countdown/80453.jpg)|schedule|
 |2023-12-09|172505|对于所有生命来说，不会死亡的绝望，是最可怕的审判。|[图片链接](./backgrounds_no_countdown/172505.jpg)|schedule|
 |2023-12-09|1480807|你制定的计划是.txt还是.exe?|[图片链接](./backgrounds_no_countdown/1480807.jpg)|schedule|
+|2023-12-10|117843|仰天大笑出门去，我辈岂是蓬蒿人。|[图片链接](./backgrounds_no_countdown/117843.jpg)|schedule|
+|2023-12-10|301395|心似双丝网，中有千千结。|[图片链接](./backgrounds_no_countdown/301395.jpg)|schedule|
+|2023-12-10|395044|绿杨烟外晓寒轻，红杏枝头春意闹。|[图片链接](./backgrounds_no_countdown/395044.jpg)|schedule|
