@@ -1027,3 +1027,6 @@ List of Backgrounds / 图片列表:
 |2023-12-09|1529881|生活就像超级女生，走到最后的都是纯爷们。|[图片链接](./backgrounds_no_countdown/1529881.jpg)|schedule|
 |2023-12-09|1444619|此生的约定，白头亦不负。|[图片链接](./backgrounds_no_countdown/1444619.jpg)|schedule|
 |2023-12-09|1262803|所有的偶然，不过是想要遇见你。|[图片链接](./backgrounds_no_countdown/1262803.jpg)|schedule|
+|2023-12-09|80453|世上本没有什么岁月静好，只是有人为你负重前行。|[图片链接](./backgrounds_no_countdown/80453.jpg)|schedule|
+|2023-12-09|172505|对于所有生命来说，不会死亡的绝望，是最可怕的审判。|[图片链接](./backgrounds_no_countdown/172505.jpg)|schedule|
+|2023-12-09|1480807|你制定的计划是.txt还是.exe?|[图片链接](./backgrounds_no_countdown/1480807.jpg)|schedule|
