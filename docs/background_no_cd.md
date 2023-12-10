@@ -1036,3 +1036,6 @@ List of Backgrounds / 图片列表:
 |2023-12-10|2246950|世界是那么阒寂，而昨天的我已离我远去。|[图片链接](./backgrounds_no_countdown/2246950.jpg)|schedule|
 |2023-12-10|216798|苦其心志，饿其体肤，空乏其身，行拂乱其所为。|[图片链接](./backgrounds_no_countdown/216798.jpg)|schedule|
 |2023-12-10|1055379|春城无处不飞花，寒食东风御柳斜。|[图片链接](./backgrounds_no_countdown/1055379.jpg)|schedule|
+|2023-12-11|1414535|被污浊了的悲伤中，今日细雪，悬而欲降。|[图片链接](./backgrounds_no_countdown/1414535.jpg)|schedule|
+|2023-12-11|227692|你有学校也有朋友，但对我来说，我的生活中就只有你。|[图片链接](./backgrounds_no_countdown/227692.jpg)|schedule|
+|2023-12-11|159884|黑云翻墨未遮山，白雨跳珠乱入船。|[图片链接](./backgrounds_no_countdown/159884.jpg)|schedule|
