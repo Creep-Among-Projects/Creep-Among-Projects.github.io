@@ -1033,3 +1033,6 @@ List of Backgrounds / 图片列表:
 |2023-12-10|117843|仰天大笑出门去，我辈岂是蓬蒿人。|[图片链接](./backgrounds_no_countdown/117843.jpg)|schedule|
 |2023-12-10|301395|心似双丝网，中有千千结。|[图片链接](./backgrounds_no_countdown/301395.jpg)|schedule|
 |2023-12-10|395044|绿杨烟外晓寒轻，红杏枝头春意闹。|[图片链接](./backgrounds_no_countdown/395044.jpg)|schedule|
+|2023-12-10|2246950|世界是那么阒寂，而昨天的我已离我远去。|[图片链接](./backgrounds_no_countdown/2246950.jpg)|schedule|
+|2023-12-10|216798|苦其心志，饿其体肤，空乏其身，行拂乱其所为。|[图片链接](./backgrounds_no_countdown/216798.jpg)|schedule|
+|2023-12-10|1055379|春城无处不飞花，寒食东风御柳斜。|[图片链接](./backgrounds_no_countdown/1055379.jpg)|schedule|
