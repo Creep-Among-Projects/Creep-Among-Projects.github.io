@@ -1042,3 +1042,6 @@ List of Backgrounds / 图片列表:
 |2023-12-11|634487|雨打梨花深闭门，误了青春，忘了青春。|[图片链接](./backgrounds_no_countdown/634487.jpg)|schedule|
 |2023-12-11|951076|人生用特写镜头来看是悲剧，长镜头来看则是喜剧。|[图片链接](./backgrounds_no_countdown/951076.jpg)|schedule|
 |2023-12-11|442559|高调做事，低调做人。|[图片链接](./backgrounds_no_countdown/442559.jpg)|schedule|
+|2023-12-12|175407|所爱隔山海，山海不可平。|[图片链接](./backgrounds_no_countdown/175407.jpg)|schedule|
+|2023-12-12|2832074|窗外日光弹指过，席前花影坐前移。|[图片链接](./backgrounds_no_countdown/2832074.jpg)|schedule|
+|2023-12-12|1619317|生命的遗产是对知识的更新。|[图片链接](./backgrounds_no_countdown/1619317.jpg)|schedule|
