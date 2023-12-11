@@ -1039,3 +1039,6 @@ List of Backgrounds / 图片列表:
 |2023-12-11|1414535|被污浊了的悲伤中，今日细雪，悬而欲降。|[图片链接](./backgrounds_no_countdown/1414535.jpg)|schedule|
 |2023-12-11|227692|你有学校也有朋友，但对我来说，我的生活中就只有你。|[图片链接](./backgrounds_no_countdown/227692.jpg)|schedule|
 |2023-12-11|159884|黑云翻墨未遮山，白雨跳珠乱入船。|[图片链接](./backgrounds_no_countdown/159884.jpg)|schedule|
+|2023-12-11|634487|雨打梨花深闭门，误了青春，忘了青春。|[图片链接](./backgrounds_no_countdown/634487.jpg)|schedule|
+|2023-12-11|951076|人生用特写镜头来看是悲剧，长镜头来看则是喜剧。|[图片链接](./backgrounds_no_countdown/951076.jpg)|schedule|
+|2023-12-11|442559|高调做事，低调做人。|[图片链接](./backgrounds_no_countdown/442559.jpg)|schedule|
