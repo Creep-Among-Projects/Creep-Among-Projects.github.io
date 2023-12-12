@@ -1048,3 +1048,6 @@ List of Backgrounds / 图片列表:
 |2023-12-12|731423|你无法同时拥有青春和对青春的感受。|[图片链接](./backgrounds_no_countdown/731423.jpg)|schedule|
 |2023-12-12|1659689|近乡情更怯，不敢问来人。|[图片链接](./backgrounds_no_countdown/1659689.jpg)|schedule|
 |2023-12-12|144251|白日放歌须纵酒，青春作伴好还乡。|[图片链接](./backgrounds_no_countdown/144251.jpg)|schedule|
+|2023-12-13|289326|青山相待，白云相爱，梦不到紫罗袍共黄金带。|[图片链接](./backgrounds_no_countdown/289326.jpg)|schedule|
+|2023-12-13|1571117|十年磨一剑，霜刃未曾试。|[图片链接](./backgrounds_no_countdown/1571117.jpg)|schedule|
+|2023-12-13|917510|我所描绘的一切或许并非真实，然而我的感受绝无虚假。|[图片链接](./backgrounds_no_countdown/917510.jpg)|schedule|
