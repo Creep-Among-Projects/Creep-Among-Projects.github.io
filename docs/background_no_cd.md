@@ -1045,3 +1045,6 @@ List of Backgrounds / 图片列表:
 |2023-12-12|175407|所爱隔山海，山海不可平。|[图片链接](./backgrounds_no_countdown/175407.jpg)|schedule|
 |2023-12-12|2832074|窗外日光弹指过，席前花影坐前移。|[图片链接](./backgrounds_no_countdown/2832074.jpg)|schedule|
 |2023-12-12|1619317|生命的遗产是对知识的更新。|[图片链接](./backgrounds_no_countdown/1619317.jpg)|schedule|
+|2023-12-12|731423|你无法同时拥有青春和对青春的感受。|[图片链接](./backgrounds_no_countdown/731423.jpg)|schedule|
+|2023-12-12|1659689|近乡情更怯，不敢问来人。|[图片链接](./backgrounds_no_countdown/1659689.jpg)|schedule|
+|2023-12-12|144251|白日放歌须纵酒，青春作伴好还乡。|[图片链接](./backgrounds_no_countdown/144251.jpg)|schedule|
