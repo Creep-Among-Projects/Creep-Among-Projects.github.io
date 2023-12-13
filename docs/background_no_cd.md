@@ -1054,3 +1054,6 @@ List of Backgrounds / 图片列表:
 |2023-12-13|2831299|天平山上白云泉，云自无心水自闲。|[图片链接](./backgrounds_no_countdown/2831299.jpg)|schedule|
 |2023-12-13|104750|让人类保持理智，确实是种奢求。|[图片链接](./backgrounds_no_countdown/104750.jpg)|schedule|
 |2023-12-13|33227|咬定青山不放松，立根原在破岩中。|[图片链接](./backgrounds_no_countdown/33227.jpg)|schedule|
+|2023-12-14|1671230|东隅已逝，桑榆非晚。|[图片链接](./backgrounds_no_countdown/1671230.jpg)|schedule|
+|2023-12-14|1064535|曾与美人桥上别，恨无消息到今朝。|[图片链接](./backgrounds_no_countdown/1064535.jpg)|schedule|
+|2023-12-14|414513|我还在原地等你 你却已经忘记来过这里|[图片链接](./backgrounds_no_countdown/414513.jpg)|schedule|
