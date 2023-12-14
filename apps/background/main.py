@@ -333,7 +333,7 @@ draw.text((1920, 70),
 weather_text = f'天气预报：\n{"-" * 28}\n' + \
                f'\n{"-" * 28}\n'.join([f'日期：{_["date"]}\n'
                                        f'天气：{_["dayweather"]}/{_["nightweather"]}\n'
-                                       f'温度：{_["nighttemp_float"]}-{_["daytemp_float"]}\n'
+                                       f'温度：{_["nighttemp_float"]} ~ {_["daytemp_float"]}\n'
                                        f'风级：{_["daypower"]}'
                                        for _ in weather_info])
 draw.multiline_text((3000, 400),
