@@ -1069,3 +1069,6 @@ List of Backgrounds / 图片列表:
 |2023-12-15|2073625|我本可以忍受黑暗，如果我不曾见过光明。|[图片链接](./backgrounds_no_countdown/2073625.jpg)|schedule|
 |2023-12-15|365633|我们把世界看错，反说它欺骗了我们。|[图片链接](./backgrounds_no_countdown/365633.jpg)|schedule|
 |2023-12-15|158398|天下熙熙，皆为利来；天下攘攘，皆为利往。|[图片链接](./backgrounds_no_countdown/158398.jpg)|schedule|
+|2023-12-16|67811|他乡纵有当头月，不及故乡一盏灯。|[图片链接](./backgrounds_no_countdown/67811.jpg)|schedule|
+|2023-12-16|3464632|即使人生是一场悲剧，也应该笑着把人生演完。|[图片链接](./backgrounds_no_countdown/3464632.jpg)|schedule|
+|2023-12-16|257849|两岸罗衣破晕香，银钗照日如霜刃。|[图片链接](./backgrounds_no_countdown/257849.jpg)|schedule|
