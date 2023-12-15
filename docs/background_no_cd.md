@@ -1066,3 +1066,6 @@ List of Backgrounds / 图片列表:
 |2023-12-15|2832050|待羊儿，酒罢又烹茶，扬州鹤。|[图片链接](./backgrounds_no_countdown/2832050.jpg)|push|
 |2023-12-15|65865|读万卷书，行万里路。|[图片链接](./backgrounds_no_countdown/65865.jpg)|push|
 |2023-12-15|1222561|落尽红缨君不见，轻绘梨花泪沾衣。|[图片链接](./backgrounds_no_countdown/1222561.jpg)|push|
+|2023-12-15|2073625|我本可以忍受黑暗，如果我不曾见过光明。|[图片链接](./backgrounds_no_countdown/2073625.jpg)|schedule|
+|2023-12-15|365633|我们把世界看错，反说它欺骗了我们。|[图片链接](./backgrounds_no_countdown/365633.jpg)|schedule|
+|2023-12-15|158398|天下熙熙，皆为利来；天下攘攘，皆为利往。|[图片链接](./backgrounds_no_countdown/158398.jpg)|schedule|
