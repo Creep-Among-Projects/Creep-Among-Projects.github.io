@@ -1075,3 +1075,6 @@ List of Backgrounds / 图片列表:
 |2023-12-16|414122|保持热爱，奔赴山海。|[图片链接](./backgrounds_no_countdown/414122.jpg)|schedule|
 |2023-12-16|1252871|一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。|[图片链接](./backgrounds_no_countdown/1252871.jpg)|schedule|
 |2023-12-16|122588|万事开头难，然后中间难，最后结尾难。|[图片链接](./backgrounds_no_countdown/122588.jpg)|schedule|
+|2023-12-16|3780104|生命在于折腾，生命不息，折腾不止|[图片链接](./backgrounds_no_countdown/3780104.jpg)|push|
+|2023-12-16|2693208|现实就是一本蹩脚的小说，它从不按常理出牌。|[图片链接](./backgrounds_no_countdown/2693208.jpg)|push|
+|2023-12-16|2693212|苍天璧络天一络，雅月鸿灵月正灵。|[图片链接](./backgrounds_no_countdown/2693212.jpg)|push|
