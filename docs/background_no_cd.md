@@ -1072,3 +1072,6 @@ List of Backgrounds / 图片列表:
 |2023-12-16|67811|他乡纵有当头月，不及故乡一盏灯。|[图片链接](./backgrounds_no_countdown/67811.jpg)|schedule|
 |2023-12-16|3464632|即使人生是一场悲剧，也应该笑着把人生演完。|[图片链接](./backgrounds_no_countdown/3464632.jpg)|schedule|
 |2023-12-16|257849|两岸罗衣破晕香，银钗照日如霜刃。|[图片链接](./backgrounds_no_countdown/257849.jpg)|schedule|
+|2023-12-16|414122|保持热爱，奔赴山海。|[图片链接](./backgrounds_no_countdown/414122.jpg)|schedule|
+|2023-12-16|1252871|一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。|[图片链接](./backgrounds_no_countdown/1252871.jpg)|schedule|
+|2023-12-16|122588|万事开头难，然后中间难，最后结尾难。|[图片链接](./backgrounds_no_countdown/122588.jpg)|schedule|
