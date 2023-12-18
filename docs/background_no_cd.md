@@ -1087,3 +1087,6 @@ List of Backgrounds / 图片列表:
 |2023-12-18|2832382|沧海月明珠有泪，蓝田日暖玉生烟。|[图片链接](./backgrounds_no_countdown/2832382.jpg)|schedule|
 |2023-12-18|96381|晓看天色暮看云，行也思君，坐也思君。|[图片链接](./backgrounds_no_countdown/96381.jpg)|schedule|
 |2023-12-18|1998479|清风明月无人管，并作南楼一味凉。|[图片链接](./backgrounds_no_countdown/1998479.jpg)|schedule|
+|2023-12-18|2387793|就算被世界遗忘，我也会陪在你的身旁。|[图片链接](./backgrounds_no_countdown/2387793.jpg)|schedule|
+|2023-12-18|2130475|每一次选择，都要为其承担后果。|[图片链接](./backgrounds_no_countdown/2130475.jpg)|schedule|
+|2023-12-18|1910236|我愿供灯千盏，照彻长夜，即便飞蛾扑火，也无所畏惧。|[图片链接](./backgrounds_no_countdown/1910236.jpg)|schedule|
