@@ -1090,3 +1090,6 @@ List of Backgrounds / 图片列表:
 |2023-12-18|2387793|就算被世界遗忘，我也会陪在你的身旁。|[图片链接](./backgrounds_no_countdown/2387793.jpg)|schedule|
 |2023-12-18|2130475|每一次选择，都要为其承担后果。|[图片链接](./backgrounds_no_countdown/2130475.jpg)|schedule|
 |2023-12-18|1910236|我愿供灯千盏，照彻长夜，即便飞蛾扑火，也无所畏惧。|[图片链接](./backgrounds_no_countdown/1910236.jpg)|schedule|
+|2023-12-19|1572386|北方有佳人，绝世而独立。|[图片链接](./backgrounds_no_countdown/1572386.jpg)|schedule|
+|2023-12-19|1103970|寂寞嫦娥舒广袖，万里长空且为忠魂舞。|[图片链接](./backgrounds_no_countdown/1103970.jpg)|schedule|
+|2023-12-19|1493226|我敬你是条汉子！|[图片链接](./backgrounds_no_countdown/1493226.jpg)|schedule|
