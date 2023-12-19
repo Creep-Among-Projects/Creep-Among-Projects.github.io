@@ -1093,3 +1093,6 @@ List of Backgrounds / 图片列表:
 |2023-12-19|1572386|北方有佳人，绝世而独立。|[图片链接](./backgrounds_no_countdown/1572386.jpg)|schedule|
 |2023-12-19|1103970|寂寞嫦娥舒广袖，万里长空且为忠魂舞。|[图片链接](./backgrounds_no_countdown/1103970.jpg)|schedule|
 |2023-12-19|1493226|我敬你是条汉子！|[图片链接](./backgrounds_no_countdown/1493226.jpg)|schedule|
+|2023-12-19|2387532|生而为人，我很抱歉！|[图片链接](./backgrounds_no_countdown/2387532.jpg)|schedule|
+|2023-12-19|1561020|还好还可以想你，不然拿什么对抗生活的琐碎和无趣。|[图片链接](./backgrounds_no_countdown/1561020.jpg)|schedule|
+|2023-12-19|1570779|或许是不知梦的缘故，流离之人追逐幻影。|[图片链接](./backgrounds_no_countdown/1570779.jpg)|schedule|
