@@ -1096,3 +1096,6 @@ List of Backgrounds / 图片列表:
 |2023-12-19|2387532|生而为人，我很抱歉！|[图片链接](./backgrounds_no_countdown/2387532.jpg)|schedule|
 |2023-12-19|1561020|还好还可以想你，不然拿什么对抗生活的琐碎和无趣。|[图片链接](./backgrounds_no_countdown/1561020.jpg)|schedule|
 |2023-12-19|1570779|或许是不知梦的缘故，流离之人追逐幻影。|[图片链接](./backgrounds_no_countdown/1570779.jpg)|schedule|
+|2023-12-20|1509534|看看人间的苦难，听听人民的呐喊！|[图片链接](./backgrounds_no_countdown/1509534.jpg)|schedule|
+|2023-12-20|2092075|机场永远等不到船，就像我永远等不到你。|[图片链接](./backgrounds_no_countdown/2092075.jpg)|schedule|
+|2023-12-20|1585325|十八成年亦乘风。|[图片链接](./backgrounds_no_countdown/1585325.jpg)|schedule|
