@@ -1102,3 +1102,6 @@ List of Backgrounds / 图片列表:
 |2023-12-20|593158|此时相望不相闻，愿逐月华流照君。|[图片链接](./backgrounds_no_countdown/593158.jpg)|schedule|
 |2023-12-20|2011824|莫唱当年长恨歌，人间亦自有银河。|[图片链接](./backgrounds_no_countdown/2011824.jpg)|schedule|
 |2023-12-20|2471235|愿人生如剑、立起寒光四射、躺倒四射寒光|[图片链接](./backgrounds_no_countdown/2471235.jpg)|schedule|
+|2023-12-21|956999|呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！|[图片链接](./backgrounds_no_countdown/956999.jpg)|schedule|
+|2023-12-21|2457284|犹豫就会败北，果断就会白给。|[图片链接](./backgrounds_no_countdown/2457284.jpg)|schedule|
+|2023-12-21|1910231|星影落九天， 鱼雁舞千弦。但为君沉吟，孤鸿醉尘烟。|[图片链接](./backgrounds_no_countdown/1910231.jpg)|schedule|
