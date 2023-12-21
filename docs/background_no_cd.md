@@ -1108,3 +1108,6 @@ List of Backgrounds / 图片列表:
 |2023-12-21|255379|碑是那么小，与其说是为了纪念，更像是为了忘却。|[图片链接](./backgrounds_no_countdown/255379.jpg)|schedule|
 |2023-12-21|1029611|当年不肯嫁春风，无端却被秋风误。|[图片链接](./backgrounds_no_countdown/1029611.jpg)|schedule|
 |2023-12-21|1210276|在东北挺好的，但是很快秋天就要来了，再不走就冷了。|[图片链接](./backgrounds_no_countdown/1210276.jpg)|schedule|
+|2023-12-22|2276928|落叶别树，飘零随风。客无所托，悲与此同。|[图片链接](./backgrounds_no_countdown/2276928.jpg)|schedule|
+|2023-12-22|2089891|如果我能使一颗心免于哀伤，我就不虚此生。|[图片链接](./backgrounds_no_countdown/2089891.jpg)|schedule|
+|2023-12-22|2397652|生当作人杰，死亦为鬼雄。|[图片链接](./backgrounds_no_countdown/2397652.jpg)|schedule|
