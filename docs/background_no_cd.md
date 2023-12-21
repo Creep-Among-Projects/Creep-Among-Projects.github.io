@@ -1105,3 +1105,6 @@ List of Backgrounds / 图片列表:
 |2023-12-21|956999|呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！|[图片链接](./backgrounds_no_countdown/956999.jpg)|schedule|
 |2023-12-21|2457284|犹豫就会败北，果断就会白给。|[图片链接](./backgrounds_no_countdown/2457284.jpg)|schedule|
 |2023-12-21|1910231|星影落九天， 鱼雁舞千弦。但为君沉吟，孤鸿醉尘烟。|[图片链接](./backgrounds_no_countdown/1910231.jpg)|schedule|
+|2023-12-21|255379|碑是那么小，与其说是为了纪念，更像是为了忘却。|[图片链接](./backgrounds_no_countdown/255379.jpg)|schedule|
+|2023-12-21|1029611|当年不肯嫁春风，无端却被秋风误。|[图片链接](./backgrounds_no_countdown/1029611.jpg)|schedule|
+|2023-12-21|1210276|在东北挺好的，但是很快秋天就要来了，再不走就冷了。|[图片链接](./backgrounds_no_countdown/1210276.jpg)|schedule|
