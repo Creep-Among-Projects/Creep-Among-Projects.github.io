@@ -1114,3 +1114,6 @@ List of Backgrounds / 图片列表:
 |2023-12-22|2333293|葡萄美酒夜光杯，欲饮琵琶马上催。|[图片链接](./backgrounds_no_countdown/2333293.jpg)|schedule|
 |2023-12-22|925743|最是人间留不住，朱颜辞镜花辞树。|[图片链接](./backgrounds_no_countdown/925743.jpg)|schedule|
 |2023-12-22|310452|如果命运扼住了你的喉咙，那你就挠命运的胳肢窝。|[图片链接](./backgrounds_no_countdown/310452.jpg)|schedule|
+|2023-12-23|2523959|痛苦犹如一艘船，欲望是指南针。|[图片链接](./backgrounds_no_countdown/2523959.jpg)|schedule|
+|2023-12-23|1145720|你知道什么叫幸福嘛？幸福就是拍拍手。|[图片链接](./backgrounds_no_countdown/1145720.jpg)|schedule|
+|2023-12-23|2156881|我站在路口，哈出的气可以把那些六角形的雪融化。|[图片链接](./backgrounds_no_countdown/2156881.jpg)|schedule|
