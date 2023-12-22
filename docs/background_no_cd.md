@@ -1111,3 +1111,6 @@ List of Backgrounds / 图片列表:
 |2023-12-22|2276928|落叶别树，飘零随风。客无所托，悲与此同。|[图片链接](./backgrounds_no_countdown/2276928.jpg)|schedule|
 |2023-12-22|2089891|如果我能使一颗心免于哀伤，我就不虚此生。|[图片链接](./backgrounds_no_countdown/2089891.jpg)|schedule|
 |2023-12-22|2397652|生当作人杰，死亦为鬼雄。|[图片链接](./backgrounds_no_countdown/2397652.jpg)|schedule|
+|2023-12-22|2333293|葡萄美酒夜光杯，欲饮琵琶马上催。|[图片链接](./backgrounds_no_countdown/2333293.jpg)|schedule|
+|2023-12-22|925743|最是人间留不住，朱颜辞镜花辞树。|[图片链接](./backgrounds_no_countdown/925743.jpg)|schedule|
+|2023-12-22|310452|如果命运扼住了你的喉咙，那你就挠命运的胳肢窝。|[图片链接](./backgrounds_no_countdown/310452.jpg)|schedule|
