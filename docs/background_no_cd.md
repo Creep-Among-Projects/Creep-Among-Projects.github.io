@@ -1117,3 +1117,6 @@ List of Backgrounds / 图片列表:
 |2023-12-23|2523959|痛苦犹如一艘船，欲望是指南针。|[图片链接](./backgrounds_no_countdown/2523959.jpg)|schedule|
 |2023-12-23|1145720|你知道什么叫幸福嘛？幸福就是拍拍手。|[图片链接](./backgrounds_no_countdown/1145720.jpg)|schedule|
 |2023-12-23|2156881|我站在路口，哈出的气可以把那些六角形的雪融化。|[图片链接](./backgrounds_no_countdown/2156881.jpg)|schedule|
+|2023-12-23|137594|语言不过是沉默的标点符号。|[图片链接](./backgrounds_no_countdown/137594.jpg)|schedule|
+|2023-12-23|2317685|冰雪林中著此身，不同桃李混芳尘；|[图片链接](./backgrounds_no_countdown/2317685.jpg)|schedule|
+|2023-12-23|604684|你看这个面他又长又宽~|[图片链接](./backgrounds_no_countdown/604684.jpg)|schedule|
