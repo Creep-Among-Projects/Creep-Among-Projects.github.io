@@ -1120,3 +1120,6 @@ List of Backgrounds / 图片列表:
 |2023-12-23|137594|语言不过是沉默的标点符号。|[图片链接](./backgrounds_no_countdown/137594.jpg)|schedule|
 |2023-12-23|2317685|冰雪林中著此身，不同桃李混芳尘；|[图片链接](./backgrounds_no_countdown/2317685.jpg)|schedule|
 |2023-12-23|604684|你看这个面他又长又宽~|[图片链接](./backgrounds_no_countdown/604684.jpg)|schedule|
+|2023-12-24|288099|傲骨几锉尽 惟立仇心 十方雷霆乍起 振紫衣|[图片链接](./backgrounds_no_countdown/288099.jpg)|schedule|
+|2023-12-24|207153|世人结交须黄金，黄金不多交不深。|[图片链接](./backgrounds_no_countdown/207153.jpg)|schedule|
+|2023-12-24|1149019|既然选择了远方，便只顾风雨兼程。|[图片链接](./backgrounds_no_countdown/1149019.jpg)|schedule|
