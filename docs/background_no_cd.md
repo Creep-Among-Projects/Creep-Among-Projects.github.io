@@ -1138,3 +1138,6 @@ List of Backgrounds / 图片列表:
 |2023-12-26|1279813|东隅已逝，桑榆非晚。|[图片链接](./backgrounds_no_countdown/1279813.jpg)|schedule|
 |2023-12-26|2693200|嘴里塞满无知的梦想，醉了就吐一地闪光。|[图片链接](./backgrounds_no_countdown/2693200.jpg)|schedule|
 |2023-12-26|2249527|伤心桥下春波绿，曾是惊鸿照影来。|[图片链接](./backgrounds_no_countdown/2249527.jpg)|schedule|
+|2023-12-27|32997|一个人可以被毁灭，但不能被打败。|[图片链接](./backgrounds_no_countdown/32997.jpg)|schedule|
+|2023-12-27|262367|经典之所以称之为经典，因为它能经得起时间的考验。|[图片链接](./backgrounds_no_countdown/262367.jpg)|schedule|
+|2023-12-27|1910225|为什么你宁愿吃生活上的苦 而不愿意吃学习上的苦？|[图片链接](./backgrounds_no_countdown/1910225.jpg)|schedule|
