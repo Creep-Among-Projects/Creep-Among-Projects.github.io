@@ -1135,3 +1135,6 @@ List of Backgrounds / 图片列表:
 |2023-12-26|266526|过去的事情可以不忘记，但一定要放下。|[图片链接](./backgrounds_no_countdown/266526.jpg)|schedule|
 |2023-12-26|3573555|日日思君不见君，共饮长江水。|[图片链接](./backgrounds_no_countdown/3573555.jpg)|schedule|
 |2023-12-26|2911521|蝉噪林逾静，鸟鸣山更幽。|[图片链接](./backgrounds_no_countdown/2911521.jpg)|schedule|
+|2023-12-26|1279813|东隅已逝，桑榆非晚。|[图片链接](./backgrounds_no_countdown/1279813.jpg)|schedule|
+|2023-12-26|2693200|嘴里塞满无知的梦想，醉了就吐一地闪光。|[图片链接](./backgrounds_no_countdown/2693200.jpg)|schedule|
+|2023-12-26|2249527|伤心桥下春波绿，曾是惊鸿照影来。|[图片链接](./backgrounds_no_countdown/2249527.jpg)|schedule|
