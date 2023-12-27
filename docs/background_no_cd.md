@@ -1144,3 +1144,6 @@ List of Backgrounds / 图片列表:
 |2023-12-27|1312488|一如软件深似海，头发从此是路人！|[图片链接](./backgrounds_no_countdown/1312488.jpg)|schedule|
 |2023-12-27|2414036|薛洋的小指断了，月老怎么牵线呢。|[图片链接](./backgrounds_no_countdown/2414036.jpg)|schedule|
 |2023-12-27|3694708|你不能把这个世界，让给你所鄙视的人。|[图片链接](./backgrounds_no_countdown/3694708.jpg)|schedule|
+|2023-12-28|2860807|你看这个碗他又大又圆~|[图片链接](./backgrounds_no_countdown/2860807.jpg)|schedule|
+|2023-12-28|2457278|我们永远无法叫醒一个装睡的人 。|[图片链接](./backgrounds_no_countdown/2457278.jpg)|schedule|
+|2023-12-28|1292241|旁观者清，千秋功罪，可真的有人评说了。|[图片链接](./backgrounds_no_countdown/1292241.jpg)|schedule|
