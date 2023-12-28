@@ -1150,3 +1150,6 @@ List of Backgrounds / 图片列表:
 |2023-12-28|950241|撸起袖子加油干。|[图片链接](./backgrounds_no_countdown/950241.jpg)|schedule|
 |2023-12-28|2130474|有志者，事竟成。|[图片链接](./backgrounds_no_countdown/2130474.jpg)|schedule|
 |2023-12-28|1022928|当欲望失去了枷锁，向左是地狱，向右也是地狱。|[图片链接](./backgrounds_no_countdown/1022928.jpg)|schedule|
+|2023-12-29|355288|生活中最重要的不是凯旋，而是奋斗。|[图片链接](./backgrounds_no_countdown/355288.jpg)|schedule|
+|2023-12-29|2215609|你是我的文艺复兴。|[图片链接](./backgrounds_no_countdown/2215609.jpg)|schedule|
+|2023-12-29|3109830|一颗红心两只手，世世代代跟党走。|[图片链接](./backgrounds_no_countdown/3109830.jpg)|schedule|
