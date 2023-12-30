@@ -1156,3 +1156,6 @@ List of Backgrounds / 图片列表:
 |2023-12-29|2157895|尊严，只在剑锋之上；真理，只在大炮射程之内！|[图片链接](./backgrounds_no_countdown/2157895.jpg)|schedule|
 |2023-12-29|1910230|你是比那更多的东西，希里。比那更多的东西。|[图片链接](./backgrounds_no_countdown/1910230.jpg)|schedule|
 |2023-12-29|3607083|修道者，逆天而行，注定要一生孤独。|[图片链接](./backgrounds_no_countdown/3607083.jpg)|schedule|
+|2023-12-30|2881262|生活先给予你希望，然后是绝望。|[图片链接](./backgrounds_no_countdown/2881262.jpg)|schedule|
+|2023-12-30|2168238|人生得意须尽欢，莫使金樽空对月。|[图片链接](./backgrounds_no_countdown/2168238.jpg)|schedule|
+|2023-12-30|1037996|梅花雪，梨花月，总相思。|[图片链接](./backgrounds_no_countdown/1037996.jpg)|schedule|
