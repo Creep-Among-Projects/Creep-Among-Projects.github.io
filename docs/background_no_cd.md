@@ -1162,3 +1162,6 @@ List of Backgrounds / 图片列表:
 |2023-12-31|161043|南国有佳人，容华若桃李。|[图片链接](./backgrounds_no_countdown/161043.jpg)|schedule|
 |2023-12-31|1981468|万物皆有裂痕，那是光照进来的地方。|[图片链接](./backgrounds_no_countdown/1981468.jpg)|schedule|
 |2023-12-31|316093|执手相看泪眼，竟无语凝噎。|[图片链接](./backgrounds_no_countdown/316093.jpg)|schedule|
+|2023-12-31|370799|有些人坐飞机就能见到，有些人坐时光机才可以。|[图片链接](./backgrounds_no_countdown/370799.jpg)|schedule|
+|2023-12-31|688830|大自然真是自然的吗？|[图片链接](./backgrounds_no_countdown/688830.jpg)|schedule|
+|2023-12-31|125509|人能够能动地认识世界；人能够能动地改造世界。|[图片链接](./backgrounds_no_countdown/125509.jpg)|schedule|
