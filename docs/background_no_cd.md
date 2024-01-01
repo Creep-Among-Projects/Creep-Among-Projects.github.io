@@ -1171,3 +1171,6 @@ List of Backgrounds / 图片列表:
 |2024-01-01|1082179|一尺之锤，日取其半，万世不竭。|[图片链接](./backgrounds_no_countdown/1082179.jpg)|push|
 |2024-01-01|1564655|柴门闻犬吠，风雪夜归人。|[图片链接](./backgrounds_no_countdown/1564655.jpg)|push|
 |2024-01-01|1062175|醉后不知天在水，满船清梦压星河。|[图片链接](./backgrounds_no_countdown/1062175.jpg)|push|
+|2024-01-01|414949|二十四桥明月夜，玉人何处教吹箫？|[图片链接](./backgrounds_no_countdown/414949.jpg)|schedule|
+|2024-01-01|2013674|乃知一死生为虚诞，齐彭殇为妄作。|[图片链接](./backgrounds_no_countdown/2013674.jpg)|schedule|
+|2024-01-01|1292006|停留是刹那，转身即天涯。|[图片链接](./backgrounds_no_countdown/1292006.jpg)|schedule|
