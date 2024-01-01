@@ -1174,3 +1174,6 @@ List of Backgrounds / 图片列表:
 |2024-01-01|414949|二十四桥明月夜，玉人何处教吹箫？|[图片链接](./backgrounds_no_countdown/414949.jpg)|schedule|
 |2024-01-01|2013674|乃知一死生为虚诞，齐彭殇为妄作。|[图片链接](./backgrounds_no_countdown/2013674.jpg)|schedule|
 |2024-01-01|1292006|停留是刹那，转身即天涯。|[图片链接](./backgrounds_no_countdown/1292006.jpg)|schedule|
+|2024-01-02|2145820|青青子衿，悠悠我心。|[图片链接](./backgrounds_no_countdown/2145820.jpg)|schedule|
+|2024-01-02|739349|忘记了过去，就意味着背叛！|[图片链接](./backgrounds_no_countdown/739349.jpg)|schedule|
+|2024-01-02|1352196|为遇一人而入红尘，人去我亦去，此生不留尘。|[图片链接](./backgrounds_no_countdown/1352196.jpg)|schedule|
