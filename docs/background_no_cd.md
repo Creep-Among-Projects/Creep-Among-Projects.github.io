@@ -1168,3 +1168,6 @@ List of Backgrounds / 图片列表:
 |2024-01-01|1789968|春宵一刻值千金，花有清香月有阴。|[图片链接](./backgrounds_no_countdown/1789968.jpg)|schedule|
 |2024-01-01|1293125|此生此夜不长好，明月明年何处看。|[图片链接](./backgrounds_no_countdown/1293125.jpg)|schedule|
 |2024-01-01|2179483|谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。|[图片链接](./backgrounds_no_countdown/2179483.jpg)|schedule|
+|2024-01-01|1082179|一尺之锤，日取其半，万世不竭。|[图片链接](./backgrounds_no_countdown/1082179.jpg)|push|
+|2024-01-01|1564655|柴门闻犬吠，风雪夜归人。|[图片链接](./backgrounds_no_countdown/1564655.jpg)|push|
+|2024-01-01|1062175|醉后不知天在水，满船清梦压星河。|[图片链接](./backgrounds_no_countdown/1062175.jpg)|push|
