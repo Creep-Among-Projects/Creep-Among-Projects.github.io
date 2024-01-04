@@ -1192,3 +1192,6 @@ List of Backgrounds / 图片列表:
 |2024-01-04|50686|剃刀边缘怎能起造伽蓝。|[图片链接](./backgrounds_no_countdown/50686.jpg)|schedule|
 |2024-01-04|1146707|花在女人身上的钱不能省，就算省了也不能让她知道。|[图片链接](./backgrounds_no_countdown/1146707.jpg)|schedule|
 |2024-01-04|238631|曾经沧海难为水，除却巫山不是云。|[图片链接](./backgrounds_no_countdown/238631.jpg)|schedule|
+|2024-01-05|340932|真诚加任何一项都是王炸，唯独单出是死牌。|[图片链接](./backgrounds_no_countdown/340932.jpg)|schedule|
+|2024-01-05|206353|隔岸无旧情，姑苏有钟声。|[图片链接](./backgrounds_no_countdown/206353.jpg)|schedule|
+|2024-01-05|746421|弱水三千，我只取一瓢饮。|[图片链接](./backgrounds_no_countdown/746421.jpg)|schedule|
