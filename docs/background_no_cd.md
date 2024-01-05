@@ -1198,3 +1198,6 @@ List of Backgrounds / 图片列表:
 |2024-01-05|1198817|山谷的最低点正是山的起点。|[图片链接](./backgrounds_no_countdown/1198817.jpg)|schedule|
 |2024-01-05|1086584|长阶血未尽，那是他带你回家的路啊……|[图片链接](./backgrounds_no_countdown/1086584.jpg)|schedule|
 |2024-01-05|4215113|一往情深深几许？深山夕照深秋雨。|[图片链接](./backgrounds_no_countdown/4215113.jpg)|schedule|
+|2024-01-06|385976|一寸柔肠情几许？薄衾孤枕，梦回人静，彻晓潇潇雨。|[图片链接](./backgrounds_no_countdown/385976.jpg)|schedule|
+|2024-01-06|672451|人皆荒醉，但唱观音。|[图片链接](./backgrounds_no_countdown/672451.jpg)|schedule|
+|2024-01-06|631317|所爱隔山海 山海亦可平|[图片链接](./backgrounds_no_countdown/631317.jpg)|schedule|
