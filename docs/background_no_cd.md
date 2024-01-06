@@ -1204,3 +1204,6 @@ List of Backgrounds / 图片列表:
 |2024-01-06|2734421|所谓世人，不就是你吗？|[图片链接](./backgrounds_no_countdown/2734421.jpg)|schedule|
 |2024-01-06|1662145|歌未竟，东方白。|[图片链接](./backgrounds_no_countdown/1662145.jpg)|schedule|
 |2024-01-06|434551|恋爱是为了开心，选择不爱也是。|[图片链接](./backgrounds_no_countdown/434551.jpg)|schedule|
+|2024-01-07|775200|王来承认，王来允许，王来背负这个世界！|[图片链接](./backgrounds_no_countdown/775200.jpg)|schedule|
+|2024-01-07|301489|从容不迫的举止，比起咄咄逼人的态度，更能令人心折。|[图片链接](./backgrounds_no_countdown/301489.jpg)|schedule|
+|2024-01-07|365668|为学日益，为道日损。|[图片链接](./backgrounds_no_countdown/365668.jpg)|schedule|
