@@ -1207,3 +1207,6 @@ List of Backgrounds / 图片列表:
 |2024-01-07|775200|王来承认，王来允许，王来背负这个世界！|[图片链接](./backgrounds_no_countdown/775200.jpg)|schedule|
 |2024-01-07|301489|从容不迫的举止，比起咄咄逼人的态度，更能令人心折。|[图片链接](./backgrounds_no_countdown/301489.jpg)|schedule|
 |2024-01-07|365668|为学日益，为道日损。|[图片链接](./backgrounds_no_countdown/365668.jpg)|schedule|
+|2024-01-07|57406|纵马而已，何必认路？|[图片链接](./backgrounds_no_countdown/57406.jpg)|schedule|
+|2024-01-07|1322074|北国风光，千里冰封，万里雪飘。|[图片链接](./backgrounds_no_countdown/1322074.jpg)|schedule|
+|2024-01-07|1526720|梦想不会逃跑，会逃跑的只有人|[图片链接](./backgrounds_no_countdown/1526720.jpg)|schedule|
