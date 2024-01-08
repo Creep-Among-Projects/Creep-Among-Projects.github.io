@@ -1216,3 +1216,6 @@ List of Backgrounds / 图片列表:
 |2024-01-08|3265460|阶砖不会拒绝磨蚀，窗花不可幽禁落霞。|[图片链接](./backgrounds_no_countdown/3265460.jpg)|schedule|
 |2024-01-08|2901834|为你战死是我至高无上的荣耀。|[图片链接](./backgrounds_no_countdown/2901834.jpg)|schedule|
 |2024-01-08|2832045|休对故人思故国，且将新火试新茶。诗酒趁年华。|[图片链接](./backgrounds_no_countdown/2832045.jpg)|schedule|
+|2024-01-09|428065|理智不是一个统计学概念。|[图片链接](./backgrounds_no_countdown/428065.jpg)|schedule|
+|2024-01-09|269176|换我心，为你心，始知相忆深。|[图片链接](./backgrounds_no_countdown/269176.jpg)|schedule|
+|2024-01-09|223023|如果圆规的两只脚都动，永远也画不出一个圆。|[图片链接](./backgrounds_no_countdown/223023.jpg)|schedule|
