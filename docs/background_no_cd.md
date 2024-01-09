@@ -1222,3 +1222,6 @@ List of Backgrounds / 图片列表:
 |2024-01-09|147640|掌覆道左阴翳 妄握天格命理|[图片链接](./backgrounds_no_countdown/147640.jpg)|schedule|
 |2024-01-09|442188|当浑浊成为一种常态，清白就是一种罪。|[图片链接](./backgrounds_no_countdown/442188.jpg)|schedule|
 |2024-01-09|1683492|弱小和无知，不是生存的障碍，傲慢才是。|[图片链接](./backgrounds_no_countdown/1683492.jpg)|schedule|
+|2024-01-10|327394|天要你走，我要你留|[图片链接](./backgrounds_no_countdown/327394.jpg)|schedule|
+|2024-01-10|633437|殷勤昨夜三更雨，又得浮生一日凉。|[图片链接](./backgrounds_no_countdown/633437.jpg)|schedule|
+|2024-01-10|2187626|旅行的意义在于找到自己，而非浏览他人。|[图片链接](./backgrounds_no_countdown/2187626.jpg)|schedule|
