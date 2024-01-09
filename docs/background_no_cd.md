@@ -1219,3 +1219,6 @@ List of Backgrounds / 图片列表:
 |2024-01-09|428065|理智不是一个统计学概念。|[图片链接](./backgrounds_no_countdown/428065.jpg)|schedule|
 |2024-01-09|269176|换我心，为你心，始知相忆深。|[图片链接](./backgrounds_no_countdown/269176.jpg)|schedule|
 |2024-01-09|223023|如果圆规的两只脚都动，永远也画不出一个圆。|[图片链接](./backgrounds_no_countdown/223023.jpg)|schedule|
+|2024-01-09|147640|掌覆道左阴翳 妄握天格命理|[图片链接](./backgrounds_no_countdown/147640.jpg)|schedule|
+|2024-01-09|442188|当浑浊成为一种常态，清白就是一种罪。|[图片链接](./backgrounds_no_countdown/442188.jpg)|schedule|
+|2024-01-09|1683492|弱小和无知，不是生存的障碍，傲慢才是。|[图片链接](./backgrounds_no_countdown/1683492.jpg)|schedule|
