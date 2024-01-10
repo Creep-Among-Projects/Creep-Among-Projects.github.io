@@ -1225,3 +1225,6 @@ List of Backgrounds / 图片列表:
 |2024-01-10|327394|天要你走，我要你留|[图片链接](./backgrounds_no_countdown/327394.jpg)|schedule|
 |2024-01-10|633437|殷勤昨夜三更雨，又得浮生一日凉。|[图片链接](./backgrounds_no_countdown/633437.jpg)|schedule|
 |2024-01-10|2187626|旅行的意义在于找到自己，而非浏览他人。|[图片链接](./backgrounds_no_countdown/2187626.jpg)|schedule|
+|2024-01-10|186985|我眼中的世界，你们看不到。|[图片链接](./backgrounds_no_countdown/186985.jpg)|workflow_dispatch|
+|2024-01-10|1082663|要发光，而不是被照亮。|[图片链接](./backgrounds_no_countdown/1082663.jpg)|workflow_dispatch|
+|2024-01-10|4253829|你睁开眼睛的时候，我在这里。|[图片链接](./backgrounds_no_countdown/4253829.jpg)|workflow_dispatch|
