@@ -1845,3 +1845,6 @@ List of Backgrounds / 图片列表:
 |2024-01-10|186985|我眼中的世界，你们看不到。|[图片链接](./backgrounds/186985.jpg)|workflow_dispatch|
 |2024-01-10|1082663|要发光，而不是被照亮。|[图片链接](./backgrounds/1082663.jpg)|workflow_dispatch|
 |2024-01-10|4253829|你睁开眼睛的时候，我在这里。|[图片链接](./backgrounds/4253829.jpg)|workflow_dispatch|
+|2024-01-10|2757549|可这世间疾苦，照样没放过我|[图片链接](./backgrounds/2757549.jpg)|schedule|
+|2024-01-10|1366913|谁家玉笛暗飞声，散入春风满洛城。|[图片链接](./backgrounds/1366913.jpg)|schedule|
+|2024-01-10|974314|羌笛何须怨杨柳，春风不度玉门关。|[图片链接](./backgrounds/974314.jpg)|schedule|
