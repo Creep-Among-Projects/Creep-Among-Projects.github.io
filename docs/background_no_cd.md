@@ -1237,3 +1237,6 @@ List of Backgrounds / 图片列表:
 |2024-01-11|3293148|我欲穿花寻路，直入白云深处，浩气展虹霓。|[图片链接](./backgrounds_no_countdown/3293148.jpg)|schedule|
 |2024-01-11|4534200|你搅散一池星光成为我的月亮。|[图片链接](./backgrounds_no_countdown/4534200.jpg)|schedule|
 |2024-01-11|1738402|离离原上草，一岁一枯荣。|[图片链接](./backgrounds_no_countdown/1738402.jpg)|schedule|
+|2024-01-12|4064432|我已经完全爱上沃玛(Warma)了！|[图片链接](./backgrounds_no_countdown/4064432.jpg)|schedule|
+|2024-01-12|2762673|有些路很远，走下去会很累。可是，不走，会后悔。|[图片链接](./backgrounds_no_countdown/2762673.jpg)|schedule|
+|2024-01-12|1385474|生命中，再无聊的时光，也都是限量版。|[图片链接](./backgrounds_no_countdown/1385474.jpg)|schedule|
