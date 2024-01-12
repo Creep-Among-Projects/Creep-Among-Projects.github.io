@@ -1240,3 +1240,6 @@ List of Backgrounds / 图片列表:
 |2024-01-12|4064432|我已经完全爱上沃玛(Warma)了！|[图片链接](./backgrounds_no_countdown/4064432.jpg)|schedule|
 |2024-01-12|2762673|有些路很远，走下去会很累。可是，不走，会后悔。|[图片链接](./backgrounds_no_countdown/2762673.jpg)|schedule|
 |2024-01-12|1385474|生命中，再无聊的时光，也都是限量版。|[图片链接](./backgrounds_no_countdown/1385474.jpg)|schedule|
+|2024-01-12|161097|晚日寒鸦一片愁。柳塘新绿却温柔。|[图片链接](./backgrounds_no_countdown/161097.jpg)|schedule|
+|2024-01-12|1834403|生命太短，一秒钟都不留给让人不快的家伙。|[图片链接](./backgrounds_no_countdown/1834403.jpg)|schedule|
+|2024-01-12|33284|君子不器。|[图片链接](./backgrounds_no_countdown/33284.jpg)|schedule|
