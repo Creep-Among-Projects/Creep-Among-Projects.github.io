@@ -1243,3 +1243,6 @@ List of Backgrounds / 图片列表:
 |2024-01-12|161097|晚日寒鸦一片愁。柳塘新绿却温柔。|[图片链接](./backgrounds_no_countdown/161097.jpg)|schedule|
 |2024-01-12|1834403|生命太短，一秒钟都不留给让人不快的家伙。|[图片链接](./backgrounds_no_countdown/1834403.jpg)|schedule|
 |2024-01-12|33284|君子不器。|[图片链接](./backgrounds_no_countdown/33284.jpg)|schedule|
+|2024-01-13|76972|学而不厌，诲人不倦。|[图片链接](./backgrounds_no_countdown/76972.jpg)|schedule|
+|2024-01-13|55832|一阴一阳之谓道，乐天知命故不忧。|[图片链接](./backgrounds_no_countdown/55832.jpg)|schedule|
+|2024-01-13|906002|曾经是意中人，现在是忆中人。|[图片链接](./backgrounds_no_countdown/906002.jpg)|schedule|
