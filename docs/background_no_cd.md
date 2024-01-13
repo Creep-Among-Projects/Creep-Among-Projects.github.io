@@ -1246,3 +1246,6 @@ List of Backgrounds / 图片列表:
 |2024-01-13|76972|学而不厌，诲人不倦。|[图片链接](./backgrounds_no_countdown/76972.jpg)|schedule|
 |2024-01-13|55832|一阴一阳之谓道，乐天知命故不忧。|[图片链接](./backgrounds_no_countdown/55832.jpg)|schedule|
 |2024-01-13|906002|曾经是意中人，现在是忆中人。|[图片链接](./backgrounds_no_countdown/906002.jpg)|schedule|
+|2024-01-13|226007|意志是一个强壮的盲人，倚靠在明眼的跛子肩上。|[图片链接](./backgrounds_no_countdown/226007.jpg)|schedule|
+|2024-01-13|913418|你就是盛开着的，漫山遍野的温柔。|[图片链接](./backgrounds_no_countdown/913418.jpg)|schedule|
+|2024-01-13|122892|失去人性，失去很多；失去兽性，失去一切。|[图片链接](./backgrounds_no_countdown/122892.jpg)|schedule|
