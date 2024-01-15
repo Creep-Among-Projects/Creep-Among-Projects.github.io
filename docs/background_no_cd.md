@@ -1261,3 +1261,6 @@ List of Backgrounds / 图片列表:
 |2024-01-15|1785493|荒诞也好，愚笨也好，总会过去的。|[图片链接](./backgrounds_no_countdown/1785493.jpg)|schedule|
 |2024-01-15|1496372|世事漫随流水，算来一梦浮生。|[图片链接](./backgrounds_no_countdown/1496372.jpg)|schedule|
 |2024-01-15|235767|"痴"这个字，真有趣，明是知道是病，依然痴心不改|[图片链接](./backgrounds_no_countdown/235767.jpg)|schedule|
+|2024-01-16|40513|人生最重要的是时机，时机对了，凡事都有可能。|[图片链接](./backgrounds_no_countdown/40513.jpg)|schedule|
+|2024-01-16|102896|人生可不像试卷一样只有一百分。|[图片链接](./backgrounds_no_countdown/102896.jpg)|schedule|
+|2024-01-16|64705|无次数的沉沦就是为了苏醒。|[图片链接](./backgrounds_no_countdown/64705.jpg)|schedule|
