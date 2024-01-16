@@ -1267,3 +1267,6 @@ List of Backgrounds / 图片列表:
 |2024-01-16|887764|既然认准这条路，何必去打听要走多久。|[图片链接](./backgrounds_no_countdown/887764.jpg)|schedule|
 |2024-01-16|2874157|忽来夜雨未绸缪，挑灯孤影欲还休。|[图片链接](./backgrounds_no_countdown/2874157.jpg)|schedule|
 |2024-01-16|1670413|回首向来萧瑟处，归去， 也无风雨也无晴。|[图片链接](./backgrounds_no_countdown/1670413.jpg)|schedule|
+|2024-01-17|957061|童话只美在真实却从不续写。|[图片链接](./backgrounds_no_countdown/957061.jpg)|schedule|
+|2024-01-17|55834|我们就是梦幻所用的材料，一场睡梦环抱了短促的人生。|[图片链接](./backgrounds_no_countdown/55834.jpg)|schedule|
+|2024-01-17|2067659|与其诅咒黑暗，不如点亮烛光。|[图片链接](./backgrounds_no_countdown/2067659.jpg)|schedule|
