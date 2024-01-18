@@ -1279,3 +1279,6 @@ List of Backgrounds / 图片列表:
 |2024-01-18|398467|七情拆解，无非心印；六欲所指，皆由心生。|[图片链接](./backgrounds_no_countdown/398467.jpg)|schedule|
 |2024-01-18|1287089|遇事不决，可问春风。|[图片链接](./backgrounds_no_countdown/1287089.jpg)|schedule|
 |2024-01-18|746386|一骑红尘妃子笑，无人知是荔枝来。|[图片链接](./backgrounds_no_countdown/746386.jpg)|schedule|
+|2024-01-19|133190|百般乐器，唢呐为王；不是升天，就是拜堂。|[图片链接](./backgrounds_no_countdown/133190.jpg)|schedule|
+|2024-01-19|913807|给我一个电话亭，我要拯救地球。|[图片链接](./backgrounds_no_countdown/913807.jpg)|schedule|
+|2024-01-19|242558|故事不是人生指南，你喜欢，可能只是你遇过。|[图片链接](./backgrounds_no_countdown/242558.jpg)|schedule|
