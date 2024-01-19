@@ -1285,3 +1285,6 @@ List of Backgrounds / 图片列表:
 |2024-01-19|592941|我怎么会知道，这些牡蛎产自哪个海岸呢？|[图片链接](./backgrounds_no_countdown/592941.jpg)|schedule|
 |2024-01-19|1266831|如果这个世界不喜欢你，那它就是我的敌人了。|[图片链接](./backgrounds_no_countdown/1266831.jpg)|schedule|
 |2024-01-19|62683|沾衣欲湿杏花雨，吹面不寒杨柳风。|[图片链接](./backgrounds_no_countdown/62683.jpg)|schedule|
+|2024-01-20|128303|总之岁月漫长，然而值得等待。|[图片链接](./backgrounds_no_countdown/128303.jpg)|schedule|
+|2024-01-20|80454|我要做一颗星星，有棱有角，还会发光。|[图片链接](./backgrounds_no_countdown/80454.jpg)|schedule|
+|2024-01-20|2923826|波暖绿粼粼，燕飞来，好是苏堤才晓。|[图片链接](./backgrounds_no_countdown/2923826.jpg)|schedule|
