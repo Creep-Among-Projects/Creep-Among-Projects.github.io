@@ -1288,3 +1288,6 @@ List of Backgrounds / 图片列表:
 |2024-01-20|128303|总之岁月漫长，然而值得等待。|[图片链接](./backgrounds_no_countdown/128303.jpg)|schedule|
 |2024-01-20|80454|我要做一颗星星，有棱有角，还会发光。|[图片链接](./backgrounds_no_countdown/80454.jpg)|schedule|
 |2024-01-20|2923826|波暖绿粼粼，燕飞来，好是苏堤才晓。|[图片链接](./backgrounds_no_countdown/2923826.jpg)|schedule|
+|2024-01-20|1416900|黄梅时节家家雨，青草池塘处处蛙。|[图片链接](./backgrounds_no_countdown/1416900.jpg)|schedule|
+|2024-01-20|977738|你还欠我一句对不起，可我不会再说没关系了。|[图片链接](./backgrounds_no_countdown/977738.jpg)|schedule|
+|2024-01-20|209756|须晴日，看红装素裹，分外妖娆。|[图片链接](./backgrounds_no_countdown/209756.jpg)|schedule|
