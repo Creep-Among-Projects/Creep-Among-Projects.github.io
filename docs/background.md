@@ -4,7 +4,7 @@ Author: [woshishabii(CXY)](https://github.com/woshishabii)
 
 每天生成一张桌面背景 (5931自用)
 
-5931课件网盘 : [OneDrive](https://y26g7-my.sharepoint.com/:f:/g/personal/5931_y26g7_onmicrosoft_com/EhQEFxA47TVDtrEhpDYppfYBRoCdD1qnSpAlKlcpb2BVXA)
+5931课件网盘 : [OneDrive](https://tqpc4-my.sharepoint.com/:f:/g/personal/5931_class_tqpc4_onmicrosoft_com/Ep3wpPCINwJJsBhsOfprGVkBEpBv5r8vVWB5MyyUZAb_Ag?e=5q1t9e)
 
 本网站同步部署于：
 
