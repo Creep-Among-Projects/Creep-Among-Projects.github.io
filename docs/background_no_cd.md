@@ -1294,3 +1294,6 @@ List of Backgrounds / 图片列表:
 |2024-01-21|1438761|我年轻，我傲娇。|[图片链接](./backgrounds_no_countdown/1438761.jpg)|schedule|
 |2024-01-21|2884053|此后如竟没有炬火，我便是唯一的光。|[图片链接](./backgrounds_no_countdown/2884053.jpg)|schedule|
 |2024-01-21|1045113|糁径杨花铺白毡，点溪荷叶叠青钱。|[图片链接](./backgrounds_no_countdown/1045113.jpg)|schedule|
+|2024-01-21|757240|谁也不再拥有温暖的温度，来焐热那一片彻骨的寒|[图片链接](./backgrounds_no_countdown/757240.jpg)|schedule|
+|2024-01-21|2838562|两情若是久长时，又岂在朝朝暮暮？|[图片链接](./backgrounds_no_countdown/2838562.jpg)|schedule|
+|2024-01-21|1002725|雁子南飞时，故人忆往事。|[图片链接](./backgrounds_no_countdown/1002725.jpg)|schedule|
