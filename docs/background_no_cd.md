@@ -1297,3 +1297,6 @@ List of Backgrounds / 图片列表:
 |2024-01-21|757240|谁也不再拥有温暖的温度，来焐热那一片彻骨的寒|[图片链接](./backgrounds_no_countdown/757240.jpg)|schedule|
 |2024-01-21|2838562|两情若是久长时，又岂在朝朝暮暮？|[图片链接](./backgrounds_no_countdown/2838562.jpg)|schedule|
 |2024-01-21|1002725|雁子南飞时，故人忆往事。|[图片链接](./backgrounds_no_countdown/1002725.jpg)|schedule|
+|2024-01-23|725100|めまぐるしい景色の中,君だけが止まって見えた.|[图片链接](./backgrounds_no_countdown/725100.jpg)|schedule|
+|2024-01-23|640809|枯藤老树昏鸦，小桥流水人家，古道西风瘦马。|[图片链接](./backgrounds_no_countdown/640809.jpg)|schedule|
+|2024-01-23|460961|那些杀不死我的，终将使我变得更加强大。|[图片链接](./backgrounds_no_countdown/460961.jpg)|schedule|
