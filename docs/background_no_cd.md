@@ -1306,3 +1306,6 @@ List of Backgrounds / 图片列表:
 |2024-01-24|696680|遇事不决，可问春风，春风不语，遵循己心。|[图片链接](./backgrounds_no_countdown/696680.jpg)|schedule|
 |2024-01-24|192320|东风夜放花千树。更吹落、星如雨。|[图片链接](./backgrounds_no_countdown/192320.jpg)|schedule|
 |2024-01-24|816608|滚滚长江东逝水，浪花淘尽英雄。|[图片链接](./backgrounds_no_countdown/816608.jpg)|schedule|
+|2024-01-24|103573|杂耍和唱歌的才需要掌声。|[图片链接](./backgrounds_no_countdown/103573.jpg)|schedule|
+|2024-01-24|216105|宣父犹能畏后生，丈夫未可轻年少。|[图片链接](./backgrounds_no_countdown/216105.jpg)|schedule|
+|2024-01-24|4253929|海水梦悠悠，君愁我亦愁。|[图片链接](./backgrounds_no_countdown/4253929.jpg)|schedule|
