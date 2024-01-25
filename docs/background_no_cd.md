@@ -1315,3 +1315,6 @@ List of Backgrounds / 图片列表:
 |2024-01-25|1690355|梦想是远方的太阳，虽远却充满光芒。|[图片链接](./backgrounds_no_countdown/1690355.jpg)|schedule|
 |2024-01-25|97888|人类最高级别的安慰，就是理解别人的痛苦，并陪伴他。|[图片链接](./backgrounds_no_countdown/97888.jpg)|schedule|
 |2024-01-25|1743165|和你在一起，需要下地狱吗？那么，我去。|[图片链接](./backgrounds_no_countdown/1743165.jpg)|schedule|
+|2024-01-26|957089|我们终将在没有黑暗的地方相见。|[图片链接](./backgrounds_no_countdown/957089.jpg)|schedule|
+|2024-01-26|2770371|要想飞得高,就该把地平线忘掉|[图片链接](./backgrounds_no_countdown/2770371.jpg)|schedule|
+|2024-01-26|2888491|七八个星天外，两三点雨山前。|[图片链接](./backgrounds_no_countdown/2888491.jpg)|schedule|
