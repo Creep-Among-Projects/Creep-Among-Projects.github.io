@@ -1333,3 +1333,6 @@ List of Backgrounds / 图片列表:
 |2024-01-28|227416|伯牙鼓琴，志在高山。|[图片链接](./backgrounds_no_countdown/227416.jpg)|schedule|
 |2024-01-28|4220967|盐于律己，甜以待人。|[图片链接](./backgrounds_no_countdown/4220967.jpg)|schedule|
 |2024-01-28|2770933|纵有千古，横有八方；前途似海，来日方长。|[图片链接](./backgrounds_no_countdown/2770933.jpg)|schedule|
+|2024-01-29|950236|千金纵买相如赋，脉脉此情谁诉。|[图片链接](./backgrounds_no_countdown/950236.jpg)|schedule|
+|2024-01-29|459326|新绿乍生时，孤村路，犹忆那回曾到。|[图片链接](./backgrounds_no_countdown/459326.jpg)|schedule|
+|2024-01-29|219025|一个人在沙漠的机场，等一艘开往亚特兰蒂斯的船。|[图片链接](./backgrounds_no_countdown/219025.jpg)|schedule|
