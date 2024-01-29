@@ -1336,3 +1336,6 @@ List of Backgrounds / 图片列表:
 |2024-01-29|950236|千金纵买相如赋，脉脉此情谁诉。|[图片链接](./backgrounds_no_countdown/950236.jpg)|schedule|
 |2024-01-29|459326|新绿乍生时，孤村路，犹忆那回曾到。|[图片链接](./backgrounds_no_countdown/459326.jpg)|schedule|
 |2024-01-29|219025|一个人在沙漠的机场，等一艘开往亚特兰蒂斯的船。|[图片链接](./backgrounds_no_countdown/219025.jpg)|schedule|
+|2024-01-29|2521619|人生如逆旅，我亦是行人。|[图片链接](./backgrounds_no_countdown/2521619.jpg)|schedule|
+|2024-01-29|2131841|芙蓉塘外有轻雷。|[图片链接](./backgrounds_no_countdown/2131841.jpg)|schedule|
+|2024-01-29|212937|为你，千千万万遍。|[图片链接](./backgrounds_no_countdown/212937.jpg)|schedule|
