@@ -1351,3 +1351,6 @@ List of Backgrounds / 图片列表:
 |2024-01-31|2832022|君埋泉下泥销骨，我寄人间雪满头。|[图片链接](./backgrounds_no_countdown/2832022.jpg)|schedule|
 |2024-01-31|695214|笑声会传染，孤单会蔓延。|[图片链接](./backgrounds_no_countdown/695214.jpg)|schedule|
 |2024-01-31|45775|因为不可能，所以才值得相信。|[图片链接](./backgrounds_no_countdown/45775.jpg)|schedule|
+|2024-02-01|259463|不要熄灭破墙而出的欲望，否则鼾声又起。|[图片链接](./backgrounds_no_countdown/259463.jpg)|schedule|
+|2024-02-01|535431|汴水流，泗水流，流到瓜州古渡头。吴山点点愁。|[图片链接](./backgrounds_no_countdown/535431.jpg)|schedule|
+|2024-02-01|478544|今年花落颜色改，明年花开复谁在？|[图片链接](./backgrounds_no_countdown/478544.jpg)|schedule|
