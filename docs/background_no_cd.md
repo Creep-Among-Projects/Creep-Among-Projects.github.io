@@ -1354,3 +1354,6 @@ List of Backgrounds / 图片列表:
 |2024-02-01|259463|不要熄灭破墙而出的欲望，否则鼾声又起。|[图片链接](./backgrounds_no_countdown/259463.jpg)|schedule|
 |2024-02-01|535431|汴水流，泗水流，流到瓜州古渡头。吴山点点愁。|[图片链接](./backgrounds_no_countdown/535431.jpg)|schedule|
 |2024-02-01|478544|今年花落颜色改，明年花开复谁在？|[图片链接](./backgrounds_no_countdown/478544.jpg)|schedule|
+|2024-02-01|2365457|想要让每一天重新来过，又不想让仔细回味每一天。|[图片链接](./backgrounds_no_countdown/2365457.jpg)|schedule|
+|2024-02-01|1898555|相爱不需要技巧，但是相处需要。|[图片链接](./backgrounds_no_countdown/1898555.jpg)|schedule|
+|2024-02-01|122436|昨夜星辰昨夜风，画楼西畔桂堂东。|[图片链接](./backgrounds_no_countdown/122436.jpg)|schedule|
