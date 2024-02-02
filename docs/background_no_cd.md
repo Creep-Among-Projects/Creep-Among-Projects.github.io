@@ -1363,3 +1363,6 @@ List of Backgrounds / 图片列表:
 |2024-02-02|1179229|自然选择号，前进四！|[图片链接](./backgrounds_no_countdown/1179229.jpg)|schedule|
 |2024-02-02|1252983|我们各自努力，最高处见！|[图片链接](./backgrounds_no_countdown/1252983.jpg)|schedule|
 |2024-02-02|2878019|钱塘依旧，潮生潮落。|[图片链接](./backgrounds_no_countdown/2878019.jpg)|schedule|
+|2024-02-03|840215|自童年起，我便独自一人，照顾着历代星辰。|[图片链接](./backgrounds_no_countdown/840215.jpg)|schedule|
+|2024-02-03|1450361|遇酒且呵呵，人生能几何！|[图片链接](./backgrounds_no_countdown/1450361.jpg)|schedule|
+|2024-02-03|533881|流浪去吧，总会在世界的一角找到愿意懂你的人。|[图片链接](./backgrounds_no_countdown/533881.jpg)|schedule|
