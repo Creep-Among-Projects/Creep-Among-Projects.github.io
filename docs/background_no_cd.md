@@ -1360,3 +1360,6 @@ List of Backgrounds / 图片列表:
 |2024-02-02|691034|人生在世，永远也不该演戏作假。|[图片链接](./backgrounds_no_countdown/691034.jpg)|schedule|
 |2024-02-02|808267|爱永远不是在乎，而是正确的表达。|[图片链接](./backgrounds_no_countdown/808267.jpg)|schedule|
 |2024-02-02|1311445|怕什么，既然许你朝暮，我岂敢不命长？|[图片链接](./backgrounds_no_countdown/1311445.jpg)|schedule|
+|2024-02-02|1179229|自然选择号，前进四！|[图片链接](./backgrounds_no_countdown/1179229.jpg)|schedule|
+|2024-02-02|1252983|我们各自努力，最高处见！|[图片链接](./backgrounds_no_countdown/1252983.jpg)|schedule|
+|2024-02-02|2878019|钱塘依旧，潮生潮落。|[图片链接](./backgrounds_no_countdown/2878019.jpg)|schedule|
