@@ -1372,3 +1372,6 @@ List of Backgrounds / 图片列表:
 |2024-02-04|131423|全世界无产者，联合起来！！！|[图片链接](./backgrounds_no_countdown/131423.jpg)|schedule|
 |2024-02-04|133175|其实结束并不是真正的结束，而是美好的开始。|[图片链接](./backgrounds_no_countdown/133175.jpg)|schedule|
 |2024-02-04|1735675|黄鹤一去不复返，白云千载空悠悠。|[图片链接](./backgrounds_no_countdown/1735675.jpg)|schedule|
+|2024-02-04|248195|长恨此身非我有，何时忘却营营。|[图片链接](./backgrounds_no_countdown/248195.jpg)|schedule|
+|2024-02-04|2832036|你眼中的星海灿烂 是我不曾见过的世外桃源|[图片链接](./backgrounds_no_countdown/2832036.jpg)|schedule|
+|2024-02-04|63609|十年一觉扬州梦，赢得青楼薄幸名。|[图片链接](./backgrounds_no_countdown/63609.jpg)|schedule|
