@@ -1375,3 +1375,6 @@ List of Backgrounds / 图片列表:
 |2024-02-04|248195|长恨此身非我有，何时忘却营营。|[图片链接](./backgrounds_no_countdown/248195.jpg)|schedule|
 |2024-02-04|2832036|你眼中的星海灿烂 是我不曾见过的世外桃源|[图片链接](./backgrounds_no_countdown/2832036.jpg)|schedule|
 |2024-02-04|63609|十年一觉扬州梦，赢得青楼薄幸名。|[图片链接](./backgrounds_no_countdown/63609.jpg)|schedule|
+|2024-02-05|1906794|一生败在太没钱，不敢爱她太明显。|[图片链接](./backgrounds_no_countdown/1906794.jpg)|schedule|
+|2024-02-05|449461|我变了。因为我不变，就活不下去。|[图片链接](./backgrounds_no_countdown/449461.jpg)|schedule|
+|2024-02-05|542608|又能逃到哪里去，你我都各有困局。|[图片链接](./backgrounds_no_countdown/542608.jpg)|schedule|
