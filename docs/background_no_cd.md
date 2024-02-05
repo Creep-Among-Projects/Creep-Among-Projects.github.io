@@ -1381,3 +1381,6 @@ List of Backgrounds / 图片列表:
 |2024-02-05|2832061|一件事物与其自身完全一致|[图片链接](./backgrounds_no_countdown/2832061.jpg)|schedule|
 |2024-02-05|1007957|天生万物以养人，人无一德以报天。|[图片链接](./backgrounds_no_countdown/1007957.jpg)|schedule|
 |2024-02-05|221455|我们属于大地和海洋，你们属于星空。|[图片链接](./backgrounds_no_countdown/221455.jpg)|schedule|
+|2024-02-06|1434310|比起担心会后悔而什么都不做，还不如做完了再去后悔。|[图片链接](./backgrounds_no_countdown/1434310.jpg)|schedule|
+|2024-02-06|640805|相逢一醉是前缘，风雨散、飘然何处。|[图片链接](./backgrounds_no_countdown/640805.jpg)|schedule|
+|2024-02-06|2892012|生当复来归，死当长相思。|[图片链接](./backgrounds_no_countdown/2892012.jpg)|schedule|
