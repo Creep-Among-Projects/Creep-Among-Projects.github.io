@@ -1384,3 +1384,6 @@ List of Backgrounds / 图片列表:
 |2024-02-06|1434310|比起担心会后悔而什么都不做，还不如做完了再去后悔。|[图片链接](./backgrounds_no_countdown/1434310.jpg)|schedule|
 |2024-02-06|640805|相逢一醉是前缘，风雨散、飘然何处。|[图片链接](./backgrounds_no_countdown/640805.jpg)|schedule|
 |2024-02-06|2892012|生当复来归，死当长相思。|[图片链接](./backgrounds_no_countdown/2892012.jpg)|schedule|
+|2024-02-06|2868966|我想，左肩有你，右肩微笑。|[图片链接](./backgrounds_no_countdown/2868966.jpg)|schedule|
+|2024-02-06|2897548|从不犯错误的人终将一事无成|[图片链接](./backgrounds_no_countdown/2897548.jpg)|schedule|
+|2024-02-06|2893556|以凡人之躯，比肩神明。|[图片链接](./backgrounds_no_countdown/2893556.jpg)|schedule|
