@@ -1393,3 +1393,6 @@ List of Backgrounds / 图片列表:
 |2024-02-07|415958|团结的人民永远不被击败！|[图片链接](./backgrounds_no_countdown/415958.jpg)|schedule|
 |2024-02-07|163780|同情是把双面有刃的利刀，不会使用的人最好别动手。|[图片链接](./backgrounds_no_countdown/163780.jpg)|schedule|
 |2024-02-07|958660|三十年河东，三十年河西|[图片链接](./backgrounds_no_countdown/958660.jpg)|schedule|
+|2024-02-08|1743366|为遇一人入红尘，人去我亦去，此生不留尘。|[图片链接](./backgrounds_no_countdown/1743366.jpg)|schedule|
+|2024-02-08|2832037|我太年轻了，甚至不懂怎么去爱她。|[图片链接](./backgrounds_no_countdown/2832037.jpg)|schedule|
+|2024-02-08|351448|自古逢秋悲寂寥，我言秋日胜春朝。|[图片链接](./backgrounds_no_countdown/351448.jpg)|schedule|
