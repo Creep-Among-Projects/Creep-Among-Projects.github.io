@@ -1396,3 +1396,6 @@ List of Backgrounds / 图片列表:
 |2024-02-08|1743366|为遇一人入红尘，人去我亦去，此生不留尘。|[图片链接](./backgrounds_no_countdown/1743366.jpg)|schedule|
 |2024-02-08|2832037|我太年轻了，甚至不懂怎么去爱她。|[图片链接](./backgrounds_no_countdown/2832037.jpg)|schedule|
 |2024-02-08|351448|自古逢秋悲寂寥，我言秋日胜春朝。|[图片链接](./backgrounds_no_countdown/351448.jpg)|schedule|
+|2024-02-08|2084337|孤独才是寂寞的唯一出口。|[图片链接](./backgrounds_no_countdown/2084337.jpg)|schedule|
+|2024-02-08|849385|如果惧怕前面跌宕的山岩，生命就永远只能是死水一潭。|[图片链接](./backgrounds_no_countdown/849385.jpg)|schedule|
+|2024-02-08|1365109|不要祈求生活公平，只需要适应它。|[图片链接](./backgrounds_no_countdown/1365109.jpg)|schedule|
