@@ -1399,3 +1399,6 @@ List of Backgrounds / 图片列表:
 |2024-02-08|2084337|孤独才是寂寞的唯一出口。|[图片链接](./backgrounds_no_countdown/2084337.jpg)|schedule|
 |2024-02-08|849385|如果惧怕前面跌宕的山岩，生命就永远只能是死水一潭。|[图片链接](./backgrounds_no_countdown/849385.jpg)|schedule|
 |2024-02-08|1365109|不要祈求生活公平，只需要适应它。|[图片链接](./backgrounds_no_countdown/1365109.jpg)|schedule|
+|2024-02-09|851023|你是年少的欢喜，倒过来也亦然。|[图片链接](./backgrounds_no_countdown/851023.jpg)|schedule|
+|2024-02-09|635529|五月繁如四面叶，三九生乃一支花。|[图片链接](./backgrounds_no_countdown/635529.jpg)|schedule|
+|2024-02-09|1671325|没有回忆就去创造回忆，没有道路就去开辟道路。|[图片链接](./backgrounds_no_countdown/1671325.jpg)|schedule|
