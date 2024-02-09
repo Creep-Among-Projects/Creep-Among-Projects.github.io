@@ -1402,3 +1402,6 @@ List of Backgrounds / 图片列表:
 |2024-02-09|851023|你是年少的欢喜，倒过来也亦然。|[图片链接](./backgrounds_no_countdown/851023.jpg)|schedule|
 |2024-02-09|635529|五月繁如四面叶，三九生乃一支花。|[图片链接](./backgrounds_no_countdown/635529.jpg)|schedule|
 |2024-02-09|1671325|没有回忆就去创造回忆，没有道路就去开辟道路。|[图片链接](./backgrounds_no_countdown/1671325.jpg)|schedule|
+|2024-02-09|1894350|草木也知愁，韶华竟白头。|[图片链接](./backgrounds_no_countdown/1894350.jpg)|schedule|
+|2024-02-09|1034568|为有牺牲多壮志，敢教日月换新天。|[图片链接](./backgrounds_no_countdown/1034568.jpg)|schedule|
+|2024-02-09|1146709|我心伤悲，莫知我哀！|[图片链接](./backgrounds_no_countdown/1146709.jpg)|schedule|
