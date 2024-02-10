@@ -1411,3 +1411,6 @@ List of Backgrounds / 图片列表:
 |2024-02-10|1909331|时间能治愈一切，请给时间一点时间……|[图片链接](./backgrounds_no_countdown/1909331.jpg)|schedule|
 |2024-02-10|2890344|愿你的青春如花般绽放。|[图片链接](./backgrounds_no_countdown/2890344.jpg)|schedule|
 |2024-02-10|3948134|春蚕到死丝方尽，蜡炬成灰泪始干。|[图片链接](./backgrounds_no_countdown/3948134.jpg)|schedule|
+|2024-02-11|3900437|造物无言却有情，每于寒尽觉春生。|[图片链接](./backgrounds_no_countdown/3900437.jpg)|schedule|
+|2024-02-11|1784578|如果说爱是谎言，那么一定是人类最温柔的发明。|[图片链接](./backgrounds_no_countdown/1784578.jpg)|schedule|
+|2024-02-11|2053815|喜欢就会放肆，但爱就是克制。|[图片链接](./backgrounds_no_countdown/2053815.jpg)|schedule|
