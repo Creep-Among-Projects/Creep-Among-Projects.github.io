@@ -1414,3 +1414,6 @@ List of Backgrounds / 图片列表:
 |2024-02-11|3900437|造物无言却有情，每于寒尽觉春生。|[图片链接](./backgrounds_no_countdown/3900437.jpg)|schedule|
 |2024-02-11|1784578|如果说爱是谎言，那么一定是人类最温柔的发明。|[图片链接](./backgrounds_no_countdown/1784578.jpg)|schedule|
 |2024-02-11|2053815|喜欢就会放肆，但爱就是克制。|[图片链接](./backgrounds_no_countdown/2053815.jpg)|schedule|
+|2024-02-11|1095817|梦如同黎明的泡沫一样渐渐消失。|[图片链接](./backgrounds_no_countdown/1095817.jpg)|schedule|
+|2024-02-11|2745255|草长莺飞二月天，拂堤杨柳醉春烟。|[图片链接](./backgrounds_no_countdown/2745255.jpg)|schedule|
+|2024-02-11|730539|有生之年遇到你，竟花光我所有的运气。|[图片链接](./backgrounds_no_countdown/730539.jpg)|schedule|
