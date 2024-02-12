@@ -1423,3 +1423,6 @@ List of Backgrounds / 图片列表:
 |2024-02-12|164470|想跟我谈恋爱，还是想跟我谈个恋爱？|[图片链接](./backgrounds_no_countdown/164470.jpg)|schedule|
 |2024-02-12|2131654|忘羡一曲远，曲终人不散。|[图片链接](./backgrounds_no_countdown/2131654.jpg)|schedule|
 |2024-02-12|482544|宇宙中，你再快都有比你快的，你再慢又有比你慢的。|[图片链接](./backgrounds_no_countdown/482544.jpg)|schedule|
+|2024-02-13|414362|树是生活，埋的是我，看花就好，别看我落魄。|[图片链接](./backgrounds_no_countdown/414362.jpg)|schedule|
+|2024-02-13|906531|即使天还没有亮，固执做梦的人，身前会有光。|[图片链接](./backgrounds_no_countdown/906531.jpg)|schedule|
+|2024-02-13|1493799|轻轻的我走了，正如我轻轻的来。|[图片链接](./backgrounds_no_countdown/1493799.jpg)|schedule|
