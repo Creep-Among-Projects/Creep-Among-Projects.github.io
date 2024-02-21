@@ -1436,3 +1436,6 @@ List of Backgrounds / 图片列表:
 |2024-02-21|250591|我住长江头，君住长江尾。|[图片链接](./backgrounds_no_countdown/250591.jpg)|schedule|
 |2024-02-21|2099737|就算未曾拥有，也要满怀期待。|[图片链接](./backgrounds_no_countdown/2099737.jpg)|schedule|
 |2024-02-21|69776|历史的发展是不以人的意志为转移的。|[图片链接](./backgrounds_no_countdown/69776.jpg)|schedule|
+|2024-02-22|953241|镇生者之魂，安亡者之心，赎未亡之罪，轮未竟之回。|[图片链接](./backgrounds_no_countdown/953241.jpg)|schedule|
+|2024-02-22|72473|成事不说，遂事不谏，既往不咎。|[图片链接](./backgrounds_no_countdown/72473.jpg)|schedule|
+|2024-02-22|159406|何处望神州？满眼风光北固楼。|[图片链接](./backgrounds_no_countdown/159406.jpg)|schedule|
