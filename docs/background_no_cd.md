@@ -1430,3 +1430,6 @@ List of Backgrounds / 图片列表:
 |2024-02-13|306344|九州生气恃风雷，万马齐喑究可哀。|[图片链接](./backgrounds_no_countdown/306344.jpg)|schedule|
 |2024-02-13|712395|如果我真的存在，也是因为你需要我。|[图片链接](./backgrounds_no_countdown/712395.jpg)|schedule|
 |2024-02-21|1002812|我一直都在寻找回家的路，最终却倒在了路上！|[图片链接](./backgrounds_no_countdown/1002812.jpg)|None|
+|2024-02-21|1883385|好一似今朝沦落人，且回首往昔荣华日。|[图片链接](./backgrounds_no_countdown/1883385.jpg)|push|
+|2024-02-21|414181|长恨此身非我有，何时忘却营营。|[图片链接](./backgrounds_no_countdown/414181.jpg)|push|
+|2024-02-21|920147|有意义的人等再久都有意义。|[图片链接](./backgrounds_no_countdown/920147.jpg)|push|
