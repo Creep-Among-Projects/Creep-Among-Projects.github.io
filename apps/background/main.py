@@ -27,13 +27,10 @@ cp = configparser.ConfigParser()
 if not os.path.exists('./secrets.ini'):
     PEXELS_API_KEY = os.getenv('PEXELS_API_KEY')
     AMAP_API_KEY = os.getenv('AMAP_API_KEY')
-    BING_COOKIE = os.getenv('BING_COOKIE')
 else:
     cp.read('./secrets.ini')
     PEXELS_API_KEY = cp['PEXELS']['API_KEY']
     AMAP_API_KEY = cp['AMAP']['API_KEY']
-    with open('./bing_cookie', 'r') as f:
-        BING_COOKIE = f.read()
 
 HITOKOTO_URL = 'https://international.v1.hitokoto.cn/?c=d&c=f&c=h&c=i&c=k&max_length=25'
 PEXELS_ENDPOINT = 'https://api.pexels.com/v1/search'
@@ -57,40 +54,6 @@ AMAP_PARAMS = {
 
 PEXELS_PARAMS = {
     'query': PEXELS_QUERY,
-}
-
-BING_OTD = f'https://cn.bing.com/search?q=1&filters=OsKey%3a%22OnThisDay' \
-           f'{datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).strftime("%m%d")}%22'
-
-BING_QOD = f'https://cn.bing.com/search?q=1&filters=BTEPKey:"Encyclo_QOTD' \
-           f'{datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).strftime("%m%d")}%22'
-
-BING_HEADERS = {
-    'authority': 'cn.bing.com',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
-    'cache-control': 'no-cache',
-    'cookie': BING_COOKIE,
-    'pragma': 'no-cache',
-    'sec-ch-ua': '"Chromium";v="112", "Microsoft Edge";v="112", "Not:A-Brand";v="99"',
-    'sec-ch-ua-arch': '"x86"',
-    'sec-ch-ua-bitness': '"64"',
-    'sec-ch-ua-full-version': '"112.0.1722.39"',
-    'sec-ch-ua-full-version-list': '"Chromium";v="112.0.5615.49", "Microsoft Edge";v="112.0.1722.39", "Not:A-Brand";v="99.0.0.0"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-model': '""',
-    'sec-ch-ua-platform': '"Windows"',
-    'sec-ch-ua-platform-version': '"15.0.0"',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-    'sec-ms-gec': 'DCFA943993A74449CBC6D0EAFC018DF9B7FE40AE41489342F58A2917E9A5843F',
-    'sec-ms-gec-version': '1-112.0.1722.39',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39',
-    'x-client-data': 'eyIxIjoiMCIsIjEwIjoiIiwiMiI6IjAiLCIzIjoiMCIsIjQiOiItNTQ4MTI1MTAxMjkxMDk5NTQ3NiIsIjUiOiIiLCI2Ijoic3RhYmxlIiwiNyI6IjQ2MjEzODQ4MTA1MTgiLCI5IjoiZGVza3RvcCJ9',
-    'x-edge-shopping-flag': '1',
 }
 
 GITHUB_HEADERS = {
@@ -146,15 +109,6 @@ def transparent_back(img):
                 color_1 = color_1[:-1] + (0,)
                 img.putpixel(dot, color_1)
     return img
-
-
-# For GitHub Secrets LOL
-def encrypt(public_key: str, secret_value: str) -> str:
-    """Encrypt a Unicode string using the public key."""
-    public_key = nacl.public.PublicKey(public_key.encode("utf-8"), nacl.encoding.Base64Encoder())
-    sealed_box = nacl.public.SealedBox(public_key)
-    encrypted = sealed_box.encrypt(secret_value.encode("utf-8"))
-    return base64.b64encode(encrypted).decode("utf-8")
 
 
 # Init ORM
@@ -240,7 +194,6 @@ while True:
         continue
     break
 if not str(ISSUE_TITLE).startswith('SETHitokoto'):
-    
     while True:
         hitokoto_result = requests.get(HITOKOTO_URL, headers=GENERAL_HEADERS).json()
         if session.query(Quotes).filter_by(ID=hitokoto_result['id']).all():
@@ -321,14 +274,6 @@ try:
 except:
     quote = f'{new_quote.hitokoto}    --{new_quote.author} {new_quote.src}' if new_quote.author \
         else f'{new_quote.hitokoto}    --{new_quote.src}'
-'''
-draw.text((1920, 70),
-          text=quote,
-          fill=(255, 255, 255),
-          font=get_smileysans(125),
-          anchor='ma',
-          align='center')
-'''
 
 weather_text = f'天气预报：\n{"-" * 28}\n' + \
                f'\n{"-" * 28}\n'.join([f'日期：{_["date"]}\n'
@@ -350,45 +295,6 @@ draw.multiline_text((1920, 70),
                     anchor='ma',
                     align='center')
 
-"""
-# Get today in history via bing
-BING_OTD_r = requests.get(BING_OTD, headers=BING_HEADERS)
-BING_QOD_r = requests.get(BING_QOD, headers=BING_HEADERS)
-BING_OTD_soup = BeautifulSoup(BING_OTD_r.text, 'lxml')
-BING_QOD_soup = BeautifulSoup(BING_QOD_r.text, 'lxml')
-
-# print(BING_OTD_r.text, BING_QOD_r.text)
-print([BING_QOD_soup.find_all(class_='bt_quoteText')[0].contents[0],
-       BING_QOD_soup.find_all(class_='bt_author')[0].div.a.contents[0]],
-      [_['aria-label'] for _ in BING_OTD_soup.find_all(class_='otd_tabHeading otd_tabDescription')],
-      BING_OTD_soup.find_all(id='otd_fullparaid')[0].contents[0], sep='\n')
-
-OTD = [_['aria-label'] for _ in BING_OTD_soup.find_all(class_='otd_tabHeading otd_tabDescription')]
-OTD_TEXT = BING_OTD_soup.find_all(id='otd_fullparaid')[0].contents[0]
-OTD_TEXT = '\n'.join(OTD_TEXT[i:i + 20] for i in range(0, len(OTD_TEXT), 20))
-
-bing_text = f'''以下信息来自必应：
-{BING_QOD_soup.find_all(class_='bt_quoteText')[0].contents[0]} 
---{BING_QOD_soup.find_all(class_='bt_author')[0].div.a.contents[0]}
-历史上的今天：
-{OTD[0]}  {OTD[1]}
-{OTD[2]}  {OTD[3]}
-'''
-
-draw.multiline_text((2500, 1250),
-                    text=bing_text,
-                    fill=(255, 255, 255),
-                    font=get_qingkehuangyou(60),
-                    anchor='la',
-                    align='left')
-"""
-
-draw.text((1920, 2000),
-          text='By. 5931 Chen',
-          fill=(255, 255, 255),
-          font=get_qingkehuangyou(90),
-          anchor='mm',
-          align='center')
 debug_info = f'''
 调试信息：
 生成日期: {datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).isoformat()}
