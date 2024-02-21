@@ -12,11 +12,9 @@ from datetime import timedelta
 import pytz
 
 import requests
-from bs4 import BeautifulSoup
 
 from PIL import Image, ImageFont, ImageDraw
 
-import nacl
 import base64
 
 # Setup Basic Variable
