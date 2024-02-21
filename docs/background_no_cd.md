@@ -1433,3 +1433,6 @@ List of Backgrounds / 图片列表:
 |2024-02-21|1883385|好一似今朝沦落人，且回首往昔荣华日。|[图片链接](./backgrounds_no_countdown/1883385.jpg)|push|
 |2024-02-21|414181|长恨此身非我有，何时忘却营营。|[图片链接](./backgrounds_no_countdown/414181.jpg)|push|
 |2024-02-21|920147|有意义的人等再久都有意义。|[图片链接](./backgrounds_no_countdown/920147.jpg)|push|
+|2024-02-21|250591|我住长江头，君住长江尾。|[图片链接](./backgrounds_no_countdown/250591.jpg)|schedule|
+|2024-02-21|2099737|就算未曾拥有，也要满怀期待。|[图片链接](./backgrounds_no_countdown/2099737.jpg)|schedule|
+|2024-02-21|69776|历史的发展是不以人的意志为转移的。|[图片链接](./backgrounds_no_countdown/69776.jpg)|schedule|
