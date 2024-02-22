@@ -1439,3 +1439,6 @@ List of Backgrounds / 图片列表:
 |2024-02-22|953241|镇生者之魂，安亡者之心，赎未亡之罪，轮未竟之回。|[图片链接](./backgrounds_no_countdown/953241.jpg)|schedule|
 |2024-02-22|72473|成事不说，遂事不谏，既往不咎。|[图片链接](./backgrounds_no_countdown/72473.jpg)|schedule|
 |2024-02-22|159406|何处望神州？满眼风光北固楼。|[图片链接](./backgrounds_no_countdown/159406.jpg)|schedule|
+|2024-02-22|920154|三十功名尘与土，八千里路云和月。|[图片链接](./backgrounds_no_countdown/920154.jpg)|schedule|
+|2024-02-22|413707|想带你去看电影，明天你就不是我女朋友了。|[图片链接](./backgrounds_no_countdown/413707.jpg)|schedule|
+|2024-02-22|1076607|若今后没有炬火，你便是唯一的光。|[图片链接](./backgrounds_no_countdown/1076607.jpg)|schedule|
