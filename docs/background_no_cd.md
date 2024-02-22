@@ -1442,3 +1442,6 @@ List of Backgrounds / 图片列表:
 |2024-02-22|920154|三十功名尘与土，八千里路云和月。|[图片链接](./backgrounds_no_countdown/920154.jpg)|schedule|
 |2024-02-22|413707|想带你去看电影，明天你就不是我女朋友了。|[图片链接](./backgrounds_no_countdown/413707.jpg)|schedule|
 |2024-02-22|1076607|若今后没有炬火，你便是唯一的光。|[图片链接](./backgrounds_no_countdown/1076607.jpg)|schedule|
+|2024-02-23|414083|手执烟火以谋生，心怀诗意以谋爱。|[图片链接](./backgrounds_no_countdown/414083.jpg)|schedule|
+|2024-02-23|1009831|他毕生的爱已经全部化为一点无可言喻的星光。|[图片链接](./backgrounds_no_countdown/1009831.jpg)|schedule|
+|2024-02-23|94847|心有猛虎，细嗅蔷薇。|[图片链接](./backgrounds_no_countdown/94847.jpg)|schedule|
