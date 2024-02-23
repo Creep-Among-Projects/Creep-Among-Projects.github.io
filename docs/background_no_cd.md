@@ -1445,3 +1445,6 @@ List of Backgrounds / 图片列表:
 |2024-02-23|414083|手执烟火以谋生，心怀诗意以谋爱。|[图片链接](./backgrounds_no_countdown/414083.jpg)|schedule|
 |2024-02-23|1009831|他毕生的爱已经全部化为一点无可言喻的星光。|[图片链接](./backgrounds_no_countdown/1009831.jpg)|schedule|
 |2024-02-23|94847|心有猛虎，细嗅蔷薇。|[图片链接](./backgrounds_no_countdown/94847.jpg)|schedule|
+|2024-02-23|2106037|海棠未雨，梨花先雪，一半春休。|[图片链接](./backgrounds_no_countdown/2106037.jpg)|schedule|
+|2024-02-23|612807|衰兰送客咸阳道，天若有情天亦老。|[图片链接](./backgrounds_no_countdown/612807.jpg)|schedule|
+|2024-02-23|355663|来源于噩梦，却是迷人的。|[图片链接](./backgrounds_no_countdown/355663.jpg)|schedule|
