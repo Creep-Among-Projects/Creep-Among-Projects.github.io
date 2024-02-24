@@ -1451,3 +1451,6 @@ List of Backgrounds / 图片列表:
 |2024-02-24|1597662|很多人在喧嚣声中登场，也有少数人在静默中退出。|[图片链接](./backgrounds_no_countdown/1597662.jpg)|schedule|
 |2024-02-24|371393|莫笑贱贫夸富贵，共成枯骨两何如？|[图片链接](./backgrounds_no_countdown/371393.jpg)|schedule|
 |2024-02-24|40731|迟日江山丽，春风花草香。|[图片链接](./backgrounds_no_countdown/40731.jpg)|schedule|
+|2024-02-24|961402|明月松间照，清泉石上流。|[图片链接](./backgrounds_no_countdown/961402.jpg)|schedule|
+|2024-02-24|225203|救救我啊奥特曼，哪怕你只能撑三分钟……|[图片链接](./backgrounds_no_countdown/225203.jpg)|schedule|
+|2024-02-24|72161|小时候哭着哭着就笑了，长大后笑着笑着就哭了。|[图片链接](./backgrounds_no_countdown/72161.jpg)|schedule|
