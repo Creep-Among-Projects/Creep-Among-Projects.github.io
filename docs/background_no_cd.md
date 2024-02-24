@@ -1454,3 +1454,6 @@ List of Backgrounds / 图片列表:
 |2024-02-24|961402|明月松间照，清泉石上流。|[图片链接](./backgrounds_no_countdown/961402.jpg)|schedule|
 |2024-02-24|225203|救救我啊奥特曼，哪怕你只能撑三分钟……|[图片链接](./backgrounds_no_countdown/225203.jpg)|schedule|
 |2024-02-24|72161|小时候哭着哭着就笑了，长大后笑着笑着就哭了。|[图片链接](./backgrounds_no_countdown/72161.jpg)|schedule|
+|2024-02-25|2388650|见过银河，只想要你这颗星。|[图片链接](./backgrounds_no_countdown/2388650.jpg)|schedule|
+|2024-02-25|1563650|秋风起兮白云飞，草木黄落兮雁南归。|[图片链接](./backgrounds_no_countdown/1563650.jpg)|schedule|
+|2024-02-25|2104881|上了陆地的鱼就不能再叫做鱼了|[图片链接](./backgrounds_no_countdown/2104881.jpg)|schedule|
