@@ -1460,3 +1460,6 @@ List of Backgrounds / 图片列表:
 |2024-02-25|908308|人生亦有命，安能行叹复坐愁？|[图片链接](./backgrounds_no_countdown/908308.jpg)|schedule|
 |2024-02-25|693857|风筝的线你随时可以放开，只是别盼望我会回来。|[图片链接](./backgrounds_no_countdown/693857.jpg)|schedule|
 |2024-02-25|992734|辉煌一刻谁都有，别拿一刻当永久。|[图片链接](./backgrounds_no_countdown/992734.jpg)|schedule|
+|2024-02-26|66304|爆竹声中一岁除，春风送暖入屠苏。|[图片链接](./backgrounds_no_countdown/66304.jpg)|schedule|
+|2024-02-26|985266|现在人们知道，没有不散的宴席，一切都有个尽头。|[图片链接](./backgrounds_no_countdown/985266.jpg)|schedule|
+|2024-02-26|2076494|绕远的路，总有风景。|[图片链接](./backgrounds_no_countdown/2076494.jpg)|schedule|
