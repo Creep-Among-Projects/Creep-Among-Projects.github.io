@@ -1463,3 +1463,6 @@ List of Backgrounds / 图片列表:
 |2024-02-26|66304|爆竹声中一岁除，春风送暖入屠苏。|[图片链接](./backgrounds_no_countdown/66304.jpg)|schedule|
 |2024-02-26|985266|现在人们知道，没有不散的宴席，一切都有个尽头。|[图片链接](./backgrounds_no_countdown/985266.jpg)|schedule|
 |2024-02-26|2076494|绕远的路，总有风景。|[图片链接](./backgrounds_no_countdown/2076494.jpg)|schedule|
+|2024-02-26|33542|简单的占有是小聪明，暂时的放弃才是大智慧。|[图片链接](./backgrounds_no_countdown/33542.jpg)|schedule|
+|2024-02-26|67857|生我何用？不能欢笑。灭我何用？不减狂骄。|[图片链接](./backgrounds_no_countdown/67857.jpg)|schedule|
+|2024-02-26|1971086|时光一逝永不回, 往事只能回味。|[图片链接](./backgrounds_no_countdown/1971086.jpg)|schedule|
