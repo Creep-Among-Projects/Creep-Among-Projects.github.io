@@ -1466,3 +1466,6 @@ List of Backgrounds / 图片列表:
 |2024-02-26|33542|简单的占有是小聪明，暂时的放弃才是大智慧。|[图片链接](./backgrounds_no_countdown/33542.jpg)|schedule|
 |2024-02-26|67857|生我何用？不能欢笑。灭我何用？不减狂骄。|[图片链接](./backgrounds_no_countdown/67857.jpg)|schedule|
 |2024-02-26|1971086|时光一逝永不回, 往事只能回味。|[图片链接](./backgrounds_no_countdown/1971086.jpg)|schedule|
+|2024-02-27|2115371|君今在罗网，何以有羽翼。|[图片链接](./backgrounds_no_countdown/2115371.jpg)|schedule|
+|2024-02-27|54300|独乐乐不如众乐乐。|[图片链接](./backgrounds_no_countdown/54300.jpg)|schedule|
+|2024-02-27|371433|既见君子，云胡不喜。|[图片链接](./backgrounds_no_countdown/371433.jpg)|schedule|
