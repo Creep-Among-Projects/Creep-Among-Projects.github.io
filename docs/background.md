@@ -2086,3 +2086,6 @@ List of Backgrounds / 图片列表:
 |2024-02-27|2115371|君今在罗网，何以有羽翼。|[图片链接](./backgrounds/2115371.jpg)|schedule|
 |2024-02-27|54300|独乐乐不如众乐乐。|[图片链接](./backgrounds/54300.jpg)|schedule|
 |2024-02-27|371433|既见君子，云胡不喜。|[图片链接](./backgrounds/371433.jpg)|schedule|
+|2024-02-27|158734|为遇一人而入红尘，人去我亦去，此生不留尘|[图片链接](./backgrounds/158734.jpg)|schedule|
+|2024-02-27|55828|海日生残夜，江春入旧年。|[图片链接](./backgrounds/55828.jpg)|schedule|
+|2024-02-27|36753|他只有两只手，所以只能用心抓住一个人。|[图片链接](./backgrounds/36753.jpg)|schedule|
