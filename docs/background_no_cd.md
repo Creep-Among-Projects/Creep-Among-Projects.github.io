@@ -1478,3 +1478,6 @@ List of Backgrounds / 图片列表:
 |2024-02-28|948615|你最无暇的时光是哪段，你又把它奉献给了谁？|[图片链接](./backgrounds_no_countdown/948615.jpg)|schedule|
 |2024-02-28|547114|知我者，谓我心忧；不知我者，谓我何求。|[图片链接](./backgrounds_no_countdown/547114.jpg)|schedule|
 |2024-02-28|920985|雄关漫道真如铁，而今迈步从头越。|[图片链接](./backgrounds_no_countdown/920985.jpg)|schedule|
+|2024-02-29|814760|水光潋滟晴方好，山色空蒙雨亦奇。|[图片链接](./backgrounds_no_countdown/814760.jpg)|schedule|
+|2024-02-29|62279|无情不似多情苦。一寸还成千万缕。|[图片链接](./backgrounds_no_countdown/62279.jpg)|schedule|
+|2024-02-29|414667|言念君子温其如玉|[图片链接](./backgrounds_no_countdown/414667.jpg)|schedule|
