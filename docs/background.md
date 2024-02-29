@@ -2098,3 +2098,6 @@ List of Backgrounds / 图片列表:
 |2024-02-29|814760|水光潋滟晴方好，山色空蒙雨亦奇。|[图片链接](./backgrounds/814760.jpg)|schedule|
 |2024-02-29|62279|无情不似多情苦。一寸还成千万缕。|[图片链接](./backgrounds/62279.jpg)|schedule|
 |2024-02-29|414667|言念君子温其如玉|[图片链接](./backgrounds/414667.jpg)|schedule|
+|2024-02-29|2781760|充其量只是好奇罢了。|[图片链接](./backgrounds/2781760.jpg)|schedule|
+|2024-02-29|268496|流年莫虚掷，华发不相容。|[图片链接](./backgrounds/268496.jpg)|schedule|
+|2024-02-29|977772|你的无畏来源于无知。|[图片链接](./backgrounds/977772.jpg)|schedule|
