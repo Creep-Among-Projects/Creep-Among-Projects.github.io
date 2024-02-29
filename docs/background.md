@@ -2101,3 +2101,6 @@ List of Backgrounds / 图片列表:
 |2024-02-29|2781760|充其量只是好奇罢了。|[图片链接](./backgrounds/2781760.jpg)|schedule|
 |2024-02-29|268496|流年莫虚掷，华发不相容。|[图片链接](./backgrounds/268496.jpg)|schedule|
 |2024-02-29|977772|你的无畏来源于无知。|[图片链接](./backgrounds/977772.jpg)|schedule|
+|2024-03-01|1043458|一切都将逝去，只有死神永生。|[图片链接](./backgrounds/1043458.jpg)|schedule|
+|2024-03-01|719756|前进！前进！不择手段的前进！|[图片链接](./backgrounds/719756.jpg)|schedule|
+|2024-03-01|250716|老来情味减，对别酒、怯流年。|[图片链接](./backgrounds/250716.jpg)|schedule|
