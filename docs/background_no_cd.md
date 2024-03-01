@@ -1487,3 +1487,6 @@ List of Backgrounds / 图片列表:
 |2024-03-01|1043458|一切都将逝去，只有死神永生。|[图片链接](./backgrounds_no_countdown/1043458.jpg)|schedule|
 |2024-03-01|719756|前进！前进！不择手段的前进！|[图片链接](./backgrounds_no_countdown/719756.jpg)|schedule|
 |2024-03-01|250716|老来情味减，对别酒、怯流年。|[图片链接](./backgrounds_no_countdown/250716.jpg)|schedule|
+|2024-03-01|1039103|爵士乐响起之时便是吉翁覆灭之日！|[图片链接](./backgrounds_no_countdown/1039103.jpg)|schedule|
+|2024-03-01|61379|行到水穷处，坐看云起时。|[图片链接](./backgrounds_no_countdown/61379.jpg)|schedule|
+|2024-03-01|298246|“马孔多在下雨”|[图片链接](./backgrounds_no_countdown/298246.jpg)|schedule|
