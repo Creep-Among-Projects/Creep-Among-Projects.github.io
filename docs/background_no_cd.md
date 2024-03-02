@@ -1493,3 +1493,6 @@ List of Backgrounds / 图片列表:
 |2024-03-02|268810|你总是这样轻言放弃的话，无论多久都只会原地踏步|[图片链接](./backgrounds_no_countdown/268810.jpg)|schedule|
 |2024-03-02|86431|自信人生二百年，会当水击三千里。|[图片链接](./backgrounds_no_countdown/86431.jpg)|schedule|
 |2024-03-02|268533|孤身一人，去往一个陌生地方，开启一段未知旅程。|[图片链接](./backgrounds_no_countdown/268533.jpg)|schedule|
+|2024-03-02|1440476|引刀成一快，不负少年头。|[图片链接](./backgrounds_no_countdown/1440476.jpg)|schedule|
+|2024-03-02|432360|梧高凤必至，花香蝶自来。|[图片链接](./backgrounds_no_countdown/432360.jpg)|schedule|
+|2024-03-02|33490|以色事他人，能得几时好。|[图片链接](./backgrounds_no_countdown/33490.jpg)|schedule|
