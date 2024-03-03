@@ -1499,3 +1499,6 @@ List of Backgrounds / 图片列表:
 |2024-03-03|450038|执笔洇墨铸流年，仗剑酌酒碎绮梦|[图片链接](./backgrounds_no_countdown/450038.jpg)|schedule|
 |2024-03-03|352096|这个城市大得让人到处能一见钟情，却没法重逢。|[图片链接](./backgrounds_no_countdown/352096.jpg)|schedule|
 |2024-03-03|2440299|宁鸣而死，不默而生。|[图片链接](./backgrounds_no_countdown/2440299.jpg)|schedule|
+|2024-03-03|4098990|从此以后，有公义的冠冕为你留存。|[图片链接](./backgrounds_no_countdown/4098990.jpg)|schedule|
+|2024-03-03|1039078|如果你认识从前的我，也许会原谅现在的我。|[图片链接](./backgrounds_no_countdown/1039078.jpg)|schedule|
+|2024-03-03|828533|若批评不自由，则赞美无意义。|[图片链接](./backgrounds_no_countdown/828533.jpg)|schedule|
