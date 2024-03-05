@@ -1514,3 +1514,6 @@ List of Backgrounds / 图片列表:
 |2024-03-05|1469664|当世界背叛你的那天到来时，我会为你背叛全世界。|[图片链接](./backgrounds_no_countdown/1469664.jpg)|schedule|
 |2024-03-05|378007|菩提本无树，明镜亦非台。|[图片链接](./backgrounds_no_countdown/378007.jpg)|schedule|
 |2024-03-05|1550990|一瓶250ml的吊水，一共是3111滴。|[图片链接](./backgrounds_no_countdown/1550990.jpg)|schedule|
+|2024-03-06|161001|愿你以渺小启程，以伟大结束。|[图片链接](./backgrounds_no_countdown/161001.jpg)|schedule|
+|2024-03-06|51548|如果有人在陪你，你又怎么会看这些文字。|[图片链接](./backgrounds_no_countdown/51548.jpg)|schedule|
+|2024-03-06|2106702|请你,驯养我吧|[图片链接](./backgrounds_no_countdown/2106702.jpg)|schedule|
