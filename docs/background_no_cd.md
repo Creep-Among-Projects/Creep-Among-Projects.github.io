@@ -1517,3 +1517,6 @@ List of Backgrounds / 图片列表:
 |2024-03-06|161001|愿你以渺小启程，以伟大结束。|[图片链接](./backgrounds_no_countdown/161001.jpg)|schedule|
 |2024-03-06|51548|如果有人在陪你，你又怎么会看这些文字。|[图片链接](./backgrounds_no_countdown/51548.jpg)|schedule|
 |2024-03-06|2106702|请你,驯养我吧|[图片链接](./backgrounds_no_countdown/2106702.jpg)|schedule|
+|2024-03-06|371662|没有永恒的敌人或同志，只有永恒的责任。|[图片链接](./backgrounds_no_countdown/371662.jpg)|schedule|
+|2024-03-06|2187322|秋阴不散霜飞晚，留得枯荷听雨声。|[图片链接](./backgrounds_no_countdown/2187322.jpg)|schedule|
+|2024-03-06|1591225|人死后会成为什么?夜空中的一座孤岛。|[图片链接](./backgrounds_no_countdown/1591225.jpg)|schedule|
