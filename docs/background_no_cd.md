@@ -1520,3 +1520,6 @@ List of Backgrounds / 图片列表:
 |2024-03-06|371662|没有永恒的敌人或同志，只有永恒的责任。|[图片链接](./backgrounds_no_countdown/371662.jpg)|schedule|
 |2024-03-06|2187322|秋阴不散霜飞晚，留得枯荷听雨声。|[图片链接](./backgrounds_no_countdown/2187322.jpg)|schedule|
 |2024-03-06|1591225|人死后会成为什么?夜空中的一座孤岛。|[图片链接](./backgrounds_no_countdown/1591225.jpg)|schedule|
+|2024-03-07|1082214|你的名字那么普通也就我听到会心头一怔。|[图片链接](./backgrounds_no_countdown/1082214.jpg)|schedule|
+|2024-03-07|1166869|贾维斯，在我们学会走之前，要先学会跑！|[图片链接](./backgrounds_no_countdown/1166869.jpg)|schedule|
+|2024-03-07|345075|输了你，赢了这个世界也没意义|[图片链接](./backgrounds_no_countdown/345075.jpg)|schedule|
