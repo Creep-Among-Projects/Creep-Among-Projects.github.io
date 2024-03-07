@@ -1526,3 +1526,6 @@ List of Backgrounds / 图片列表:
 |2024-03-07|1469684|跟喜欢的人是做不了朋友的，距离远近都是折磨。|[图片链接](./backgrounds_no_countdown/1469684.jpg)|schedule|
 |2024-03-07|2535392|明月清风晓星尘，傲雪凌霜宋子琛|[图片链接](./backgrounds_no_countdown/2535392.jpg)|schedule|
 |2024-03-07|446280|我相信群众的革命意识最终会将革命之火带回。|[图片链接](./backgrounds_no_countdown/446280.jpg)|schedule|
+|2024-03-08|1035342|朝闻道，夕死可矣。|[图片链接](./backgrounds_no_countdown/1035342.jpg)|schedule|
+|2024-03-08|2183863|用短暂的一生，书写无数离谱的故事。|[图片链接](./backgrounds_no_countdown/2183863.jpg)|schedule|
+|2024-03-08|2744616|总会有始料不及的运气和忽如其来的惊喜！|[图片链接](./backgrounds_no_countdown/2744616.jpg)|schedule|
