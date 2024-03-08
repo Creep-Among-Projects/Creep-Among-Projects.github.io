@@ -1529,3 +1529,6 @@ List of Backgrounds / 图片列表:
 |2024-03-08|1035342|朝闻道，夕死可矣。|[图片链接](./backgrounds_no_countdown/1035342.jpg)|schedule|
 |2024-03-08|2183863|用短暂的一生，书写无数离谱的故事。|[图片链接](./backgrounds_no_countdown/2183863.jpg)|schedule|
 |2024-03-08|2744616|总会有始料不及的运气和忽如其来的惊喜！|[图片链接](./backgrounds_no_countdown/2744616.jpg)|schedule|
+|2024-03-08|459539|数学和物理，就是把看不见的星星写在了纸上。|[图片链接](./backgrounds_no_countdown/459539.jpg)|schedule|
+|2024-03-08|189848|欲买桂花同载酒，终不似，少年游。|[图片链接](./backgrounds_no_countdown/189848.jpg)|schedule|
+|2024-03-08|828541|你的世界，我进不去。我的未来，你也不必参与。|[图片链接](./backgrounds_no_countdown/828541.jpg)|schedule|
