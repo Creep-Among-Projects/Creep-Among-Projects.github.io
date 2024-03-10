@@ -1541,3 +1541,6 @@ List of Backgrounds / 图片列表:
 |2024-03-10|3040703|我们的征途是星辰大海。|[图片链接](./backgrounds_no_countdown/3040703.jpg)|schedule|
 |2024-03-10|876035|没有任何条件比真的喜欢你更重要。|[图片链接](./backgrounds_no_countdown/876035.jpg)|schedule|
 |2024-03-10|1702822|今年夏，遇一人，甚喜之，我无能，未能留之。|[图片链接](./backgrounds_no_countdown/1702822.jpg)|schedule|
+|2024-03-10|56852|少年去游荡，中年想掘藏，老年做和尚。|[图片链接](./backgrounds_no_countdown/56852.jpg)|schedule|
+|2024-03-10|108010|溶け行くとしてひるがへる，きみが星こそかなしけれ。|[图片链接](./backgrounds_no_countdown/108010.jpg)|schedule|
+|2024-03-10|3126574|浮生只合尊前老。雪满长安道。|[图片链接](./backgrounds_no_countdown/3126574.jpg)|schedule|
