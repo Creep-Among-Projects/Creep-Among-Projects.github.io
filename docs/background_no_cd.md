@@ -1547,3 +1547,6 @@ List of Backgrounds / 图片列表:
 |2024-03-11|4590437|人到情多情转薄，而今真个不多情。|[图片链接](./backgrounds_no_countdown/4590437.jpg)|schedule|
 |2024-03-11|395377|毋意，毋必，毋固，毋我。|[图片链接](./backgrounds_no_countdown/395377.jpg)|schedule|
 |2024-03-11|133079|云想衣裳花想容，春风拂槛露华浓。|[图片链接](./backgrounds_no_countdown/133079.jpg)|schedule|
+|2024-03-11|2344013|大多数人到死都没有向尘世之外瞥一眼。|[图片链接](./backgrounds_no_countdown/2344013.jpg)|schedule|
+|2024-03-11|531774|对自己的爱好保持热情，不要太功利！|[图片链接](./backgrounds_no_countdown/531774.jpg)|schedule|
+|2024-03-11|97146|忘羡一曲远，曲终人不散|[图片链接](./backgrounds_no_countdown/97146.jpg)|schedule|
