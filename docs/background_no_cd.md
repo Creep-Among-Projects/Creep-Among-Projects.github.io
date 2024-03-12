@@ -1553,3 +1553,6 @@ List of Backgrounds / 图片列表:
 |2024-03-12|1056792|人们之所以会怀念故乡，是因为心爱的人就在故乡。|[图片链接](./backgrounds_no_countdown/1056792.jpg)|schedule|
 |2024-03-12|1287135|当你足够期待失望时，你就永远不会失望。|[图片链接](./backgrounds_no_countdown/1287135.jpg)|schedule|
 |2024-03-12|756903|我要这天再遮不住我眼,要这地再埋不了我心.|[图片链接](./backgrounds_no_countdown/756903.jpg)|schedule|
+|2024-03-12|446811|众里寻他千百度，暮然回首，那人却在灯火阑珊处。|[图片链接](./backgrounds_no_countdown/446811.jpg)|schedule|
+|2024-03-12|61098|在太上忘情却终究人非草木。|[图片链接](./backgrounds_no_countdown/61098.jpg)|schedule|
+|2024-03-12|208032|如无必要，勿增实体。|[图片链接](./backgrounds_no_countdown/208032.jpg)|schedule|
