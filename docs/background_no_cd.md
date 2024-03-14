@@ -1568,3 +1568,6 @@ List of Backgrounds / 图片列表:
 |2024-03-14|1405708|命运啊，说是注定，不如说是你忘了是在何时做了选择。|[图片链接](./backgrounds_no_countdown/1405708.jpg)|schedule|
 |2024-03-14|1045615|且将新火试新茶，诗酒趁年华|[图片链接](./backgrounds_no_countdown/1045615.jpg)|schedule|
 |2024-03-14|71880|相思一夜梅花发，忽到窗前疑是君。|[图片链接](./backgrounds_no_countdown/71880.jpg)|schedule|
+|2024-03-15|348287|胆小鬼连幸福都害怕，碰到棉花都会受伤|[图片链接](./backgrounds_no_countdown/348287.jpg)|schedule|
+|2024-03-15|685778|但俗话说，笨人想事情，跟休息没两样。|[图片链接](./backgrounds_no_countdown/685778.jpg)|schedule|
+|2024-03-15|2171129|西北有高楼，上与浮云齐。|[图片链接](./backgrounds_no_countdown/2171129.jpg)|schedule|
