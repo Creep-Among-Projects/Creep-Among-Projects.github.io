@@ -1565,3 +1565,6 @@ List of Backgrounds / 图片列表:
 |2024-03-14|1533478|满目山河空念远，落花风雨更伤春。|[图片链接](./backgrounds_no_countdown/1533478.jpg)|schedule|
 |2024-03-14|54323|只有登上山顶，才能看到那边的风光。|[图片链接](./backgrounds_no_countdown/54323.jpg)|schedule|
 |2024-03-14|1118796|从今往后，彼此依赖，彼此知觉。彼此珍贵，彼此喜爱。|[图片链接](./backgrounds_no_countdown/1118796.jpg)|schedule|
+|2024-03-14|1405708|命运啊，说是注定，不如说是你忘了是在何时做了选择。|[图片链接](./backgrounds_no_countdown/1405708.jpg)|schedule|
+|2024-03-14|1045615|且将新火试新茶，诗酒趁年华|[图片链接](./backgrounds_no_countdown/1045615.jpg)|schedule|
+|2024-03-14|71880|相思一夜梅花发，忽到窗前疑是君。|[图片链接](./backgrounds_no_countdown/71880.jpg)|schedule|
