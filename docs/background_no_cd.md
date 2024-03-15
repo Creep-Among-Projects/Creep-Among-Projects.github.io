@@ -1574,3 +1574,6 @@ List of Backgrounds / 图片列表:
 |2024-03-15|47034|别丧了，说不定你也是别人心中偷偷藏起来的光。|[图片链接](./backgrounds_no_countdown/47034.jpg)|schedule|
 |2024-03-15|1698246|他是终日不化的冰山，遇见极圈不落的骄阳。|[图片链接](./backgrounds_no_countdown/1698246.jpg)|schedule|
 |2024-03-15|710906|活的不快乐，本质上源于自己的无能。|[图片链接](./backgrounds_no_countdown/710906.jpg)|schedule|
+|2024-03-16|53978|不要为小事遮住视线，我们还有更大的世界|[图片链接](./backgrounds_no_countdown/53978.jpg)|schedule|
+|2024-03-16|1510147|Think twice, code once.|[图片链接](./backgrounds_no_countdown/1510147.jpg)|schedule|
+|2024-03-16|2121907|人不是有机体的集合，是经历的集合。|[图片链接](./backgrounds_no_countdown/2121907.jpg)|schedule|
