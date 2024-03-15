@@ -1571,3 +1571,6 @@ List of Backgrounds / 图片列表:
 |2024-03-15|348287|胆小鬼连幸福都害怕，碰到棉花都会受伤|[图片链接](./backgrounds_no_countdown/348287.jpg)|schedule|
 |2024-03-15|685778|但俗话说，笨人想事情，跟休息没两样。|[图片链接](./backgrounds_no_countdown/685778.jpg)|schedule|
 |2024-03-15|2171129|西北有高楼，上与浮云齐。|[图片链接](./backgrounds_no_countdown/2171129.jpg)|schedule|
+|2024-03-15|47034|别丧了，说不定你也是别人心中偷偷藏起来的光。|[图片链接](./backgrounds_no_countdown/47034.jpg)|schedule|
+|2024-03-15|1698246|他是终日不化的冰山，遇见极圈不落的骄阳。|[图片链接](./backgrounds_no_countdown/1698246.jpg)|schedule|
+|2024-03-15|710906|活的不快乐，本质上源于自己的无能。|[图片链接](./backgrounds_no_countdown/710906.jpg)|schedule|
