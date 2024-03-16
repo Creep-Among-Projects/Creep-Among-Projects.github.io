@@ -2194,3 +2194,6 @@ List of Backgrounds / 图片列表:
 |2024-03-16|53978|不要为小事遮住视线，我们还有更大的世界|[图片链接](./backgrounds/53978.jpg)|schedule|
 |2024-03-16|1510147|Think twice, code once.|[图片链接](./backgrounds/1510147.jpg)|schedule|
 |2024-03-16|2121907|人不是有机体的集合，是经历的集合。|[图片链接](./backgrounds/2121907.jpg)|schedule|
+|2024-03-16|93588|凡事都有一个与一望而知不同的真相|[图片链接](./backgrounds/93588.jpg)|schedule|
+|2024-03-16|2611105|一叫一回肠一断，三春三月忆三巴。|[图片链接](./backgrounds/2611105.jpg)|schedule|
+|2024-03-16|235683|朔风如解意，容易莫摧残。|[图片链接](./backgrounds/235683.jpg)|schedule|
