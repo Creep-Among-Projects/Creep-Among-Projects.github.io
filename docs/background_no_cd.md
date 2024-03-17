@@ -1583,3 +1583,6 @@ List of Backgrounds / 图片列表:
 |2024-03-17|2499793|谁能让我开心，我就喜欢谁|[图片链接](./backgrounds_no_countdown/2499793.jpg)|schedule|
 |2024-03-17|112298|花无人戴，酒无人劝，醉也无人管。|[图片链接](./backgrounds_no_countdown/112298.jpg)|schedule|
 |2024-03-17|69465|眼睛可以近视，目光不能短浅。|[图片链接](./backgrounds_no_countdown/69465.jpg)|schedule|
+|2024-03-17|69498|没心没肺，活着不累。|[图片链接](./backgrounds_no_countdown/69498.jpg)|schedule|
+|2024-03-17|161123|什么是尘土？从大地之肺发出的一声叹息。|[图片链接](./backgrounds_no_countdown/161123.jpg)|schedule|
+|2024-03-17|59318|臣鞠躬尽瘁，死而后已。|[图片链接](./backgrounds_no_countdown/59318.jpg)|schedule|
