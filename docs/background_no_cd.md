@@ -1601,3 +1601,6 @@ List of Backgrounds / 图片列表:
 |2024-03-20|391726|明月也不曾记得它点亮过世界！|[图片链接](./backgrounds_no_countdown/391726.jpg)|schedule|
 |2024-03-20|2433511|任何一个伟大的目标，都有一个微不足道的开始|[图片链接](./backgrounds_no_countdown/2433511.jpg)|schedule|
 |2024-03-20|990016|天阶夜色凉如水，卧看牵牛织女星。|[图片链接](./backgrounds_no_countdown/990016.jpg)|schedule|
+|2024-03-20|1683974|若能避开猛烈的欢喜，自然不会有悲痛来袭。|[图片链接](./backgrounds_no_countdown/1683974.jpg)|schedule|
+|2024-03-20|612331|当眼泪流下来，才知道，分开也是另一种明白。|[图片链接](./backgrounds_no_countdown/612331.jpg)|schedule|
+|2024-03-20|52674|古有一言腰相印，谁教他、满箧婴鳞疏。|[图片链接](./backgrounds_no_countdown/52674.jpg)|schedule|
