@@ -1607,3 +1607,6 @@ List of Backgrounds / 图片列表:
 |2024-03-21|1021195|被动的生活，无聊的工作，才是效率的死敌。|[图片链接](./backgrounds_no_countdown/1021195.jpg)|schedule|
 |2024-03-21|103572|再自信的人都会觉得自己还不够好|[图片链接](./backgrounds_no_countdown/103572.jpg)|schedule|
 |2024-03-21|2913953|明年此日青云去，却笑人间举子忙。|[图片链接](./backgrounds_no_countdown/2913953.jpg)|schedule|
+|2024-03-21|2119234|日啖荔枝三百颗，不辞长作岭南人。|[图片链接](./backgrounds_no_countdown/2119234.jpg)|schedule|
+|2024-03-21|1041098|这是傻瓜的血脉使然啊。|[图片链接](./backgrounds_no_countdown/1041098.jpg)|schedule|
+|2024-03-21|2179424|烟笼寒水月笼沙，夜泊秦淮近酒家。|[图片链接](./backgrounds_no_countdown/2179424.jpg)|schedule|
