@@ -1610,3 +1610,6 @@ List of Backgrounds / 图片列表:
 |2024-03-21|2119234|日啖荔枝三百颗，不辞长作岭南人。|[图片链接](./backgrounds_no_countdown/2119234.jpg)|schedule|
 |2024-03-21|1041098|这是傻瓜的血脉使然啊。|[图片链接](./backgrounds_no_countdown/1041098.jpg)|schedule|
 |2024-03-21|2179424|烟笼寒水月笼沙，夜泊秦淮近酒家。|[图片链接](./backgrounds_no_countdown/2179424.jpg)|schedule|
+|2024-03-22|86754|知否，知否？应是绿肥红瘦。|[图片链接](./backgrounds_no_countdown/86754.jpg)|schedule|
+|2024-03-22|74512|我和我的小伙伴们都惊呆了！|[图片链接](./backgrounds_no_countdown/74512.jpg)|schedule|
+|2024-03-22|2781759|从来就没有什么失败的人，只有半途而废的人。|[图片链接](./backgrounds_no_countdown/2781759.jpg)|schedule|
