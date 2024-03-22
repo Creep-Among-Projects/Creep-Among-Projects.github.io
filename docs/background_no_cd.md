@@ -1613,3 +1613,6 @@ List of Backgrounds / 图片列表:
 |2024-03-22|86754|知否，知否？应是绿肥红瘦。|[图片链接](./backgrounds_no_countdown/86754.jpg)|schedule|
 |2024-03-22|74512|我和我的小伙伴们都惊呆了！|[图片链接](./backgrounds_no_countdown/74512.jpg)|schedule|
 |2024-03-22|2781759|从来就没有什么失败的人，只有半途而废的人。|[图片链接](./backgrounds_no_countdown/2781759.jpg)|schedule|
+|2024-03-22|2224748|不是消失的太阳，也没多少的力量，仍会尽力地发光。|[图片链接](./backgrounds_no_countdown/2224748.jpg)|schedule|
+|2024-03-22|20226|天赋不能带来的东西，努力或许可以。|[图片链接](./backgrounds_no_countdown/20226.jpg)|schedule|
+|2024-03-22|1008211|桃李春风一杯酒，江湖夜雨十年灯。|[图片链接](./backgrounds_no_countdown/1008211.jpg)|schedule|
