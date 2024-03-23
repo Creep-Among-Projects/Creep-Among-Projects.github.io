@@ -1622,3 +1622,6 @@ List of Backgrounds / 图片列表:
 |2024-03-23|349619|如果你喜欢，就把这一切当做是荣耀，而不是炫耀。|[图片链接](./backgrounds_no_countdown/349619.jpg)|schedule|
 |2024-03-23|414798|一片春愁待酒浇。江上舟摇，楼上帘招。|[图片链接](./backgrounds_no_countdown/414798.jpg)|schedule|
 |2024-03-23|3791612|不约，不约，叔叔我们不约~|[图片链接](./backgrounds_no_countdown/3791612.jpg)|schedule|
+|2024-03-24|641576|三个人沐浴在生命的暴雨之中，感受着地球生命的尊严。|[图片链接](./backgrounds_no_countdown/641576.jpg)|schedule|
+|2024-03-24|2894023|今人不见古时月，今月曾经照古人。|[图片链接](./backgrounds_no_countdown/2894023.jpg)|schedule|
+|2024-03-24|54585|往事真的不堪回首吗？|[图片链接](./backgrounds_no_countdown/54585.jpg)|schedule|
