@@ -1619,3 +1619,6 @@ List of Backgrounds / 图片列表:
 |2024-03-23|1055691|此情可待成追忆，只是当时已惘然。|[图片链接](./backgrounds_no_countdown/1055691.jpg)|schedule|
 |2024-03-23|1074844|若是遇见从前的我，请带他回来。|[图片链接](./backgrounds_no_countdown/1074844.jpg)|schedule|
 |2024-03-23|2415138|胸中有丘壑，立马镇山河。|[图片链接](./backgrounds_no_countdown/2415138.jpg)|schedule|
+|2024-03-23|349619|如果你喜欢，就把这一切当做是荣耀，而不是炫耀。|[图片链接](./backgrounds_no_countdown/349619.jpg)|schedule|
+|2024-03-23|414798|一片春愁待酒浇。江上舟摇，楼上帘招。|[图片链接](./backgrounds_no_countdown/414798.jpg)|schedule|
+|2024-03-23|3791612|不约，不约，叔叔我们不约~|[图片链接](./backgrounds_no_countdown/3791612.jpg)|schedule|
