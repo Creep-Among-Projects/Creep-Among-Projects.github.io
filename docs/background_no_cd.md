@@ -1628,3 +1628,6 @@ List of Backgrounds / 图片列表:
 |2024-03-24|35647|在我单枪匹马的背后，是爱我的千军万马。|[图片链接](./backgrounds_no_countdown/35647.jpg)|schedule|
 |2024-03-24|2282543|春来暑往，秋去冬藏，又是很多年过去了|[图片链接](./backgrounds_no_countdown/2282543.jpg)|schedule|
 |2024-03-24|2692254|如果痛恨所处的黑暗，请你成为你想要的光。|[图片链接](./backgrounds_no_countdown/2692254.jpg)|schedule|
+|2024-03-25|4207567|旅行的意义在于找到自己，而非浏览他人。|[图片链接](./backgrounds_no_countdown/4207567.jpg)|schedule|
+|2024-03-25|1011295|冲动，绝不是真正英雄的性格。|[图片链接](./backgrounds_no_countdown/1011295.jpg)|schedule|
+|2024-03-25|2179422|美人卷珠帘，深坐颦蛾眉。|[图片链接](./backgrounds_no_countdown/2179422.jpg)|schedule|
