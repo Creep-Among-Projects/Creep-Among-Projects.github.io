@@ -1625,3 +1625,6 @@ List of Backgrounds / 图片列表:
 |2024-03-24|641576|三个人沐浴在生命的暴雨之中，感受着地球生命的尊严。|[图片链接](./backgrounds_no_countdown/641576.jpg)|schedule|
 |2024-03-24|2894023|今人不见古时月，今月曾经照古人。|[图片链接](./backgrounds_no_countdown/2894023.jpg)|schedule|
 |2024-03-24|54585|往事真的不堪回首吗？|[图片链接](./backgrounds_no_countdown/54585.jpg)|schedule|
+|2024-03-24|35647|在我单枪匹马的背后，是爱我的千军万马。|[图片链接](./backgrounds_no_countdown/35647.jpg)|schedule|
+|2024-03-24|2282543|春来暑往，秋去冬藏，又是很多年过去了|[图片链接](./backgrounds_no_countdown/2282543.jpg)|schedule|
+|2024-03-24|2692254|如果痛恨所处的黑暗，请你成为你想要的光。|[图片链接](./backgrounds_no_countdown/2692254.jpg)|schedule|
