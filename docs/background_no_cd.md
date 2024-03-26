@@ -1640,3 +1640,6 @@ List of Backgrounds / 图片列表:
 |2024-03-26|196665|居高声自远，非是藉秋风。|[图片链接](./backgrounds_no_countdown/196665.jpg)|schedule|
 |2024-03-26|1003100|草木有本心，何求美人折！|[图片链接](./backgrounds_no_countdown/1003100.jpg)|schedule|
 |2024-03-26|414694|从来如此，便对么？|[图片链接](./backgrounds_no_countdown/414694.jpg)|schedule|
+|2024-03-27|1056724|对于讨厌的人不要想改变他，远离他才是上策。|[图片链接](./backgrounds_no_countdown/1056724.jpg)|schedule|
+|2024-03-27|383556|负霜华，行世路。一同星尘，除魔歼邪|[图片链接](./backgrounds_no_countdown/383556.jpg)|schedule|
+|2024-03-27|371466|人生需要磨砺，苦难也是一笔宝贵的财富。|[图片链接](./backgrounds_no_countdown/371466.jpg)|schedule|
