@@ -2266,3 +2266,6 @@ List of Backgrounds / 图片列表:
 |2024-03-28|947195|博观而约取，厚积而薄发|[图片链接](./backgrounds/947195.jpg)|schedule|
 |2024-03-28|2896280|我们不能成为贵族的后代，但我们可以变成贵族的祖先|[图片链接](./backgrounds/2896280.jpg)|schedule|
 |2024-03-28|3834461|小地瓜，我找到你了。|[图片链接](./backgrounds/3834461.jpg)|schedule|
+|2024-04-06|1188139|真正喜欢你的人你再蠢的套路她都愿意吃你的。|[图片链接](./backgrounds/1188139.jpg)|workflow_dispatch|
+|2024-04-06|636120|以爱回应忠诚，以荣誉回应英勇，以复仇回应背叛|[图片链接](./backgrounds/636120.jpg)|workflow_dispatch|
+|2024-04-06|2187457|空山新雨后，天气晚来秋。|[图片链接](./backgrounds/2187457.jpg)|workflow_dispatch|
