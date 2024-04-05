@@ -27,10 +27,11 @@ jobs:
           pip install -r apps/background/requirements.txt
           mkdir cache
           wget -O cache/smiley-sans.zip https://github.com/atelier-anchor/smiley-sans/releases/download/v1.1.1/smiley-sans-v1.1.1.zip
-          wget -O cache/QingkeHuangyou.zip https://fonts.google.com/download?family=ZCOOL%20QingKe%20HuangYou
+          # wget -O cache/QingkeHuangyou.zip https://fonts.google.com/download?family=ZCOOL%20QingKe%20HuangYou
+          wget -O cache/ZCOOLQingKeHuangYou-Regular.ttf https://fonts.gstatic.com/s/zcoolqingkehuangyou/v15/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIi_28c8bHWA.ttf
           wget -O cache/pexels_logo.png --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "https://images.pexels.com/lib/api/pexels-white.png"
           unzip cache/smiley-sans.zip -d cache
-          unzip cache/QingkeHuangyou.zip -d cache
+          # unzip cache/QingkeHuangyou.zip -d cache
       - name: Generate Background
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
