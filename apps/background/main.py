@@ -305,7 +305,7 @@ draw.multiline_text((1920, 275),
                     anchor="ma",
                     align="center")
 
-draw.multiline_text((1920, 550),
+draw.multiline_text((1920, 475),
                     text=shanbay["translation"],
                     fill=(255, 255, 255),
                     font=get_smileysans(125),
