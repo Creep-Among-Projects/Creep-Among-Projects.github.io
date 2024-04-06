@@ -1658,3 +1658,6 @@ List of Backgrounds / 图片列表:
 |2024-04-06|255389|上帝说要有光，于是萝莉就掀起了裙子。|[图片链接](./backgrounds_no_countdown/255389.jpg)|push|
 |2024-04-06|1122639|希望我们都能像对方一样勇敢。|[图片链接](./backgrounds_no_countdown/1122639.jpg)|push|
 |2024-04-06|2291427|胆小鬼连幸福都害怕，碰到棉花都会受伤。|[图片链接](./backgrounds_no_countdown/2291427.jpg)|push|
+|2024-04-06|2172741|别担心把画面弄糟，你是作者想怎么做都好|[图片链接](./backgrounds_no_countdown/2172741.jpg)|issues|
+|2024-04-06|4210787|别担心把画面弄糟，你是作者想怎么做都好|[图片链接](./backgrounds_no_countdown/4210787.jpg)|issues|
+|2024-04-06|86580|别担心把画面弄糟，你是作者想怎么做都好|[图片链接](./backgrounds_no_countdown/86580.jpg)|issues|
