@@ -1664,3 +1664,6 @@ List of Backgrounds / 图片列表:
 |2024-04-06|2273085|好雨知时节，当春乃发生。|[图片链接](./backgrounds_no_countdown/2273085.jpg)|schedule|
 |2024-04-06|2756413|叹飘渺，莫过春樱转瞬逝；怜世间,万千繁华始归尘。|[图片链接](./backgrounds_no_countdown/2756413.jpg)|schedule|
 |2024-04-06|2187458|生命如同寓言，其价值不在与长短，而在与内容。|[图片链接](./backgrounds_no_countdown/2187458.jpg)|schedule|
+|2024-04-07|158756|孤舟蓑笠翁，独钓寒江雪。|[图片链接](./backgrounds_no_countdown/158756.jpg)|schedule|
+|2024-04-07|133181|投之亡地然后存，限之死地然后生。|[图片链接](./backgrounds_no_countdown/133181.jpg)|schedule|
+|2024-04-07|673847|近水楼台先得月，向阳花木易为春。|[图片链接](./backgrounds_no_countdown/673847.jpg)|schedule|
