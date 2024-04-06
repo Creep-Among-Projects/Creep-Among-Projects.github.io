@@ -273,6 +273,11 @@ except:
     quote = f'{new_quote.hitokoto}    --{new_quote.author} {new_quote.src}' if new_quote.author \
         else f'{new_quote.hitokoto}    --{new_quote.src}'
 
+try:
+    shanbay = requests.get("https://apiv3.shanbay.com/weapps/dailyquote/quote/", headers=GENERAL_HEADERS).json()
+except:
+    shanbay = {"content": "", "translation": ""}
+
 weather_text = f'天气预报：\n{"-" * 28}\n' + \
                f'\n{"-" * 28}\n'.join([f'日期：{_["date"]}\n'
                                        f'天气：{_["dayweather"]}/{_["nightweather"]}\n'
@@ -292,6 +297,20 @@ draw.multiline_text((1920, 70),
                     font=get_smileysans(125),
                     anchor='ma',
                     align='center')
+
+draw.multiline_text((1920, 275),
+                    text=shanbay["content"],
+                    fill=(255, 255, 255),
+                    font=get_smileysans(125),
+                    anchor="ma",
+                    align="center")
+
+draw.multiline_text((1920, 550),
+                    text=shanbay["translation"],
+                    fill=(255, 255, 255),
+                    font=get_smileysans(125),
+                    anchor="ma",
+                    align="center")
 
 debug_info = f'''
 调试信息：
