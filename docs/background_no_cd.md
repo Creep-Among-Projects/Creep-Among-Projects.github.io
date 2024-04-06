@@ -1652,3 +1652,6 @@ List of Backgrounds / 图片列表:
 |2024-04-06|1188139|真正喜欢你的人你再蠢的套路她都愿意吃你的。|[图片链接](./backgrounds_no_countdown/1188139.jpg)|workflow_dispatch|
 |2024-04-06|636120|以爱回应忠诚，以荣誉回应英勇，以复仇回应背叛|[图片链接](./backgrounds_no_countdown/636120.jpg)|workflow_dispatch|
 |2024-04-06|2187457|空山新雨后，天气晚来秋。|[图片链接](./backgrounds_no_countdown/2187457.jpg)|workflow_dispatch|
+|2024-04-06|409029|胜比昭君重出世，犹如西子再还魂。|[图片链接](./backgrounds_no_countdown/409029.jpg)|push|
+|2024-04-06|88637|春复一春，枝头黄莺飞。秋复一秋，城头大雁归。|[图片链接](./backgrounds_no_countdown/88637.jpg)|push|
+|2024-04-06|4380970|春风十里扬州路，卷上珠帘总不如。|[图片链接](./backgrounds_no_countdown/4380970.jpg)|push|
