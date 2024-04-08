@@ -1676,3 +1676,6 @@ List of Backgrounds / 图片列表:
 |2024-04-08|1746836|你没有舍不得，我也不好意思难过。|[图片链接](./backgrounds_no_countdown/1746836.jpg)|schedule|
 |2024-04-08|1174138|只有懦弱和失败者才会四处寻找借口。|[图片链接](./backgrounds_no_countdown/1174138.jpg)|schedule|
 |2024-04-08|3094218|我不是在等你喜欢我，我是在等自己不喜欢你。|[图片链接](./backgrounds_no_countdown/3094218.jpg)|schedule|
+|2024-04-09|4198572|人本身可以是聚光灯，我自己可以就是发光体。|[图片链接](./backgrounds_no_countdown/4198572.jpg)|schedule|
+|2024-04-09|641575|世间哪有恋爱？压根儿是生殖冲动。|[图片链接](./backgrounds_no_countdown/641575.jpg)|schedule|
+|2024-04-09|260954|梦终于醒了啊，期盼他日我们再萍水相逢吧。|[图片链接](./backgrounds_no_countdown/260954.jpg)|schedule|
