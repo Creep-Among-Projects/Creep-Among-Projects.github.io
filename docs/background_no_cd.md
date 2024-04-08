@@ -1673,3 +1673,6 @@ List of Backgrounds / 图片列表:
 |2024-04-08|219693|嫦娥应悔偷灵药，碧海青天夜夜心。|[图片链接](./backgrounds_no_countdown/219693.jpg)|schedule|
 |2024-04-08|1104365|你们认为没有路，是因为没有学会不择手段。|[图片链接](./backgrounds_no_countdown/1104365.jpg)|schedule|
 |2024-04-08|6194973|流光容易把人抛，红了樱桃，绿了芭蕉。|[图片链接](./backgrounds_no_countdown/6194973.jpg)|schedule|
+|2024-04-08|1746836|你没有舍不得，我也不好意思难过。|[图片链接](./backgrounds_no_countdown/1746836.jpg)|schedule|
+|2024-04-08|1174138|只有懦弱和失败者才会四处寻找借口。|[图片链接](./backgrounds_no_countdown/1174138.jpg)|schedule|
+|2024-04-08|3094218|我不是在等你喜欢我，我是在等自己不喜欢你。|[图片链接](./backgrounds_no_countdown/3094218.jpg)|schedule|
