@@ -1685,3 +1685,6 @@ List of Backgrounds / 图片列表:
 |2024-04-10|4557466|不登高山，不知天之高也；不临深溪，不知地之厚也。|[图片链接](./backgrounds_no_countdown/4557466.jpg)|schedule|
 |2024-04-10|2187319|我想，在你眼里，撒野奔跑；我想，一个眼神，就到老。|[图片链接](./backgrounds_no_countdown/2187319.jpg)|schedule|
 |2024-04-10|66902|无言是最大的轻蔑。|[图片链接](./backgrounds_no_countdown/66902.jpg)|schedule|
+|2024-04-10|965982|信仰如锁，凡人在这头，神明在另一头。|[图片链接](./backgrounds_no_countdown/965982.jpg)|schedule|
+|2024-04-10|364085|人间四月芳菲尽，山寺桃花始盛开。|[图片链接](./backgrounds_no_countdown/364085.jpg)|schedule|
+|2024-04-10|2879824|江山代有才人出，各领风骚数百年。|[图片链接](./backgrounds_no_countdown/2879824.jpg)|schedule|
