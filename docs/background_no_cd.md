@@ -1688,3 +1688,6 @@ List of Backgrounds / 图片列表:
 |2024-04-10|965982|信仰如锁，凡人在这头，神明在另一头。|[图片链接](./backgrounds_no_countdown/965982.jpg)|schedule|
 |2024-04-10|364085|人间四月芳菲尽，山寺桃花始盛开。|[图片链接](./backgrounds_no_countdown/364085.jpg)|schedule|
 |2024-04-10|2879824|江山代有才人出，各领风骚数百年。|[图片链接](./backgrounds_no_countdown/2879824.jpg)|schedule|
+|2024-04-11|402414|自由就是说二加二等于四的自由，如此成立，一切同理。|[图片链接](./backgrounds_no_countdown/402414.jpg)|schedule|
+|2024-04-11|1029570|控兄是我的个性的同时，也是勋章！|[图片链接](./backgrounds_no_countdown/1029570.jpg)|schedule|
+|2024-04-11|69461|功名万里外，心事一杯中。|[图片链接](./backgrounds_no_countdown/69461.jpg)|schedule|
