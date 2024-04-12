@@ -1700,3 +1700,6 @@ List of Backgrounds / 图片列表:
 |2024-04-12|828543|正义不会因为无人歌颂而变成非议。|[图片链接](./backgrounds_no_countdown/828543.jpg)|schedule|
 |2024-04-12|4198566|两处相思同淋雪，此生也算共白头。|[图片链接](./backgrounds_no_countdown/4198566.jpg)|schedule|
 |2024-04-12|129569|我想去天涯，你却带我去海角。|[图片链接](./backgrounds_no_countdown/129569.jpg)|schedule|
+|2024-04-13|2058853|远赴人间惊鸿宴 ，一睹人间盛世颜。|[图片链接](./backgrounds_no_countdown/2058853.jpg)|schedule|
+|2024-04-13|53529|寻寻觅觅，冷冷清清，凄凄惨惨戚戚。|[图片链接](./backgrounds_no_countdown/53529.jpg)|schedule|
+|2024-04-13|2106701|我拯救了全世界，全世界却抛弃了我。|[图片链接](./backgrounds_no_countdown/2106701.jpg)|schedule|
