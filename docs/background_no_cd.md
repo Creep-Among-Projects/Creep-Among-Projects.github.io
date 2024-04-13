@@ -1706,3 +1706,6 @@ List of Backgrounds / 图片列表:
 |2024-04-13|4210881|从前种种，譬如昨日死；从后种种，譬如今日生|[图片链接](./backgrounds_no_countdown/4210881.jpg)|schedule|
 |2024-04-13|58723|只愿君心似我心，定不负相思意。|[图片链接](./backgrounds_no_countdown/58723.jpg)|schedule|
 |2024-04-13|1007976|你什么时候放下，什么时候就没有烦恼。|[图片链接](./backgrounds_no_countdown/1007976.jpg)|schedule|
+|2024-04-14|66625|自童年起，我便独自一人，照顾着历代星辰。|[图片链接](./backgrounds_no_countdown/66625.jpg)|schedule|
+|2024-04-14|3820994|青山依旧在，几度夕阳红。|[图片链接](./backgrounds_no_countdown/3820994.jpg)|schedule|
+|2024-04-14|4346328|差距并不可怕，可怕的是因为差距而放弃。|[图片链接](./backgrounds_no_countdown/4346328.jpg)|schedule|
