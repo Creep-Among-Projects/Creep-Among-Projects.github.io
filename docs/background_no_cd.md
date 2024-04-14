@@ -1712,3 +1712,6 @@ List of Backgrounds / 图片列表:
 |2024-04-14|831081|XX什么的，最讨厌了！|[图片链接](./backgrounds_no_countdown/831081.jpg)|schedule|
 |2024-04-14|606505|我等你十三载，你如何回我？|[图片链接](./backgrounds_no_countdown/606505.jpg)|schedule|
 |2024-04-14|2818132|抓不住的东西，伸手都多余。|[图片链接](./backgrounds_no_countdown/2818132.jpg)|schedule|
+|2024-04-15|4198568|我们都在阴沟里，但仍然有人仰望星空。|[图片链接](./backgrounds_no_countdown/4198568.jpg)|schedule|
+|2024-04-15|4041201|但使龙城飞将在，不教胡马度阴山。|[图片链接](./backgrounds_no_countdown/4041201.jpg)|schedule|
+|2024-04-15|1314540|所谓最难忘的，就是从来不曾想起，却永远也不会忘记。|[图片链接](./backgrounds_no_countdown/1314540.jpg)|schedule|
