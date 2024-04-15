@@ -1718,3 +1718,6 @@ List of Backgrounds / 图片列表:
 |2024-04-15|1103705|我寄愁心与明月，随风直到夜郎西。|[图片链接](./backgrounds_no_countdown/1103705.jpg)|schedule|
 |2024-04-15|1002251|不患无位，患所以立。不患莫己知，求为可知也。|[图片链接](./backgrounds_no_countdown/1002251.jpg)|schedule|
 |2024-04-15|352532|日色欲尽花含烟，月明欲素愁不眠。|[图片链接](./backgrounds_no_countdown/352532.jpg)|schedule|
+|2024-04-16|1003940|云无心以出岫，鸟倦飞而知还。|[图片链接](./backgrounds_no_countdown/1003940.jpg)|schedule|
+|2024-04-16|1060255|没有什么过不去，只是再也回不去。|[图片链接](./backgrounds_no_countdown/1060255.jpg)|schedule|
+|2024-04-16|6369229|身在无间，心在桃源。|[图片链接](./backgrounds_no_countdown/6369229.jpg)|schedule|
