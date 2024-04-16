@@ -2341,3 +2341,6 @@ List of Backgrounds / 图片列表:
 |2024-04-16|600643|生活既危险又稍纵即逝。|[图片链接](./backgrounds/600643.jpg)|schedule|
 |2024-04-16|92873|依旧，依旧，人与绿杨俱瘦。|[图片链接](./backgrounds/92873.jpg)|schedule|
 |2024-04-16|397979|就此拂衣去，水覆旧荣径。|[图片链接](./backgrounds/397979.jpg)|schedule|
+|2024-04-17|3193807|地狱太冷，我来殉你。|[图片链接](./backgrounds/3193807.jpg)|schedule|
+|2024-04-17|14108|君问归期未有期，巴山夜雨涨秋池。|[图片链接](./backgrounds/14108.jpg)|schedule|
+|2024-04-17|61380|人类充满了谎言，我又怎能独善其身|[图片链接](./backgrounds/61380.jpg)|schedule|
