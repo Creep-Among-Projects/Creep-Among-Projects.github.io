@@ -2344,3 +2344,6 @@ List of Backgrounds / 图片列表:
 |2024-04-17|3193807|地狱太冷，我来殉你。|[图片链接](./backgrounds/3193807.jpg)|schedule|
 |2024-04-17|14108|君问归期未有期，巴山夜雨涨秋池。|[图片链接](./backgrounds/14108.jpg)|schedule|
 |2024-04-17|61380|人类充满了谎言，我又怎能独善其身|[图片链接](./backgrounds/61380.jpg)|schedule|
+|2024-04-17|60302|已有之事后必再有，已行之事后必再行。|[图片链接](./backgrounds/60302.jpg)|schedule|
+|2024-04-17|268497|红泪偷垂，满眼春风百事非。|[图片链接](./backgrounds/268497.jpg)|schedule|
+|2024-04-17|62499|这不是神经病，是理想|[图片链接](./backgrounds/62499.jpg)|schedule|
