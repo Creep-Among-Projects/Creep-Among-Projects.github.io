@@ -1733,3 +1733,6 @@ List of Backgrounds / 图片列表:
 |2024-04-18|890608|等待，不是为了你能回来，而是找个借口不离开。|[图片链接](./backgrounds_no_countdown/890608.jpg)|schedule|
 |2024-04-18|7003468|弱小和无知不是生存的障碍，傲慢才是。|[图片链接](./backgrounds_no_countdown/7003468.jpg)|schedule|
 |2024-04-18|1043474|如同这雨，生于天，死于地，这中间的便是人生。|[图片链接](./backgrounds_no_countdown/1043474.jpg)|schedule|
+|2024-04-18|66624|用我一生，换你十年天真无邪。|[图片链接](./backgrounds_no_countdown/66624.jpg)|schedule|
+|2024-04-18|1528978|君埋泉下泥销骨，我寄人间雪满头。|[图片链接](./backgrounds_no_countdown/1528978.jpg)|schedule|
+|2024-04-18|4122954|老子就是一门炮。|[图片链接](./backgrounds_no_countdown/4122954.jpg)|schedule|
