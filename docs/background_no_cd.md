@@ -1736,3 +1736,6 @@ List of Backgrounds / 图片列表:
 |2024-04-18|66624|用我一生，换你十年天真无邪。|[图片链接](./backgrounds_no_countdown/66624.jpg)|schedule|
 |2024-04-18|1528978|君埋泉下泥销骨，我寄人间雪满头。|[图片链接](./backgrounds_no_countdown/1528978.jpg)|schedule|
 |2024-04-18|4122954|老子就是一门炮。|[图片链接](./backgrounds_no_countdown/4122954.jpg)|schedule|
+|2024-04-19|67082|下辈子变成你喜欢的人，然后不喜欢你！|[图片链接](./backgrounds_no_countdown/67082.jpg)|schedule|
+|2024-04-19|2527441|双向奔赴，丝线重合，我们仰头探望，便是树状星辰。|[图片链接](./backgrounds_no_countdown/2527441.jpg)|schedule|
+|2024-04-19|2045295|一定要爱着点什么，恰似草木对光阴的钟情。|[图片链接](./backgrounds_no_countdown/2045295.jpg)|schedule|
