@@ -1739,3 +1739,6 @@ List of Backgrounds / 图片列表:
 |2024-04-19|67082|下辈子变成你喜欢的人，然后不喜欢你！|[图片链接](./backgrounds_no_countdown/67082.jpg)|schedule|
 |2024-04-19|2527441|双向奔赴，丝线重合，我们仰头探望，便是树状星辰。|[图片链接](./backgrounds_no_countdown/2527441.jpg)|schedule|
 |2024-04-19|2045295|一定要爱着点什么，恰似草木对光阴的钟情。|[图片链接](./backgrounds_no_countdown/2045295.jpg)|schedule|
+|2024-04-19|1039111|此情无计可消除，才下眉头，却上心头。|[图片链接](./backgrounds_no_countdown/1039111.jpg)|schedule|
+|2024-04-19|2004630|逆着光行走，任风吹雨打。|[图片链接](./backgrounds_no_countdown/2004630.jpg)|schedule|
+|2024-04-19|71100|世间安得双全法， 不负如来不负卿。|[图片链接](./backgrounds_no_countdown/71100.jpg)|schedule|
