@@ -1742,3 +1742,6 @@ List of Backgrounds / 图片列表:
 |2024-04-19|1039111|此情无计可消除，才下眉头，却上心头。|[图片链接](./backgrounds_no_countdown/1039111.jpg)|schedule|
 |2024-04-19|2004630|逆着光行走，任风吹雨打。|[图片链接](./backgrounds_no_countdown/2004630.jpg)|schedule|
 |2024-04-19|71100|世间安得双全法， 不负如来不负卿。|[图片链接](./backgrounds_no_countdown/71100.jpg)|schedule|
+|2024-04-20|1093735|执子之手，与子偕老。|[图片链接](./backgrounds_no_countdown/1093735.jpg)|schedule|
+|2024-04-20|1046243|无法避过轮回，而岁月亦没有等我，你，何时来带我。|[图片链接](./backgrounds_no_countdown/1046243.jpg)|schedule|
+|2024-04-20|2034482|纵使那是铺满烈火的道路，也要欢歌前行······|[图片链接](./backgrounds_no_countdown/2034482.jpg)|schedule|
