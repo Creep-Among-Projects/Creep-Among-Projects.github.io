@@ -1748,3 +1748,6 @@ List of Backgrounds / 图片列表:
 |2024-04-20|1401753|给岁月以文明，而不是给文明以岁月。|[图片链接](./backgrounds_no_countdown/1401753.jpg)|schedule|
 |2024-04-20|432363|不敢正视你的眼睛，是怕我每一个眼神都在告白。|[图片链接](./backgrounds_no_countdown/432363.jpg)|schedule|
 |2024-04-20|247350|人生若只如初见，何事秋风悲画扇。|[图片链接](./backgrounds_no_countdown/247350.jpg)|schedule|
+|2024-04-21|91453|钟表走着同样的节拍，夜晚缀着同一簇星星。|[图片链接](./backgrounds_no_countdown/91453.jpg)|schedule|
+|2024-04-21|4466553|习惯性的回头，想起你已经不在了。|[图片链接](./backgrounds_no_countdown/4466553.jpg)|schedule|
+|2024-04-21|33572|江南无所有，聊赠一枝春。|[图片链接](./backgrounds_no_countdown/33572.jpg)|schedule|
