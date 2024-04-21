@@ -1751,3 +1751,6 @@ List of Backgrounds / 图片列表:
 |2024-04-21|91453|钟表走着同样的节拍，夜晚缀着同一簇星星。|[图片链接](./backgrounds_no_countdown/91453.jpg)|schedule|
 |2024-04-21|4466553|习惯性的回头，想起你已经不在了。|[图片链接](./backgrounds_no_countdown/4466553.jpg)|schedule|
 |2024-04-21|33572|江南无所有，聊赠一枝春。|[图片链接](./backgrounds_no_countdown/33572.jpg)|schedule|
+|2024-04-21|4099030|是非在己，毁誉由人，得失不论。|[图片链接](./backgrounds_no_countdown/4099030.jpg)|schedule|
+|2024-04-21|1581098|远方未必远，未来一定来。|[图片链接](./backgrounds_no_countdown/1581098.jpg)|schedule|
+|2024-04-21|267461|树大必有枯枝，人多必有白痴。|[图片链接](./backgrounds_no_countdown/267461.jpg)|schedule|
