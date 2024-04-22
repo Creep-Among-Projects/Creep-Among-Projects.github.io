@@ -1757,3 +1757,6 @@ List of Backgrounds / 图片列表:
 |2024-04-22|4207620|长风破浪会有时，直挂云帆济沧海。|[图片链接](./backgrounds_no_countdown/4207620.jpg)|schedule|
 |2024-04-22|3718351|忽如一夜春风来，千树万树梨花开。|[图片链接](./backgrounds_no_countdown/3718351.jpg)|schedule|
 |2024-04-22|4671738|相思相望不相亲，天为谁春。|[图片链接](./backgrounds_no_countdown/4671738.jpg)|schedule|
+|2024-04-22|1134000|昔去雪如花，今来花似雪。|[图片链接](./backgrounds_no_countdown/1134000.jpg)|schedule|
+|2024-04-22|2879820|前半生无你，余生请指教。|[图片链接](./backgrounds_no_countdown/2879820.jpg)|schedule|
+|2024-04-22|2879823|毕竟西湖六月中，风光不与四时同。|[图片链接](./backgrounds_no_countdown/2879823.jpg)|schedule|
