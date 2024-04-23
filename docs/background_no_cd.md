@@ -1760,3 +1760,6 @@ List of Backgrounds / 图片列表:
 |2024-04-22|1134000|昔去雪如花，今来花似雪。|[图片链接](./backgrounds_no_countdown/1134000.jpg)|schedule|
 |2024-04-22|2879820|前半生无你，余生请指教。|[图片链接](./backgrounds_no_countdown/2879820.jpg)|schedule|
 |2024-04-22|2879823|毕竟西湖六月中，风光不与四时同。|[图片链接](./backgrounds_no_countdown/2879823.jpg)|schedule|
+|2024-04-24|946183|恰似人间惊鸿客，墨染星辰云水间。|[图片链接](./backgrounds_no_countdown/946183.jpg)|schedule|
+|2024-04-24|64853|分手了就是分手了好聚好散大家都各自安好就好了。|[图片链接](./backgrounds_no_countdown/64853.jpg)|schedule|
+|2024-04-24|4068152|有钱人的生活，往往就是这么朴实无华，且枯燥。|[图片链接](./backgrounds_no_countdown/4068152.jpg)|schedule|
