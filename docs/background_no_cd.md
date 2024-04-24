@@ -1766,3 +1766,6 @@ List of Backgrounds / 图片列表:
 |2024-04-24|162623|神把黑暗中跳舞的心脏叫做月亮。|[图片链接](./backgrounds_no_countdown/162623.jpg)|schedule|
 |2024-04-24|1827399|目的虽有，却无路可循；我们称之为路的，无非是踌躇。|[图片链接](./backgrounds_no_countdown/1827399.jpg)|schedule|
 |2024-04-24|36434|银烛秋光冷画屏，轻罗小扇扑流萤。|[图片链接](./backgrounds_no_countdown/36434.jpg)|schedule|
+|2024-04-25|3119709|你无法比此刻更年轻|[图片链接](./backgrounds_no_countdown/3119709.jpg)|schedule|
+|2024-04-25|1027339|其实世上本没有路，走的人多了，也便成了路。|[图片链接](./backgrounds_no_countdown/1027339.jpg)|schedule|
+|2024-04-25|3591322|改革不停顿，开放不止步。|[图片链接](./backgrounds_no_countdown/3591322.jpg)|schedule|
