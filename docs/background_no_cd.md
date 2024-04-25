@@ -1772,3 +1772,6 @@ List of Backgrounds / 图片列表:
 |2024-04-25|62277|暂时因缘，百年之后，各随六道，不相系属。|[图片链接](./backgrounds_no_countdown/62277.jpg)|schedule|
 |2024-04-25|104724|松花酿酒，春水煎茶。|[图片链接](./backgrounds_no_countdown/104724.jpg)|schedule|
 |2024-04-25|6194976|岂不罹凝寒？松柏有本性。|[图片链接](./backgrounds_no_countdown/6194976.jpg)|schedule|
+|2024-04-26|62332|纸上得来终觉浅，绝知此事要躬行。|[图片链接](./backgrounds_no_countdown/62332.jpg)|schedule|
+|2024-04-26|409030|你对世界所付出的善意，终究会开花结果。|[图片链接](./backgrounds_no_countdown/409030.jpg)|schedule|
+|2024-04-26|5273350|兴，百姓苦；亡，百姓苦。|[图片链接](./backgrounds_no_countdown/5273350.jpg)|schedule|
