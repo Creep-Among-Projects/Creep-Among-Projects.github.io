@@ -1784,3 +1784,6 @@ List of Backgrounds / 图片列表:
 |2024-04-27|409159|你我相逢在黑夜的海上，你有你的，我有我的，方向。|[图片链接](./backgrounds_no_countdown/409159.jpg)|schedule|
 |2024-04-27|2957061|心向花开，何不朝夕。|[图片链接](./backgrounds_no_countdown/2957061.jpg)|schedule|
 |2024-04-27|4273459|为你，千千万万遍。|[图片链接](./backgrounds_no_countdown/4273459.jpg)|schedule|
+|2024-04-28|6285771|农民家的孩子啊，他们的第一堂功课就是劳动！|[图片链接](./backgrounds_no_countdown/6285771.jpg)|schedule|
+|2024-04-28|4058519|愿我有生之年，得见您君临天下。|[图片链接](./backgrounds_no_countdown/4058519.jpg)|schedule|
+|2024-04-28|59722|故人西辞黄鹤楼，烟花三月下扬州。|[图片链接](./backgrounds_no_countdown/59722.jpg)|schedule|
