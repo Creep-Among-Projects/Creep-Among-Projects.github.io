@@ -1787,3 +1787,6 @@ List of Backgrounds / 图片列表:
 |2024-04-28|6285771|农民家的孩子啊，他们的第一堂功课就是劳动！|[图片链接](./backgrounds_no_countdown/6285771.jpg)|schedule|
 |2024-04-28|4058519|愿我有生之年，得见您君临天下。|[图片链接](./backgrounds_no_countdown/4058519.jpg)|schedule|
 |2024-04-28|59722|故人西辞黄鹤楼，烟花三月下扬州。|[图片链接](./backgrounds_no_countdown/59722.jpg)|schedule|
+|2024-04-28|921789|节日的意义，就是用美好的方式消耗时间|[图片链接](./backgrounds_no_countdown/921789.jpg)|schedule|
+|2024-04-28|1020808|群体只会干两件事，锦上添花或者落井下石。|[图片链接](./backgrounds_no_countdown/1020808.jpg)|schedule|
+|2024-04-28|4151484|我将变成死亡，世界的毁灭者。|[图片链接](./backgrounds_no_countdown/4151484.jpg)|schedule|
