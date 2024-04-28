@@ -1790,3 +1790,6 @@ List of Backgrounds / 图片列表:
 |2024-04-28|921789|节日的意义，就是用美好的方式消耗时间|[图片链接](./backgrounds_no_countdown/921789.jpg)|schedule|
 |2024-04-28|1020808|群体只会干两件事，锦上添花或者落井下石。|[图片链接](./backgrounds_no_countdown/1020808.jpg)|schedule|
 |2024-04-28|4151484|我将变成死亡，世界的毁灭者。|[图片链接](./backgrounds_no_countdown/4151484.jpg)|schedule|
+|2024-04-29|676155|别人说的记在脑袋里，而自己的，则放在心里。|[图片链接](./backgrounds_no_countdown/676155.jpg)|schedule|
+|2024-04-29|1047967|你凭什么喜欢我，就凭你眼光好吗？|[图片链接](./backgrounds_no_countdown/1047967.jpg)|schedule|
+|2024-04-29|860830|你知不知道，难做的事和应该做的事，往往是同一件事。|[图片链接](./backgrounds_no_countdown/860830.jpg)|schedule|
