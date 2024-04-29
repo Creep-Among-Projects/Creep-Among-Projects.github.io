@@ -1796,3 +1796,6 @@ List of Backgrounds / 图片列表:
 |2024-04-29|449029|虫子从来就没有真正被战胜过。|[图片链接](./backgrounds_no_countdown/449029.jpg)|schedule|
 |2024-04-29|5797998|绝望自有绝望的力量，正如希望自有希望的无能.|[图片链接](./backgrounds_no_countdown/5797998.jpg)|schedule|
 |2024-04-29|627660|粗缯大布裹生涯，腹有诗书气自华。|[图片链接](./backgrounds_no_countdown/627660.jpg)|schedule|
+|2024-04-30|533300|我不知道将去何方，但我已在路上。|[图片链接](./backgrounds_no_countdown/533300.jpg)|schedule|
+|2024-04-30|163992|乱花渐欲迷人眼，浅草才能没马蹄。|[图片链接](./backgrounds_no_countdown/163992.jpg)|schedule|
+|2024-04-30|2546034|原来，天上的星，都是曾被人惦念而又遗忘的梦啊。|[图片链接](./backgrounds_no_countdown/2546034.jpg)|schedule|
