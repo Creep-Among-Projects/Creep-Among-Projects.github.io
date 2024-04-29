@@ -1793,3 +1793,6 @@ List of Backgrounds / 图片列表:
 |2024-04-29|676155|别人说的记在脑袋里，而自己的，则放在心里。|[图片链接](./backgrounds_no_countdown/676155.jpg)|schedule|
 |2024-04-29|1047967|你凭什么喜欢我，就凭你眼光好吗？|[图片链接](./backgrounds_no_countdown/1047967.jpg)|schedule|
 |2024-04-29|860830|你知不知道，难做的事和应该做的事，往往是同一件事。|[图片链接](./backgrounds_no_countdown/860830.jpg)|schedule|
+|2024-04-29|449029|虫子从来就没有真正被战胜过。|[图片链接](./backgrounds_no_countdown/449029.jpg)|schedule|
+|2024-04-29|5797998|绝望自有绝望的力量，正如希望自有希望的无能.|[图片链接](./backgrounds_no_countdown/5797998.jpg)|schedule|
+|2024-04-29|627660|粗缯大布裹生涯，腹有诗书气自华。|[图片链接](./backgrounds_no_countdown/627660.jpg)|schedule|
