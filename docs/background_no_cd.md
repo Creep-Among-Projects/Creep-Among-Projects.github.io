@@ -1802,3 +1802,6 @@ List of Backgrounds / 图片列表:
 |2024-04-30|22064303|方寸之间，深不见底啊。|[图片链接](./backgrounds_no_countdown/22064303.jpg)|schedule|
 |2024-04-30|4207709|定义虽然精确，现实极度模糊。|[图片链接](./backgrounds_no_countdown/4207709.jpg)|schedule|
 |2024-04-30|4346320|是男还是女，没有关系呢。|[图片链接](./backgrounds_no_countdown/4346320.jpg)|schedule|
+|2024-05-01|4275716|请成为永远疯狂 ，永远浪漫 ，永远清澈的存在。|[图片链接](./backgrounds_no_countdown/4275716.jpg)|schedule|
+|2024-05-01|1122625|不做无情的仙，只做有情的人！|[图片链接](./backgrounds_no_countdown/1122625.jpg)|schedule|
+|2024-05-01|4418745|醉笑陪君三千场，不诉离殇。|[图片链接](./backgrounds_no_countdown/4418745.jpg)|schedule|
