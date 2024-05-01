@@ -1805,3 +1805,6 @@ List of Backgrounds / 图片列表:
 |2024-05-01|4275716|请成为永远疯狂 ，永远浪漫 ，永远清澈的存在。|[图片链接](./backgrounds_no_countdown/4275716.jpg)|schedule|
 |2024-05-01|1122625|不做无情的仙，只做有情的人！|[图片链接](./backgrounds_no_countdown/1122625.jpg)|schedule|
 |2024-05-01|4418745|醉笑陪君三千场，不诉离殇。|[图片链接](./backgrounds_no_countdown/4418745.jpg)|schedule|
+|2024-05-02|2156398|有幽默感的人，永远都不会默默无闻。|[图片链接](./backgrounds_no_countdown/2156398.jpg)|schedule|
+|2024-05-02|395398|喜欢大胸只是本能，喜欢贫乳才是审美。|[图片链接](./backgrounds_no_countdown/395398.jpg)|schedule|
+|2024-05-02|1083981|孙大圣，快收了神通吧！|[图片链接](./backgrounds_no_countdown/1083981.jpg)|schedule|
