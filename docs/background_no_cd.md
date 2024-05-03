@@ -1814,3 +1814,6 @@ List of Backgrounds / 图片列表:
 |2024-05-03|985339|海纳百川，有容乃大；壁立千仞，无欲则刚。|[图片链接](./backgrounds_no_countdown/985339.jpg)|schedule|
 |2024-05-03|3843292|你的无畏来源于无知|[图片链接](./backgrounds_no_countdown/3843292.jpg)|schedule|
 |2024-05-03|326258|人类的悲欢并不相通，我只觉得他们吵闹。|[图片链接](./backgrounds_no_countdown/326258.jpg)|schedule|
+|2024-05-04|132421|做人潇洒一点，别为了一个不爱你的人浪费感情。|[图片链接](./backgrounds_no_countdown/132421.jpg)|schedule|
+|2024-05-04|1591148|所见即所得，所想及所见。|[图片链接](./backgrounds_no_countdown/1591148.jpg)|schedule|
+|2024-05-04|70344|当一切都消失的时候，你会明白生命究竟有何价值。|[图片链接](./backgrounds_no_countdown/70344.jpg)|schedule|
