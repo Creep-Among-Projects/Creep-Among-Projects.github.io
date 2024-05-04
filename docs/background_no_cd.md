@@ -1820,3 +1820,6 @@ List of Backgrounds / 图片列表:
 |2024-05-04|2879814|看朱成碧思纷纷，憔悴支离为忆君。|[图片链接](./backgrounds_no_countdown/2879814.jpg)|schedule|
 |2024-05-04|4210848|我们属于大地和海洋，你们属于星空。|[图片链接](./backgrounds_no_countdown/4210848.jpg)|schedule|
 |2024-05-04|1120157|云破星出之夜，我对星低喃：吞噬我。|[图片链接](./backgrounds_no_countdown/1120157.jpg)|schedule|
+|2024-05-05|3220377|四季轮转，岁月更迭，他们仍旧鲜活热烈。|[图片链接](./backgrounds_no_countdown/3220377.jpg)|schedule|
+|2024-05-05|4466491|有些事情本身我们无法控制，只好控制自己。|[图片链接](./backgrounds_no_countdown/4466491.jpg)|schedule|
+|2024-05-05|1227662|循此苦旅，直抵群星|[图片链接](./backgrounds_no_countdown/1227662.jpg)|schedule|
