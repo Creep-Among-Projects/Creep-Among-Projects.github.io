@@ -1817,3 +1817,6 @@ List of Backgrounds / 图片列表:
 |2024-05-04|132421|做人潇洒一点，别为了一个不爱你的人浪费感情。|[图片链接](./backgrounds_no_countdown/132421.jpg)|schedule|
 |2024-05-04|1591148|所见即所得，所想及所见。|[图片链接](./backgrounds_no_countdown/1591148.jpg)|schedule|
 |2024-05-04|70344|当一切都消失的时候，你会明白生命究竟有何价值。|[图片链接](./backgrounds_no_countdown/70344.jpg)|schedule|
+|2024-05-04|2879814|看朱成碧思纷纷，憔悴支离为忆君。|[图片链接](./backgrounds_no_countdown/2879814.jpg)|schedule|
+|2024-05-04|4210848|我们属于大地和海洋，你们属于星空。|[图片链接](./backgrounds_no_countdown/4210848.jpg)|schedule|
+|2024-05-04|1120157|云破星出之夜，我对星低喃：吞噬我。|[图片链接](./backgrounds_no_countdown/1120157.jpg)|schedule|
