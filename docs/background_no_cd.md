@@ -1826,3 +1826,6 @@ List of Backgrounds / 图片列表:
 |2024-05-05|3842755|花有重开日，人无再少年。|[图片链接](./backgrounds_no_countdown/3842755.jpg)|schedule|
 |2024-05-05|1121442|让时光静静悄悄的流，把所有遗憾和失落都带走。|[图片链接](./backgrounds_no_countdown/1121442.jpg)|schedule|
 |2024-05-05|4210778|风乍起。合当奋意向人生。|[图片链接](./backgrounds_no_countdown/4210778.jpg)|schedule|
+|2024-05-06|60692|春风又绿江南岸，明月何时照我还？|[图片链接](./backgrounds_no_countdown/60692.jpg)|schedule|
+|2024-05-06|4210784|一壶酒，一竿身，快活如侬有几人。|[图片链接](./backgrounds_no_countdown/4210784.jpg)|schedule|
+|2024-05-06|989889|荷叶生时春恨生，荷叶枯时秋恨成。|[图片链接](./backgrounds_no_countdown/989889.jpg)|schedule|
