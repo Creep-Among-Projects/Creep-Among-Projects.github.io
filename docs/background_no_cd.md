@@ -1829,3 +1829,6 @@ List of Backgrounds / 图片列表:
 |2024-05-06|60692|春风又绿江南岸，明月何时照我还？|[图片链接](./backgrounds_no_countdown/60692.jpg)|schedule|
 |2024-05-06|4210784|一壶酒，一竿身，快活如侬有几人。|[图片链接](./backgrounds_no_countdown/4210784.jpg)|schedule|
 |2024-05-06|989889|荷叶生时春恨生，荷叶枯时秋恨成。|[图片链接](./backgrounds_no_countdown/989889.jpg)|schedule|
+|2024-05-06|464336|花，不知道自己就是春天。|[图片链接](./backgrounds_no_countdown/464336.jpg)|schedule|
+|2024-05-06|172508|愿人们的爱恨为你加冕|[图片链接](./backgrounds_no_countdown/172508.jpg)|schedule|
+|2024-05-06|2814239|春江潮水连海平，海上明月共潮生。|[图片链接](./backgrounds_no_countdown/2814239.jpg)|schedule|
