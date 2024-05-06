@@ -1832,3 +1832,6 @@ List of Backgrounds / 图片列表:
 |2024-05-06|464336|花，不知道自己就是春天。|[图片链接](./backgrounds_no_countdown/464336.jpg)|schedule|
 |2024-05-06|172508|愿人们的爱恨为你加冕|[图片链接](./backgrounds_no_countdown/172508.jpg)|schedule|
 |2024-05-06|2814239|春江潮水连海平，海上明月共潮生。|[图片链接](./backgrounds_no_countdown/2814239.jpg)|schedule|
+|2024-05-07|4041234|厚道的人 运气都不会太差|[图片链接](./backgrounds_no_countdown/4041234.jpg)|schedule|
+|2024-05-07|2291429|鸟宿池边树，僧敲月下门。|[图片链接](./backgrounds_no_countdown/2291429.jpg)|schedule|
+|2024-05-07|5797937|落叶他乡树，寒灯独夜人。|[图片链接](./backgrounds_no_countdown/5797937.jpg)|schedule|
