@@ -1838,3 +1838,6 @@ List of Backgrounds / 图片列表:
 |2024-05-07|19939006|臣心一片磁针石，不指南方不肯休。|[图片链接](./backgrounds_no_countdown/19939006.jpg)|schedule|
 |2024-05-07|414142|同是天涯沦落人，相逢何必曾相识。|[图片链接](./backgrounds_no_countdown/414142.jpg)|schedule|
 |2024-05-07|2180118|心之所向，素履以往。|[图片链接](./backgrounds_no_countdown/2180118.jpg)|schedule|
+|2024-05-08|1906442|天雨粟，夜鬼哭。|[图片链接](./backgrounds_no_countdown/1906442.jpg)|schedule|
+|2024-05-08|4122959|用我一生，换你十年天真无邪。|[图片链接](./backgrounds_no_countdown/4122959.jpg)|schedule|
+|2024-05-08|4210900|没有永远的敌人或朋友，只有永远的责任。|[图片链接](./backgrounds_no_countdown/4210900.jpg)|schedule|
