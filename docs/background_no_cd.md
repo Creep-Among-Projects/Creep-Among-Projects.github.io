@@ -1835,3 +1835,6 @@ List of Backgrounds / 图片列表:
 |2024-05-07|4041234|厚道的人 运气都不会太差|[图片链接](./backgrounds_no_countdown/4041234.jpg)|schedule|
 |2024-05-07|2291429|鸟宿池边树，僧敲月下门。|[图片链接](./backgrounds_no_countdown/2291429.jpg)|schedule|
 |2024-05-07|5797937|落叶他乡树，寒灯独夜人。|[图片链接](./backgrounds_no_countdown/5797937.jpg)|schedule|
+|2024-05-07|19939006|臣心一片磁针石，不指南方不肯休。|[图片链接](./backgrounds_no_countdown/19939006.jpg)|schedule|
+|2024-05-07|414142|同是天涯沦落人，相逢何必曾相识。|[图片链接](./backgrounds_no_countdown/414142.jpg)|schedule|
+|2024-05-07|2180118|心之所向，素履以往。|[图片链接](./backgrounds_no_countdown/2180118.jpg)|schedule|
