@@ -1844,3 +1844,6 @@ List of Backgrounds / 图片列表:
 |2024-05-08|22806942|愿得一心人，白头不相离。|[图片链接](./backgrounds_no_countdown/22806942.jpg)|schedule|
 |2024-05-08|22863109|糜鹿成群，虎豹避之；飞鸟成列，鹰鹫不击。|[图片链接](./backgrounds_no_countdown/22863109.jpg)|schedule|
 |2024-05-08|22678545|我恨自己。我爱自己。|[图片链接](./backgrounds_no_countdown/22678545.jpg)|schedule|
+|2024-05-09|4210783|最是人间留不住，朱颜辞镜花辞树。|[图片链接](./backgrounds_no_countdown/4210783.jpg)|schedule|
+|2024-05-09|4210804|仰天大笑出门去，我辈岂是蓬蒿人。|[图片链接](./backgrounds_no_countdown/4210804.jpg)|schedule|
+|2024-05-09|2334907|你若盛开，清风自来。|[图片链接](./backgrounds_no_countdown/2334907.jpg)|schedule|
