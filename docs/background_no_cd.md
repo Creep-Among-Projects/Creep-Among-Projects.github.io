@@ -1841,3 +1841,6 @@ List of Backgrounds / 图片列表:
 |2024-05-08|1906442|天雨粟，夜鬼哭。|[图片链接](./backgrounds_no_countdown/1906442.jpg)|schedule|
 |2024-05-08|4122959|用我一生，换你十年天真无邪。|[图片链接](./backgrounds_no_countdown/4122959.jpg)|schedule|
 |2024-05-08|4210900|没有永远的敌人或朋友，只有永远的责任。|[图片链接](./backgrounds_no_countdown/4210900.jpg)|schedule|
+|2024-05-08|22806942|愿得一心人，白头不相离。|[图片链接](./backgrounds_no_countdown/22806942.jpg)|schedule|
+|2024-05-08|22863109|糜鹿成群，虎豹避之；飞鸟成列，鹰鹫不击。|[图片链接](./backgrounds_no_countdown/22863109.jpg)|schedule|
+|2024-05-08|22678545|我恨自己。我爱自己。|[图片链接](./backgrounds_no_countdown/22678545.jpg)|schedule|
