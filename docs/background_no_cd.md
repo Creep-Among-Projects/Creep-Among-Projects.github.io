@@ -1847,3 +1847,6 @@ List of Backgrounds / 图片列表:
 |2024-05-09|4210783|最是人间留不住，朱颜辞镜花辞树。|[图片链接](./backgrounds_no_countdown/4210783.jpg)|schedule|
 |2024-05-09|4210804|仰天大笑出门去，我辈岂是蓬蒿人。|[图片链接](./backgrounds_no_countdown/4210804.jpg)|schedule|
 |2024-05-09|2334907|你若盛开，清风自来。|[图片链接](./backgrounds_no_countdown/2334907.jpg)|schedule|
+|2024-05-09|2106698|古人学问无遗力，少壮工夫老始成。|[图片链接](./backgrounds_no_countdown/2106698.jpg)|schedule|
+|2024-05-09|1856450|海内存知己，天涯若比邻。|[图片链接](./backgrounds_no_countdown/1856450.jpg)|schedule|
+|2024-05-09|3789853|你还有好多未完成的梦，你有什么理由停下脚步|[图片链接](./backgrounds_no_countdown/3789853.jpg)|schedule|
