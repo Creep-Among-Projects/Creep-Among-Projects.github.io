@@ -1853,3 +1853,6 @@ List of Backgrounds / 图片列表:
 |2024-05-10|47311|愿你无所畏惧，向阳而生。|[图片链接](./backgrounds_no_countdown/47311.jpg)|schedule|
 |2024-05-10|4069051|浮云游子意，落日故人情。|[图片链接](./backgrounds_no_countdown/4069051.jpg)|schedule|
 |2024-05-10|2425816|没有任何力量能毁了下一代，除了不懂时代的上一代。|[图片链接](./backgrounds_no_countdown/2425816.jpg)|schedule|
+|2024-05-10|4541924|舞低杨柳楼心月，歌尽桃花扇底风。|[图片链接](./backgrounds_no_countdown/4541924.jpg)|schedule|
+|2024-05-10|3831422|我也晓得过苦楚，却无人渡我回家。|[图片链接](./backgrounds_no_countdown/3831422.jpg)|schedule|
+|2024-05-10|158001|至此以后，杀死幻想。|[图片链接](./backgrounds_no_countdown/158001.jpg)|schedule|
