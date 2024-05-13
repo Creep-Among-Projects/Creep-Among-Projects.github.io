@@ -1871,3 +1871,6 @@ List of Backgrounds / 图片列表:
 |2024-05-13|1039110|美人自古如名将，不许人间见白头。|[图片链接](./backgrounds_no_countdown/1039110.jpg)|schedule|
 |2024-05-13|33308|力拔山兮气盖世。时不利兮骓不逝。|[图片链接](./backgrounds_no_countdown/33308.jpg)|schedule|
 |2024-05-13|6794053|人不患不知人，患不知己。|[图片链接](./backgrounds_no_countdown/6794053.jpg)|schedule|
+|2024-05-14|40375|永远相信美好的事情即将发生|[图片链接](./backgrounds_no_countdown/40375.jpg)|schedule|
+|2024-05-14|1046495|没有人愿意承认自己是孤独的，孤独很可耻。|[图片链接](./backgrounds_no_countdown/1046495.jpg)|schedule|
+|2024-05-14|1090994|天不生我李淳罡，剑道万古如长夜。|[图片链接](./backgrounds_no_countdown/1090994.jpg)|schedule|
