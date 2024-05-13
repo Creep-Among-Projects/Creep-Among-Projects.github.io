@@ -1868,3 +1868,6 @@ List of Backgrounds / 图片列表:
 |2024-05-12|39294|江湖有酒江湖见。|[图片链接](./backgrounds_no_countdown/39294.jpg)|schedule|
 |2024-05-12|1314541|生活中若没有朋友，就像生活中没有阳光一样。|[图片链接](./backgrounds_no_countdown/1314541.jpg)|schedule|
 |2024-05-12|87232|愿来世，你晓天，晓地，晓星尘。|[图片链接](./backgrounds_no_countdown/87232.jpg)|schedule|
+|2024-05-13|1039110|美人自古如名将，不许人间见白头。|[图片链接](./backgrounds_no_countdown/1039110.jpg)|schedule|
+|2024-05-13|33308|力拔山兮气盖世。时不利兮骓不逝。|[图片链接](./backgrounds_no_countdown/33308.jpg)|schedule|
+|2024-05-13|6794053|人不患不知人，患不知己。|[图片链接](./backgrounds_no_countdown/6794053.jpg)|schedule|
