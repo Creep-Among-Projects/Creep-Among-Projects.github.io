@@ -35,7 +35,7 @@ PEXELS_ENDPOINT = 'https://api.pexels.com/v1/search'
 AMAP_ENDPOINT = 'https://restapi.amap.com/v3/weather/weatherInfo'
 GITHUB_ENDPOINT = "https://api.github.com/repos/Creep-Among-Projects/Creep-Among-Projects.github.io/actions/secrets" \
                   "/BING_COOKIE "
-PEXELS_QUERY = 'spring'
+PEXELS_QUERY = 'summer'
 
 GENERAL_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 '
