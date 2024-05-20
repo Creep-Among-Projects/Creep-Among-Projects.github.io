@@ -1889,3 +1889,6 @@ List of Backgrounds / 图片列表:
 |2024-05-20|1151282|人们总会习惯性地高估自己的自控力。|[图片链接](./backgrounds_no_countdown/1151282.jpg)|schedule|
 |2024-05-20|1247526|大隐隐于市，要清静省心，自己就得空。|[图片链接](./backgrounds_no_countdown/1247526.jpg)|schedule|
 |2024-05-20|413960|柄转东南西北方，斗指紫薇亮。|[图片链接](./backgrounds_no_countdown/413960.jpg)|schedule|
+|2024-05-21|1170572|人都有两面，一面天使，一面恶魔。|[图片链接](./backgrounds_no_countdown/1170572.jpg)|schedule|
+|2024-05-21|137132|世界上最美丽的就是世界本身|[图片链接](./backgrounds_no_countdown/137132.jpg)|schedule|
+|2024-05-21|1170594|巧笑倩兮，美目盼兮，素以为绚兮。|[图片链接](./backgrounds_no_countdown/1170594.jpg)|schedule|
