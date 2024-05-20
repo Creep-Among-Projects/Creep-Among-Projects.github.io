@@ -1886,3 +1886,6 @@ List of Backgrounds / 图片列表:
 |2024-05-20|1209611|清明时节雨纷纷，路上行人欲断魂。|[图片链接](./backgrounds_no_countdown/1209611.jpg)|schedule|
 |2024-05-20|1263986|管他是不是人面兽心，我们只要活着就行。|[图片链接](./backgrounds_no_countdown/1263986.jpg)|schedule|
 |2024-05-20|1586795|希望我们都能像对方一样勇敢。|[图片链接](./backgrounds_no_countdown/1586795.jpg)|schedule|
+|2024-05-20|1151282|人们总会习惯性地高估自己的自控力。|[图片链接](./backgrounds_no_countdown/1151282.jpg)|schedule|
+|2024-05-20|1247526|大隐隐于市，要清静省心，自己就得空。|[图片链接](./backgrounds_no_countdown/1247526.jpg)|schedule|
+|2024-05-20|413960|柄转东南西北方，斗指紫薇亮。|[图片链接](./backgrounds_no_countdown/413960.jpg)|schedule|
