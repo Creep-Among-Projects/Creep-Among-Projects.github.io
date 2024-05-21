@@ -2513,3 +2513,6 @@ List of Backgrounds / 图片列表:
 |[图片链接](./backgrounds/1654255.jpg)|schedule|
 |2024-05-21|2303781|生前哪管身后事，浪得几日是几日。|[图片链接](./backgrounds/2303781.jpg)|schedule|
 |2024-05-21|632522|我们这个世界，从不会给一个伤心的落伍者颁发奖牌。|[图片链接](./backgrounds/632522.jpg)|schedule|
+|2024-05-22|663337|你是我最真模样，从来不曾遗忘。|[图片链接](./backgrounds/663337.jpg)|schedule|
+|2024-05-22|1337825|在最平常的事情中都可以显示出一个人人格的伟大来！|[图片链接](./backgrounds/1337825.jpg)|schedule|
+|2024-05-22|1054018|墙角数枝梅，凌寒独自开。|[图片链接](./backgrounds/1054018.jpg)|schedule|
