@@ -1899,3 +1899,6 @@ List of Backgrounds / 图片列表:
 |2024-05-22|663337|你是我最真模样，从来不曾遗忘。|[图片链接](./backgrounds_no_countdown/663337.jpg)|schedule|
 |2024-05-22|1337825|在最平常的事情中都可以显示出一个人人格的伟大来！|[图片链接](./backgrounds_no_countdown/1337825.jpg)|schedule|
 |2024-05-22|1054018|墙角数枝梅，凌寒独自开。|[图片链接](./backgrounds_no_countdown/1054018.jpg)|schedule|
+|2024-05-22|67566|人类的悲欢并不相通，我只是觉得他们吵闹。|[图片链接](./backgrounds_no_countdown/67566.jpg)|schedule|
+|2024-05-22|1049298|你之所以相信一个人说的话,是因为他说了你想听的话。|[图片链接](./backgrounds_no_countdown/1049298.jpg)|schedule|
+|2024-05-22|1353938|世人皆说爱与孤独，皆因晦涩成为罪恶。|[图片链接](./backgrounds_no_countdown/1353938.jpg)|schedule|
