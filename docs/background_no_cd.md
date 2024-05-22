@@ -1902,3 +1902,6 @@ List of Backgrounds / 图片列表:
 |2024-05-22|67566|人类的悲欢并不相通，我只是觉得他们吵闹。|[图片链接](./backgrounds_no_countdown/67566.jpg)|schedule|
 |2024-05-22|1049298|你之所以相信一个人说的话,是因为他说了你想听的话。|[图片链接](./backgrounds_no_countdown/1049298.jpg)|schedule|
 |2024-05-22|1353938|世人皆说爱与孤独，皆因晦涩成为罪恶。|[图片链接](./backgrounds_no_countdown/1353938.jpg)|schedule|
+|2024-05-23|1550913|你笑起来真像好天气。|[图片链接](./backgrounds_no_countdown/1550913.jpg)|schedule|
+|2024-05-23|61129|大漠沙如雪，燕山月似钩。|[图片链接](./backgrounds_no_countdown/61129.jpg)|schedule|
+|2024-05-23|1005417|对未来的真正慷慨，是把一切献给现在。|[图片链接](./backgrounds_no_countdown/1005417.jpg)|schedule|
