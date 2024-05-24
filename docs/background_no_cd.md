@@ -1914,3 +1914,6 @@ List of Backgrounds / 图片列表:
 |2024-05-24|931018|以人言善我，必以人言罪我。|[图片链接](./backgrounds_no_countdown/931018.jpg)|schedule|
 |2024-05-24|1267051|但行好事，莫问前程。|[图片链接](./backgrounds_no_countdown/1267051.jpg)|schedule|
 |2024-05-24|35545|缘，妙不可言|[图片链接](./backgrounds_no_countdown/35545.jpg)|schedule|
+|2024-05-25|343720|人生若只如初见，何事秋风悲画扇。|[图片链接](./backgrounds_no_countdown/343720.jpg)|schedule|
+|2024-05-25|825995|长生非我愿，但求达慕垂鞭。|[图片链接](./backgrounds_no_countdown/825995.jpg)|schedule|
+|2024-05-25|1482193|我知道我无法主宰一切，但此时此刻，我是活着的。|[图片链接](./backgrounds_no_countdown/1482193.jpg)|schedule|
