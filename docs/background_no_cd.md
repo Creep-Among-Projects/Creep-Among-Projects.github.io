@@ -1920,3 +1920,6 @@ List of Backgrounds / 图片列表:
 |2024-05-25|1038001|真正没有资格谈明天的人，是那个不懂得珍惜今天的人|[图片链接](./backgrounds_no_countdown/1038001.jpg)|schedule|
 |2024-05-25|386000|爱恋中的每个瞬间都有可能是一生。|[图片链接](./backgrounds_no_countdown/386000.jpg)|schedule|
 |2024-05-25|262325|青鸟不传云外信，丁香空结雨中愁。|[图片链接](./backgrounds_no_countdown/262325.jpg)|schedule|
+|2024-05-26|261403|山河远阔，人间烟火，无一是你，无一不是你。|[图片链接](./backgrounds_no_countdown/261403.jpg)|schedule|
+|2024-05-26|286763|花开不并百花丛，独立疏篱趣未穷。|[图片链接](./backgrounds_no_countdown/286763.jpg)|schedule|
+|2024-05-26|531035|流水落花春去也，天上人间。|[图片链接](./backgrounds_no_countdown/531035.jpg)|schedule|
