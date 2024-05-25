@@ -1917,3 +1917,6 @@ List of Backgrounds / 图片列表:
 |2024-05-25|343720|人生若只如初见，何事秋风悲画扇。|[图片链接](./backgrounds_no_countdown/343720.jpg)|schedule|
 |2024-05-25|825995|长生非我愿，但求达慕垂鞭。|[图片链接](./backgrounds_no_countdown/825995.jpg)|schedule|
 |2024-05-25|1482193|我知道我无法主宰一切，但此时此刻，我是活着的。|[图片链接](./backgrounds_no_countdown/1482193.jpg)|schedule|
+|2024-05-25|1038001|真正没有资格谈明天的人，是那个不懂得珍惜今天的人|[图片链接](./backgrounds_no_countdown/1038001.jpg)|schedule|
+|2024-05-25|386000|爱恋中的每个瞬间都有可能是一生。|[图片链接](./backgrounds_no_countdown/386000.jpg)|schedule|
+|2024-05-25|262325|青鸟不传云外信，丁香空结雨中愁。|[图片链接](./backgrounds_no_countdown/262325.jpg)|schedule|
