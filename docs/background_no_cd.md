@@ -1926,3 +1926,6 @@ List of Backgrounds / 图片列表:
 |2024-05-26|3601425|宇宙中只有一个地球，毁掉它容易，回头路难走。|[图片链接](./backgrounds_no_countdown/3601425.jpg)|schedule|
 |2024-05-26|1834609|一旦你驯服了什么，就要对她负责，永远的负责。|[图片链接](./backgrounds_no_countdown/1834609.jpg)|schedule|
 |2024-05-26|355328|黑，真他妈的黑啊。|[图片链接](./backgrounds_no_countdown/355328.jpg)|schedule|
+|2024-05-27|1550618|Does She Walk Alone?|[图片链接](./backgrounds_no_countdown/1550618.jpg)|schedule|
+|2024-05-27|1726310|有些日子眨眨眼一下子就过去了，然后永远怀念。|[图片链接](./backgrounds_no_countdown/1726310.jpg)|schedule|
+|2024-05-27|221471|夜阑卧听风吹雨，铁马冰河入梦来。|[图片链接](./backgrounds_no_countdown/221471.jpg)|schedule|
