@@ -2546,3 +2546,6 @@ List of Backgrounds / 图片列表:
 |2024-05-27|1550618|Does She Walk Alone?|[图片链接](./backgrounds/1550618.jpg)|schedule|
 |2024-05-27|1726310|有些日子眨眨眼一下子就过去了，然后永远怀念。|[图片链接](./backgrounds/1726310.jpg)|schedule|
 |2024-05-27|221471|夜阑卧听风吹雨，铁马冰河入梦来。|[图片链接](./backgrounds/221471.jpg)|schedule|
+|2024-05-27|413195|哪里都去不了，就想念起大海来。|[图片链接](./backgrounds/413195.jpg)|schedule|
+|2024-05-27|1705254|心有猛虎，细嗅蔷薇|[图片链接](./backgrounds/1705254.jpg)|schedule|
+|2024-05-27|1139541|胸中有丘壑，眉目作山河。胸中有丘壑，眼里存山河。|[图片链接](./backgrounds/1139541.jpg)|schedule|
