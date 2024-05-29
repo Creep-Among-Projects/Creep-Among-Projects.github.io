@@ -1944,3 +1944,6 @@ List of Backgrounds / 图片列表:
 |2024-05-29|136040|春天适合努力和拥抱。|[图片链接](./backgrounds_no_countdown/136040.jpg)|schedule|
 |2024-05-29|1028599|抬眼一望，银河仿佛哗的一声，向岛村的心头倾泻下来。|[图片链接](./backgrounds_no_countdown/1028599.jpg)|schedule|
 |2024-05-29|136050|成长是学着接受，一个人向前进的同时也是失去的过程。|[图片链接](./backgrounds_no_countdown/136050.jpg)|schedule|
+|2024-05-30|35847|山重水复疑无路，柳暗花明又一村。|[图片链接](./backgrounds_no_countdown/35847.jpg)|schedule|
+|2024-05-30|1450372|故人西辞黄鹤楼，烟花三月下扬州。|[图片链接](./backgrounds_no_countdown/1450372.jpg)|schedule|
+|2024-05-30|1329618|试问岭南应不好，却道：此心安处是吾乡。|[图片链接](./backgrounds_no_countdown/1329618.jpg)|schedule|
