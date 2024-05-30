@@ -1947,3 +1947,6 @@ List of Backgrounds / 图片列表:
 |2024-05-30|35847|山重水复疑无路，柳暗花明又一村。|[图片链接](./backgrounds_no_countdown/35847.jpg)|schedule|
 |2024-05-30|1450372|故人西辞黄鹤楼，烟花三月下扬州。|[图片链接](./backgrounds_no_countdown/1450372.jpg)|schedule|
 |2024-05-30|1329618|试问岭南应不好，却道：此心安处是吾乡。|[图片链接](./backgrounds_no_countdown/1329618.jpg)|schedule|
+|2024-05-30|1172742|美在盛世烟火，人间喧嚣，他们终成遗憾。|[图片链接](./backgrounds_no_countdown/1172742.jpg)|schedule|
+|2024-05-30|1343465|一别之后，两地相思，只道是三四月，又谁知五六年。|[图片链接](./backgrounds_no_countdown/1343465.jpg)|schedule|
+|2024-05-30|262713|月落乌啼霜满天，江枫渔火对愁眠。|[图片链接](./backgrounds_no_countdown/262713.jpg)|schedule|
