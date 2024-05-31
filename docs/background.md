@@ -2573,3 +2573,6 @@ List of Backgrounds / 图片列表:
 |2024-05-31|59990|洛阳亲友如相问，一片冰心在玉壶。|[图片链接](./backgrounds/59990.jpg)|schedule|
 |2024-05-31|296282|扣首问路，码梦为生。|[图片链接](./backgrounds/296282.jpg)|schedule|
 |2024-05-31|1974856|灵气也是气，怨气也是气，怨气为何不能为人所用啊？|[图片链接](./backgrounds/1974856.jpg)|schedule|
+|2024-06-01|326231|“I'a I'a.Cthulhu Fhatgn!”|[图片链接](./backgrounds/326231.jpg)|schedule|
+|2024-06-01|1137532|曾经沧海难为水，除却巫山不是云。|[图片链接](./backgrounds/1137532.jpg)|schedule|
+|2024-06-01|1029628|采得百花成蜜后，为谁辛苦为谁甜。|[图片链接](./backgrounds/1029628.jpg)|schedule|
