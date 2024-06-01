@@ -2576,3 +2576,6 @@ List of Backgrounds / 图片列表:
 |2024-06-01|326231|“I'a I'a.Cthulhu Fhatgn!”|[图片链接](./backgrounds/326231.jpg)|schedule|
 |2024-06-01|1137532|曾经沧海难为水，除却巫山不是云。|[图片链接](./backgrounds/1137532.jpg)|schedule|
 |2024-06-01|1029628|采得百花成蜜后，为谁辛苦为谁甜。|[图片链接](./backgrounds/1029628.jpg)|schedule|
+|2024-06-01|2105912|感时花溅泪，恨别鸟惊心。|[图片链接](./backgrounds/2105912.jpg)|schedule|
+|2024-06-01|386009|凡是过去，皆为序章；凡是未来，皆有可期。|[图片链接](./backgrounds/386009.jpg)|schedule|
+|2024-06-01|307006|花间一壶酒，独酌无相亲。|[图片链接](./backgrounds/307006.jpg)|schedule|
