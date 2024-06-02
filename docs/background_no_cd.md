@@ -1968,3 +1968,6 @@ List of Backgrounds / 图片列表:
 |2024-06-02|1450360|劝君莫惜花前醉，今年花谢，明年花谢，白了人头。|[图片链接](./backgrounds_no_countdown/1450360.jpg)|schedule|
 |2024-06-02|237593|单程孤舟，出云入霞，如歌如吟。|[图片链接](./backgrounds_no_countdown/237593.jpg)|schedule|
 |2024-06-02|1122857|落花人独立，微雨燕双飞。|[图片链接](./backgrounds_no_countdown/1122857.jpg)|schedule|
+|2024-06-03|1260820|征服的荣光背后，是无数的悲泣与哀号。|[图片链接](./backgrounds_no_countdown/1260820.jpg)|schedule|
+|2024-06-03|919278|唯有再见方为人生。|[图片链接](./backgrounds_no_countdown/919278.jpg)|schedule|
+|2024-06-03|409696|悲伤就如湖面上波纹，在心中扩散开来。|[图片链接](./backgrounds_no_countdown/409696.jpg)|schedule|
