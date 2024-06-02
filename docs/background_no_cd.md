@@ -1965,3 +1965,6 @@ List of Backgrounds / 图片列表:
 |2024-06-02|322483|在隆冬，我终于知道，我身上有一个不可战胜的夏天。|[图片链接](./backgrounds_no_countdown/322483.jpg)|schedule|
 |2024-06-02|1659438|我虚空一生不弱于人！|[图片链接](./backgrounds_no_countdown/1659438.jpg)|schedule|
 |2024-06-02|307008|水是眼波横，山是眉峰聚。|[图片链接](./backgrounds_no_countdown/307008.jpg)|schedule|
+|2024-06-02|1450360|劝君莫惜花前醉，今年花谢，明年花谢，白了人头。|[图片链接](./backgrounds_no_countdown/1450360.jpg)|schedule|
+|2024-06-02|237593|单程孤舟，出云入霞，如歌如吟。|[图片链接](./backgrounds_no_countdown/237593.jpg)|schedule|
+|2024-06-02|1122857|落花人独立，微雨燕双飞。|[图片链接](./backgrounds_no_countdown/1122857.jpg)|schedule|
