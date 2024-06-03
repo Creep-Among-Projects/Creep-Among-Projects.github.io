@@ -1974,3 +1974,6 @@ List of Backgrounds / 图片列表:
 |2024-06-03|1122462|我只是五行缺驱动程序，别说我怠惰。|[图片链接](./backgrounds_no_countdown/1122462.jpg)|schedule|
 |2024-06-03|1209610|放弃也是需要勇气的。|[图片链接](./backgrounds_no_countdown/1209610.jpg)|schedule|
 |2024-06-03|3889660|没有了对高处的恐惧，就体会不到高处之美。|[图片链接](./backgrounds_no_countdown/3889660.jpg)|schedule|
+|2024-06-04|1104035|再等一等，等我，来劈开冻住我们的冷。|[图片链接](./backgrounds_no_countdown/1104035.jpg)|schedule|
+|2024-06-04|358457|水赤着脚走在潮湿的街上；树叶，像病人般，抱怨那树。|[图片链接](./backgrounds_no_countdown/358457.jpg)|schedule|
+|2024-06-04|2852044|飞鸟不留痕，但我已飞过。|[图片链接](./backgrounds_no_countdown/2852044.jpg)|schedule|
