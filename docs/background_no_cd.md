@@ -1980,3 +1980,6 @@ List of Backgrounds / 图片列表:
 |2024-06-04|772571|放弃不难，但坚持一定很酷。|[图片链接](./backgrounds_no_countdown/772571.jpg)|schedule|
 |2024-06-04|2512280|它是表达对规律的渴望，还是对混沌的屈服？|[图片链接](./backgrounds_no_countdown/2512280.jpg)|schedule|
 |2024-06-04|61136|月影积陈春秋，垣壁剥落冬夏。|[图片链接](./backgrounds_no_countdown/61136.jpg)|schedule|
+|2024-06-05|3757141|江南几度梅花发，人在天涯鬓已斑。|[图片链接](./backgrounds_no_countdown/3757141.jpg)|schedule|
+|2024-06-05|1595483|一定要爱着点什么，恰似草木对光阴的钟情。|[图片链接](./backgrounds_no_countdown/1595483.jpg)|schedule|
+|2024-06-05|176395|月上柳梢头，人约黄昏后。|[图片链接](./backgrounds_no_countdown/176395.jpg)|schedule|
