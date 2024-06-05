@@ -1983,3 +1983,6 @@ List of Backgrounds / 图片列表:
 |2024-06-05|3757141|江南几度梅花发，人在天涯鬓已斑。|[图片链接](./backgrounds_no_countdown/3757141.jpg)|schedule|
 |2024-06-05|1595483|一定要爱着点什么，恰似草木对光阴的钟情。|[图片链接](./backgrounds_no_countdown/1595483.jpg)|schedule|
 |2024-06-05|176395|月上柳梢头，人约黄昏后。|[图片链接](./backgrounds_no_countdown/176395.jpg)|schedule|
+|2024-06-05|1154985|醉后不知天在水，满船清梦压星河。|[图片链接](./backgrounds_no_countdown/1154985.jpg)|schedule|
+|2024-06-05|106144|这些破烂就留给你们了！|[图片链接](./backgrounds_no_countdown/106144.jpg)|schedule|
+|2024-06-05|136740|用柔软的面点，对抗这个坚硬的世界吧。|[图片链接](./backgrounds_no_countdown/136740.jpg)|schedule|
