@@ -1986,3 +1986,6 @@ List of Backgrounds / 图片列表:
 |2024-06-05|1154985|醉后不知天在水，满船清梦压星河。|[图片链接](./backgrounds_no_countdown/1154985.jpg)|schedule|
 |2024-06-05|106144|这些破烂就留给你们了！|[图片链接](./backgrounds_no_countdown/106144.jpg)|schedule|
 |2024-06-05|136740|用柔软的面点，对抗这个坚硬的世界吧。|[图片链接](./backgrounds_no_countdown/136740.jpg)|schedule|
+|2024-06-06|1024989|生为人杰，死亦鬼雄，我辈修士，何惜一战！|[图片链接](./backgrounds_no_countdown/1024989.jpg)|schedule|
+|2024-06-06|4784570|开成花灾的玫瑰不是灿烂，而是荒凉。|[图片链接](./backgrounds_no_countdown/4784570.jpg)|schedule|
+|2024-06-06|207891|即使无法掌握未来，也请不要忘了明天。|[图片链接](./backgrounds_no_countdown/207891.jpg)|schedule|
