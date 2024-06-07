@@ -1995,3 +1995,6 @@ List of Backgrounds / 图片列表:
 |2024-06-07|1048035|和云流出空山，甚年年净洗，花香不了？|[图片链接](./backgrounds_no_countdown/1048035.jpg)|schedule|
 |2024-06-07|221387|七夕今宵看碧霄，牵牛织女渡河桥。|[图片链接](./backgrounds_no_countdown/221387.jpg)|schedule|
 |2024-06-07|914929|相思只在：丁香枝上，豆蔻梢头。|[图片链接](./backgrounds_no_countdown/914929.jpg)|schedule|
+|2024-06-07|2333912|枕上诗书闲处好，门前风景雨来佳。|[图片链接](./backgrounds_no_countdown/2333912.jpg)|schedule|
+|2024-06-07|67818|忍无可忍意味着自暴自弃。|[图片链接](./backgrounds_no_countdown/67818.jpg)|schedule|
+|2024-06-07|102742|消灭人类暴政，世界属于三体！|[图片链接](./backgrounds_no_countdown/102742.jpg)|schedule|
