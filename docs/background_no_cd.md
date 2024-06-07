@@ -1998,3 +1998,6 @@ List of Backgrounds / 图片列表:
 |2024-06-07|2333912|枕上诗书闲处好，门前风景雨来佳。|[图片链接](./backgrounds_no_countdown/2333912.jpg)|schedule|
 |2024-06-07|67818|忍无可忍意味着自暴自弃。|[图片链接](./backgrounds_no_countdown/67818.jpg)|schedule|
 |2024-06-07|102742|消灭人类暴政，世界属于三体！|[图片链接](./backgrounds_no_countdown/102742.jpg)|schedule|
+|2024-06-08|1078983|生命在于折腾，长寿源于静止。|[图片链接](./backgrounds_no_countdown/1078983.jpg)|schedule|
+|2024-06-08|2645245|高贵者最愚蠢，卑贱者最聪明！|[图片链接](./backgrounds_no_countdown/2645245.jpg)|schedule|
+|2024-06-08|1172518|斩尽杀绝，这是对一个文明最高的重视。|[图片链接](./backgrounds_no_countdown/1172518.jpg)|schedule|
