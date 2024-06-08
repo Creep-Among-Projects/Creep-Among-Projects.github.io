@@ -2004,3 +2004,6 @@ List of Backgrounds / 图片列表:
 |2024-06-08|1423601|宁为百夫长，胜作一书生。|[图片链接](./backgrounds_no_countdown/1423601.jpg)|schedule|
 |2024-06-08|459399|前度刘郎归去后，溪上碧桃多少。|[图片链接](./backgrounds_no_countdown/459399.jpg)|schedule|
 |2024-06-08|1187766|梦醒南柯头已雪，晓风吹落西沉月。|[图片链接](./backgrounds_no_countdown/1187766.jpg)|schedule|
+|2024-06-09|299031|难受就是难受…不要让开心变成一种负担…|[图片链接](./backgrounds_no_countdown/299031.jpg)|schedule|
+|2024-06-09|1174732|那涂涂画画的字句，幼圆的字体，只有一句，我喜欢你。|[图片链接](./backgrounds_no_countdown/1174732.jpg)|schedule|
+|2024-06-09|129574|生我何用？不能欢笑。灭我何用？不减狂骄。|[图片链接](./backgrounds_no_countdown/129574.jpg)|schedule|
