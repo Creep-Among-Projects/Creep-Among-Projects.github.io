@@ -2007,3 +2007,6 @@ List of Backgrounds / 图片列表:
 |2024-06-09|299031|难受就是难受…不要让开心变成一种负担…|[图片链接](./backgrounds_no_countdown/299031.jpg)|schedule|
 |2024-06-09|1174732|那涂涂画画的字句，幼圆的字体，只有一句，我喜欢你。|[图片链接](./backgrounds_no_countdown/1174732.jpg)|schedule|
 |2024-06-09|129574|生我何用？不能欢笑。灭我何用？不减狂骄。|[图片链接](./backgrounds_no_countdown/129574.jpg)|schedule|
+|2024-06-09|926641|不懂装懂，永世饭桶|[图片链接](./backgrounds_no_countdown/926641.jpg)|schedule|
+|2024-06-09|533982|遇不可说之事，必须保持沉默。|[图片链接](./backgrounds_no_countdown/533982.jpg)|schedule|
+|2024-06-09|1029021|被风吹散的思念，卷起不羁的时间。|[图片链接](./backgrounds_no_countdown/1029021.jpg)|schedule|
