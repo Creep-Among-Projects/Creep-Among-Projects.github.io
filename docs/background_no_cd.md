@@ -2010,3 +2010,6 @@ List of Backgrounds / 图片列表:
 |2024-06-09|926641|不懂装懂，永世饭桶|[图片链接](./backgrounds_no_countdown/926641.jpg)|schedule|
 |2024-06-09|533982|遇不可说之事，必须保持沉默。|[图片链接](./backgrounds_no_countdown/533982.jpg)|schedule|
 |2024-06-09|1029021|被风吹散的思念，卷起不羁的时间。|[图片链接](./backgrounds_no_countdown/1029021.jpg)|schedule|
+|2024-06-10|572780|只要我足够穷，就没有什么能够诱惑我。|[图片链接](./backgrounds_no_countdown/572780.jpg)|schedule|
+|2024-06-10|1767434|未觉池塘春草梦，阶前梧叶已秋声。|[图片链接](./backgrounds_no_countdown/1767434.jpg)|schedule|
+|2024-06-10|295771|吾念所归，无惧无退！|[图片链接](./backgrounds_no_countdown/295771.jpg)|schedule|
