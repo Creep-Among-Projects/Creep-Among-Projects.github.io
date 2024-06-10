@@ -2016,3 +2016,6 @@ List of Backgrounds / 图片列表:
 |2024-06-10|1028598|你很朴实＝你可以无偿为我工作而且不抱怨。|[图片链接](./backgrounds_no_countdown/1028598.jpg)|schedule|
 |2024-06-10|461189|身既死兮神以灵，魂魄毅兮为鬼雄。|[图片链接](./backgrounds_no_countdown/461189.jpg)|schedule|
 |2024-06-10|935835|用代码表达言语的魅力，用代码书写山河的壮丽。|[图片链接](./backgrounds_no_countdown/935835.jpg)|schedule|
+|2024-06-11|1154638|春心莫共花争发，一寸相思一寸灰！|[图片链接](./backgrounds_no_countdown/1154638.jpg)|schedule|
+|2024-06-11|414320|一个人自以为刻骨铭心的回忆，别人也许早已经忘记了。|[图片链接](./backgrounds_no_countdown/414320.jpg)|schedule|
+|2024-06-11|1549196|多情自古伤离别，更那堪冷落清秋节！|[图片链接](./backgrounds_no_countdown/1549196.jpg)|schedule|
