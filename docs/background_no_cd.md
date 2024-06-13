@@ -2034,3 +2034,6 @@ List of Backgrounds / 图片列表:
 |2024-06-13|165213|可不可以，陪我长大，而不是教我长大。|[图片链接](./backgrounds_no_countdown/165213.jpg)|schedule|
 |2024-06-13|1143005|一生大笑能几回，斗酒相逢须醉倒。|[图片链接](./backgrounds_no_countdown/1143005.jpg)|schedule|
 |2024-06-13|799764|大人是不会作梦的。大人呀，是会实现梦想的。|[图片链接](./backgrounds_no_countdown/799764.jpg)|schedule|
+|2024-06-14|1679772|只恐双溪舴艋舟，载不动许多愁。|[图片链接](./backgrounds_no_countdown/1679772.jpg)|schedule|
+|2024-06-14|3330118|他强任他强，清风拂山岗。他横任他横，明月照大江。|[图片链接](./backgrounds_no_countdown/3330118.jpg)|schedule|
+|2024-06-14|164041|义城有三盲，真盲，假盲，心盲。|[图片链接](./backgrounds_no_countdown/164041.jpg)|schedule|
