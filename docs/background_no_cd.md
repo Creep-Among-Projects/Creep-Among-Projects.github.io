@@ -2040,3 +2040,6 @@ List of Backgrounds / 图片列表:
 |2024-06-14|1698482|酒逢知己千杯少，话不投机半句多。|[图片链接](./backgrounds_no_countdown/1698482.jpg)|schedule|
 |2024-06-14|459882|你不一定逆风翻盘，但请一定向阳而生。|[图片链接](./backgrounds_no_countdown/459882.jpg)|schedule|
 |2024-06-14|249210|生活中寻找文艺的过程也是一种文艺。|[图片链接](./backgrounds_no_countdown/249210.jpg)|schedule|
+|2024-06-15|261106|在永恒与虚无之间，为你沉默。|[图片链接](./backgrounds_no_countdown/261106.jpg)|schedule|
+|2024-06-15|1535288|只有除了爱情什么都不缺的人，才有底气去等待爱情。|[图片链接](./backgrounds_no_countdown/1535288.jpg)|schedule|
+|2024-06-15|325807|生老病死，八苦之四，众生必经，江澄亦是。|[图片链接](./backgrounds_no_countdown/325807.jpg)|schedule|
