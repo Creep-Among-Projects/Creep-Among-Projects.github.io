@@ -2037,3 +2037,6 @@ List of Backgrounds / 图片列表:
 |2024-06-14|1679772|只恐双溪舴艋舟，载不动许多愁。|[图片链接](./backgrounds_no_countdown/1679772.jpg)|schedule|
 |2024-06-14|3330118|他强任他强，清风拂山岗。他横任他横，明月照大江。|[图片链接](./backgrounds_no_countdown/3330118.jpg)|schedule|
 |2024-06-14|164041|义城有三盲，真盲，假盲，心盲。|[图片链接](./backgrounds_no_countdown/164041.jpg)|schedule|
+|2024-06-14|1698482|酒逢知己千杯少，话不投机半句多。|[图片链接](./backgrounds_no_countdown/1698482.jpg)|schedule|
+|2024-06-14|459882|你不一定逆风翻盘，但请一定向阳而生。|[图片链接](./backgrounds_no_countdown/459882.jpg)|schedule|
+|2024-06-14|249210|生活中寻找文艺的过程也是一种文艺。|[图片链接](./backgrounds_no_countdown/249210.jpg)|schedule|
