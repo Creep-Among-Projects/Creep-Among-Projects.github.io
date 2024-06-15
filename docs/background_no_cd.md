@@ -2043,3 +2043,6 @@ List of Backgrounds / 图片列表:
 |2024-06-15|261106|在永恒与虚无之间，为你沉默。|[图片链接](./backgrounds_no_countdown/261106.jpg)|schedule|
 |2024-06-15|1535288|只有除了爱情什么都不缺的人，才有底气去等待爱情。|[图片链接](./backgrounds_no_countdown/1535288.jpg)|schedule|
 |2024-06-15|325807|生老病死，八苦之四，众生必经，江澄亦是。|[图片链接](./backgrounds_no_countdown/325807.jpg)|schedule|
+|2024-06-15|424134|人生得意须尽欢，莫让金樽空对月。|[图片链接](./backgrounds_no_countdown/424134.jpg)|schedule|
+|2024-06-15|289334|邪乎到家必有鬼。|[图片链接](./backgrounds_no_countdown/289334.jpg)|schedule|
+|2024-06-15|276334|浮生若梦，为欢几何？|[图片链接](./backgrounds_no_countdown/276334.jpg)|schedule|
