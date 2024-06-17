@@ -2058,3 +2058,6 @@ List of Backgrounds / 图片列表:
 |2024-06-17|870170|满纸荒唐言，一把辛酸泪，都云作者痴，谁解其中味。|[图片链接](./backgrounds_no_countdown/870170.jpg)|schedule|
 |2024-06-17|1118448|把别人的经验变成自己的，他的本事就大了。|[图片链接](./backgrounds_no_countdown/1118448.jpg)|schedule|
 |2024-06-17|358358|许多念念不忘，只是一瞬；许多一瞬，却是念念不忘。|[图片链接](./backgrounds_no_countdown/358358.jpg)|schedule|
+|2024-06-18|314780|山一程，水一程，身向榆关那畔行，夜深千帐灯。|[图片链接](./backgrounds_no_countdown/314780.jpg)|schedule|
+|2024-06-18|1827354|红颜未老恩先断，斜倚薰笼坐到明。|[图片链接](./backgrounds_no_countdown/1827354.jpg)|schedule|
+|2024-06-18|1809344|若要断酒法，醒眼看醉人。|[图片链接](./backgrounds_no_countdown/1809344.jpg)|schedule|
