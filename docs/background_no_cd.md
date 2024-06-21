@@ -2082,3 +2082,6 @@ List of Backgrounds / 图片列表:
 |2024-06-21|276517|他会找到别的月光，你也会拥有你的月亮。|[图片链接](./backgrounds_no_countdown/276517.jpg)|schedule|
 |2024-06-21|775980|朋友的可贵，就在于自由。|[图片链接](./backgrounds_no_countdown/775980.jpg)|schedule|
 |2024-06-21|58592|我为自己而死，并且，在最后的最后，为自己而活。|[图片链接](./backgrounds_no_countdown/58592.jpg)|schedule|
+|2024-06-22|258123|天不老，情难绝。心似双丝网，中有千千结。|[图片链接](./backgrounds_no_countdown/258123.jpg)|schedule|
+|2024-06-22|441222|别师犹染凡心，剑端新雪霁，独恨无留迹。|[图片链接](./backgrounds_no_countdown/441222.jpg)|schedule|
+|2024-06-22|3802414|花褪残红青杏小。燕子飞时，绿水人家绕。|[图片链接](./backgrounds_no_countdown/3802414.jpg)|schedule|
