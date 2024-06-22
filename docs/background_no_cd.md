@@ -2088,3 +2088,6 @@ List of Backgrounds / 图片列表:
 |2024-06-22|910012|给岁月以文明，而不是给文明以岁月。|[图片链接](./backgrounds_no_countdown/910012.jpg)|schedule|
 |2024-06-22|984291|离开了对人的关怀，教育分文不值。|[图片链接](./backgrounds_no_countdown/984291.jpg)|schedule|
 |2024-06-22|3323682|如果有来生，希望每次相遇，都能化为永恒。|[图片链接](./backgrounds_no_countdown/3323682.jpg)|schedule|
+|2024-06-23|1179225|幸福的家庭都是相似的，不幸的家庭各有各的不幸。|[图片链接](./backgrounds_no_countdown/1179225.jpg)|schedule|
+|2024-06-23|1113552|前尘种种，似烟似幻，惟有此人教我深感不负大好春光。|[图片链接](./backgrounds_no_countdown/1113552.jpg)|schedule|
+|2024-06-23|1371360|惟将终夜常开眼，报答平生未展眉。|[图片链接](./backgrounds_no_countdown/1371360.jpg)|schedule|
