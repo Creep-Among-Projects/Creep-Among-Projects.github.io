@@ -2097,3 +2097,6 @@ List of Backgrounds / 图片列表:
 |2024-06-24|356831|龙应该藏在云，你应该藏在心里。|[图片链接](./backgrounds_no_countdown/356831.jpg)|schedule|
 |2024-06-24|1024960|老夫聊发少年狂，左牵黄，右擎苍。|[图片链接](./backgrounds_no_countdown/1024960.jpg)|schedule|
 |2024-06-24|2611810|我不要你忘记他 , 我只要你记得我|[图片链接](./backgrounds_no_countdown/2611810.jpg)|schedule|
+|2024-06-24|234054|我的每一个动作都有你的印记|[图片链接](./backgrounds_no_countdown/234054.jpg)|schedule|
+|2024-06-24|1233319|或许相遇不再避开才是真的释怀了。|[图片链接](./backgrounds_no_countdown/1233319.jpg)|schedule|
+|2024-06-24|1591375|沉舟侧畔千帆过，病树前头万木春。|[图片链接](./backgrounds_no_countdown/1591375.jpg)|schedule|
