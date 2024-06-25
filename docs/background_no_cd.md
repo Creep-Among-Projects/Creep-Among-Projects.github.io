@@ -2103,3 +2103,6 @@ List of Backgrounds / 图片列表:
 |2024-06-25|998850|江流天地外，山色有无中。|[图片链接](./backgrounds_no_countdown/998850.jpg)|schedule|
 |2024-06-25|1261909|深情隐现眉宇间，他人已知我相思。|[图片链接](./backgrounds_no_countdown/1261909.jpg)|schedule|
 |2024-06-25|2049422|怕相思，已相思，轮到相思没处辞，眉间露一丝。|[图片链接](./backgrounds_no_countdown/2049422.jpg)|schedule|
+|2024-06-25|2154502|酒可以不飲，醉豈能不醉？|[图片链接](./backgrounds_no_countdown/2154502.jpg)|schedule|
+|2024-06-25|1374509|质胜文则野，文胜质则史，文质彬彬，然后君子。|[图片链接](./backgrounds_no_countdown/1374509.jpg)|schedule|
+|2024-06-25|1046348|这满堂的富贵，独你一个三心二意，东张西望。|[图片链接](./backgrounds_no_countdown/1046348.jpg)|schedule|
