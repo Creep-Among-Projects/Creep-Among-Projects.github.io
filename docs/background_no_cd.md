@@ -2112,3 +2112,6 @@ List of Backgrounds / 图片列表:
 |2024-06-26|3355788|我想要如清泉般的爱。|[图片链接](./backgrounds_no_countdown/3355788.jpg)|schedule|
 |2024-06-26|1591370|三百個日夜之外的大海變成了火。|[图片链接](./backgrounds_no_countdown/1591370.jpg)|schedule|
 |2024-06-26|2205647|如果我们只看到自己的普通，可能就会错过特别的人生。|[图片链接](./backgrounds_no_countdown/2205647.jpg)|schedule|
+|2024-06-27|127513|自是人生长恨水长东。|[图片链接](./backgrounds_no_countdown/127513.jpg)|schedule|
+|2024-06-27|1122413|不喜欢你的人多少秘籍都没用。|[图片链接](./backgrounds_no_countdown/1122413.jpg)|schedule|
+|2024-06-27|1368043|报君黄金台上意，提携玉龙为君死。|[图片链接](./backgrounds_no_countdown/1368043.jpg)|schedule|
