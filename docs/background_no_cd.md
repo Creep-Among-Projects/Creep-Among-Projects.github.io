@@ -2124,3 +2124,6 @@ List of Backgrounds / 图片列表:
 |2024-06-28|1084510|醉卧沙场君莫笑，古来征战几人回？|[图片链接](./backgrounds_no_countdown/1084510.jpg)|schedule|
 |2024-06-28|2567550|天长地久有时尽，此恨绵绵无绝期。|[图片链接](./backgrounds_no_countdown/2567550.jpg)|schedule|
 |2024-06-28|135940|水晶帘动微风起，满架蔷薇一院香。|[图片链接](./backgrounds_no_countdown/135940.jpg)|schedule|
+|2024-06-29|240526|月光还是少年的月光，九州一色还是李白的霜。|[图片链接](./backgrounds_no_countdown/240526.jpg)|schedule|
+|2024-06-29|2499777|闺中风暖，陌上草薰。|[图片链接](./backgrounds_no_countdown/2499777.jpg)|schedule|
+|2024-06-29|130879|长月黄昏后，伫立露沾身；莫问我为谁，我自待伊人。|[图片链接](./backgrounds_no_countdown/130879.jpg)|schedule|
