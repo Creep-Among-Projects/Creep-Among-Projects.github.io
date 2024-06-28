@@ -2121,3 +2121,6 @@ List of Backgrounds / 图片列表:
 |2024-06-28|169193|所爱隔山海，山海皆可平。|[图片链接](./backgrounds_no_countdown/169193.jpg)|schedule|
 |2024-06-28|2792078|能不能停下来，看看那个满眼泪花奔向你的我。|[图片链接](./backgrounds_no_countdown/2792078.jpg)|schedule|
 |2024-06-28|462024|我当然不会试图摘月，我要月亮奔我而来。|[图片链接](./backgrounds_no_countdown/462024.jpg)|schedule|
+|2024-06-28|1084510|醉卧沙场君莫笑，古来征战几人回？|[图片链接](./backgrounds_no_countdown/1084510.jpg)|schedule|
+|2024-06-28|2567550|天长地久有时尽，此恨绵绵无绝期。|[图片链接](./backgrounds_no_countdown/2567550.jpg)|schedule|
+|2024-06-28|135940|水晶帘动微风起，满架蔷薇一院香。|[图片链接](./backgrounds_no_countdown/135940.jpg)|schedule|
