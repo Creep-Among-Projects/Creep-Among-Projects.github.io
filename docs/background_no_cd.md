@@ -2133,3 +2133,6 @@ List of Backgrounds / 图片列表:
 |2024-06-30|369433|使我有洛阳二顷田，安能佩六国相印。|[图片链接](./backgrounds_no_countdown/369433.jpg)|schedule|
 |2024-06-30|1583582|随着时间流逝，很多事情最后可能都会迎刃而解。|[图片链接](./backgrounds_no_countdown/1583582.jpg)|schedule|
 |2024-06-30|2088282|风筝的线你随时可以放开，只是别盼望我会回来|[图片链接](./backgrounds_no_countdown/2088282.jpg)|schedule|
+|2024-06-30|2090645|日暮苍山远，天寒白屋贫。|[图片链接](./backgrounds_no_countdown/2090645.jpg)|schedule|
+|2024-06-30|981619|绿蚁新醅酒，红泥小火炉。|[图片链接](./backgrounds_no_countdown/981619.jpg)|schedule|
+|2024-06-30|978695|把温柔和心软留给值得的人。|[图片链接](./backgrounds_no_countdown/978695.jpg)|schedule|
