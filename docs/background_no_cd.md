@@ -2136,3 +2136,6 @@ List of Backgrounds / 图片列表:
 |2024-06-30|2090645|日暮苍山远，天寒白屋贫。|[图片链接](./backgrounds_no_countdown/2090645.jpg)|schedule|
 |2024-06-30|981619|绿蚁新醅酒，红泥小火炉。|[图片链接](./backgrounds_no_countdown/981619.jpg)|schedule|
 |2024-06-30|978695|把温柔和心软留给值得的人。|[图片链接](./backgrounds_no_countdown/978695.jpg)|schedule|
+|2024-07-01|175717|商女不知亡国恨，隔江犹唱后庭花。|[图片链接](./backgrounds_no_countdown/175717.jpg)|schedule|
+|2024-07-01|2105937|不茶不饭，不言不语，一味供他憔悴。|[图片链接](./backgrounds_no_countdown/2105937.jpg)|schedule|
+|2024-07-01|1486902|即使被关在果壳之中，我仍自以为是无限宇宙之王。|[图片链接](./backgrounds_no_countdown/1486902.jpg)|schedule|
