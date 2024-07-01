@@ -2139,3 +2139,6 @@ List of Backgrounds / 图片列表:
 |2024-07-01|175717|商女不知亡国恨，隔江犹唱后庭花。|[图片链接](./backgrounds_no_countdown/175717.jpg)|schedule|
 |2024-07-01|2105937|不茶不饭，不言不语，一味供他憔悴。|[图片链接](./backgrounds_no_countdown/2105937.jpg)|schedule|
 |2024-07-01|1486902|即使被关在果壳之中，我仍自以为是无限宇宙之王。|[图片链接](./backgrounds_no_countdown/1486902.jpg)|schedule|
+|2024-07-01|2379653|我们执着于寻找对方缺少的品质，真是太傻了。|[图片链接](./backgrounds_no_countdown/2379653.jpg)|schedule|
+|2024-07-01|4321802|清风策萍影 远夜如移 纵入冥泥 明镜仍为寄|[图片链接](./backgrounds_no_countdown/4321802.jpg)|schedule|
+|2024-07-01|261292|不是每一次出走，都能再回去的。|[图片链接](./backgrounds_no_countdown/261292.jpg)|schedule|
