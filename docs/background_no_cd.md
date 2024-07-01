@@ -2142,3 +2142,6 @@ List of Backgrounds / 图片列表:
 |2024-07-01|2379653|我们执着于寻找对方缺少的品质，真是太傻了。|[图片链接](./backgrounds_no_countdown/2379653.jpg)|schedule|
 |2024-07-01|4321802|清风策萍影 远夜如移 纵入冥泥 明镜仍为寄|[图片链接](./backgrounds_no_countdown/4321802.jpg)|schedule|
 |2024-07-01|261292|不是每一次出走，都能再回去的。|[图片链接](./backgrounds_no_countdown/261292.jpg)|schedule|
+|2024-07-02|2318555|宇宙很大，生活更大也许以后有缘再相见|[图片链接](./backgrounds_no_countdown/2318555.jpg)|schedule|
+|2024-07-02|212324|只要假以时日，没有什么是不可战胜的。|[图片链接](./backgrounds_no_countdown/212324.jpg)|schedule|
+|2024-07-02|1727829|那些过去，从未过去。|[图片链接](./backgrounds_no_countdown/1727829.jpg)|schedule|
