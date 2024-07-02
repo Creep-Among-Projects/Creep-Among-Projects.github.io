@@ -2765,3 +2765,6 @@ List of Backgrounds / 图片列表:
 |2024-07-02|716966|开心就好|[图片链接](./backgrounds/716966.jpg)|schedule|
 |2024-07-02|1020340|苟富贵，毋相忘。|[图片链接](./backgrounds/1020340.jpg)|schedule|
 |2024-07-02|733828|系我一生心，负你千行泪。|[图片链接](./backgrounds/733828.jpg)|schedule|
+|2024-07-03|1024975|道德是用来律己的，而不是用来责人的。|[图片链接](./backgrounds/1024975.jpg)|schedule|
+|2024-07-03|9568|李白如今已仙去，月在青天几圆缺？|[图片链接](./backgrounds/9568.jpg)|schedule|
+|2024-07-03|2446396|空山新雨后，兵长一米六。|[图片链接](./backgrounds/2446396.jpg)|schedule|
