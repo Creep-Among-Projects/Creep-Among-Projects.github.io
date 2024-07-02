@@ -2762,3 +2762,6 @@ List of Backgrounds / 图片列表:
 |2024-07-02|2318555|宇宙很大，生活更大也许以后有缘再相见|[图片链接](./backgrounds/2318555.jpg)|schedule|
 |2024-07-02|212324|只要假以时日，没有什么是不可战胜的。|[图片链接](./backgrounds/212324.jpg)|schedule|
 |2024-07-02|1727829|那些过去，从未过去。|[图片链接](./backgrounds/1727829.jpg)|schedule|
+|2024-07-02|716966|开心就好|[图片链接](./backgrounds/716966.jpg)|schedule|
+|2024-07-02|1020340|苟富贵，毋相忘。|[图片链接](./backgrounds/1020340.jpg)|schedule|
+|2024-07-02|733828|系我一生心，负你千行泪。|[图片链接](./backgrounds/733828.jpg)|schedule|
