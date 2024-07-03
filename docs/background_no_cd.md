@@ -2154,3 +2154,6 @@ List of Backgrounds / 图片列表:
 |2024-07-03|2218344|离人灯长明，他死在一场风雪中。|[图片链接](./backgrounds_no_countdown/2218344.jpg)|schedule|
 |2024-07-03|490411|独自莫凭栏，无限江山，别时容易见时难。|[图片链接](./backgrounds_no_countdown/490411.jpg)|schedule|
 |2024-07-03|1019771|柳庭风静人眠昼，昼眠人静风庭柳。|[图片链接](./backgrounds_no_countdown/1019771.jpg)|schedule|
+|2024-07-04|1914770|记忆这东西类似小说，或者说，小说这东西类似记忆。|[图片链接](./backgrounds_no_countdown/1914770.jpg)|schedule|
+|2024-07-04|312839|最美不过你回眸，眸中带笑，笑似烟浓雾霭。|[图片链接](./backgrounds_no_countdown/312839.jpg)|schedule|
+|2024-07-04|1546168|金风玉露一相逢，便胜却、人间无数。|[图片链接](./backgrounds_no_countdown/1546168.jpg)|schedule|
