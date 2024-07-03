@@ -2151,3 +2151,6 @@ List of Backgrounds / 图片列表:
 |2024-07-03|1024975|道德是用来律己的，而不是用来责人的。|[图片链接](./backgrounds_no_countdown/1024975.jpg)|schedule|
 |2024-07-03|9568|李白如今已仙去，月在青天几圆缺？|[图片链接](./backgrounds_no_countdown/9568.jpg)|schedule|
 |2024-07-03|2446396|空山新雨后，兵长一米六。|[图片链接](./backgrounds_no_countdown/2446396.jpg)|schedule|
+|2024-07-03|2218344|离人灯长明，他死在一场风雪中。|[图片链接](./backgrounds_no_countdown/2218344.jpg)|schedule|
+|2024-07-03|490411|独自莫凭栏，无限江山，别时容易见时难。|[图片链接](./backgrounds_no_countdown/490411.jpg)|schedule|
+|2024-07-03|1019771|柳庭风静人眠昼，昼眠人静风庭柳。|[图片链接](./backgrounds_no_countdown/1019771.jpg)|schedule|
