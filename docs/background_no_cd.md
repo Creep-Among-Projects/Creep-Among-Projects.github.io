@@ -2160,3 +2160,6 @@ List of Backgrounds / 图片列表:
 |2024-07-04|137615|海上生明月，天涯共此时。|[图片链接](./backgrounds_no_countdown/137615.jpg)|schedule|
 |2024-07-04|106257|我的小伙伴们都惊呆了！|[图片链接](./backgrounds_no_countdown/106257.jpg)|schedule|
 |2024-07-04|963060|美人自刎乌江岸，战火曾烧赤壁山，将军空老玉门关。|[图片链接](./backgrounds_no_countdown/963060.jpg)|schedule|
+|2024-07-05|209004|对不起，还有......谢谢你|[图片链接](./backgrounds_no_countdown/209004.jpg)|schedule|
+|2024-07-05|1024967|活着努力干，死了无遗憾！|[图片链接](./backgrounds_no_countdown/1024967.jpg)|schedule|
+|2024-07-05|690303|曾记否，到中流击水，浪遏飞舟。|[图片链接](./backgrounds_no_countdown/690303.jpg)|schedule|
