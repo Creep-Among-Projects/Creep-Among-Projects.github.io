@@ -2163,3 +2163,6 @@ List of Backgrounds / 图片列表:
 |2024-07-05|209004|对不起，还有......谢谢你|[图片链接](./backgrounds_no_countdown/209004.jpg)|schedule|
 |2024-07-05|1024967|活着努力干，死了无遗憾！|[图片链接](./backgrounds_no_countdown/1024967.jpg)|schedule|
 |2024-07-05|690303|曾记否，到中流击水，浪遏飞舟。|[图片链接](./backgrounds_no_countdown/690303.jpg)|schedule|
+|2024-07-05|2252314|雪崩时，没有一片雪花是无辜的！|[图片链接](./backgrounds_no_countdown/2252314.jpg)|schedule|
+|2024-07-05|185801|远上寒山石径斜，白云深处有人家。|[图片链接](./backgrounds_no_countdown/185801.jpg)|schedule|
+|2024-07-05|531428|离离原上草，一岁一枯荣。|[图片链接](./backgrounds_no_countdown/531428.jpg)|schedule|
