@@ -2172,3 +2172,6 @@ List of Backgrounds / 图片列表:
 |2024-07-06|2449543|乌鸦为什么像写字台？|[图片链接](./backgrounds_no_countdown/2449543.jpg)|schedule|
 |2024-07-06|3689875|一切不谈语境的真理都是耍流氓|[图片链接](./backgrounds_no_countdown/3689875.jpg)|schedule|
 |2024-07-06|801616|死亡过于绝对，而活着，则有无限的可能。|[图片链接](./backgrounds_no_countdown/801616.jpg)|schedule|
+|2024-07-07|379926|人人心中所有，人人笔下所无。|[图片链接](./backgrounds_no_countdown/379926.jpg)|schedule|
+|2024-07-07|1122408|采菊东篱下，悠然见南山。|[图片链接](./backgrounds_no_countdown/1122408.jpg)|schedule|
+|2024-07-07|1414215|难过从来就不能解决任何问题|[图片链接](./backgrounds_no_countdown/1414215.jpg)|schedule|
