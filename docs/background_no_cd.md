@@ -2169,3 +2169,6 @@ List of Backgrounds / 图片列表:
 |2024-07-06|1554662|黄沙百战穿金甲，不破楼兰终不还。|[图片链接](./backgrounds_no_countdown/1554662.jpg)|schedule|
 |2024-07-06|732547|我听到水流进入我的身体，我听到阳光穿透海面。|[图片链接](./backgrounds_no_countdown/732547.jpg)|schedule|
 |2024-07-06|1139255|人总要抱紧什么才知道自己真的存在，哪怕那只是幻影。|[图片链接](./backgrounds_no_countdown/1139255.jpg)|schedule|
+|2024-07-06|2449543|乌鸦为什么像写字台？|[图片链接](./backgrounds_no_countdown/2449543.jpg)|schedule|
+|2024-07-06|3689875|一切不谈语境的真理都是耍流氓|[图片链接](./backgrounds_no_countdown/3689875.jpg)|schedule|
+|2024-07-06|801616|死亡过于绝对，而活着，则有无限的可能。|[图片链接](./backgrounds_no_countdown/801616.jpg)|schedule|
