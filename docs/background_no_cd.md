@@ -2178,3 +2178,6 @@ List of Backgrounds / 图片列表:
 |2024-07-07|1591373|不管对什么事情都不能有先入为主的观念。|[图片链接](./backgrounds_no_countdown/1591373.jpg)|schedule|
 |2024-07-07|946437|目的虽有，却无路可循；我们称之为路的，无非是踌躇。|[图片链接](./backgrounds_no_countdown/946437.jpg)|schedule|
 |2024-07-07|1128317|如果本来就知道是结果失败的，那为何还要尝试呢？|[图片链接](./backgrounds_no_countdown/1128317.jpg)|schedule|
+|2024-07-08|2512281|路漫漫其修远兮，吾将上下而求索。|[图片链接](./backgrounds_no_countdown/2512281.jpg)|schedule|
+|2024-07-08|1210622|（根据相关法律法规，相关内容已被屏蔽。）|[图片链接](./backgrounds_no_countdown/1210622.jpg)|schedule|
+|2024-07-08|1106412|今日过后，所有晦暗都留给过往，凛冬散尽，星河长明。|[图片链接](./backgrounds_no_countdown/1106412.jpg)|schedule|
