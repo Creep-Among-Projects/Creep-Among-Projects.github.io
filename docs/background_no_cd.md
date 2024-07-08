@@ -2184,3 +2184,6 @@ List of Backgrounds / 图片列表:
 |2024-07-08|259763|来自南方的温柔的风，经不起北方的寒冷。|[图片链接](./backgrounds_no_countdown/259763.jpg)|schedule|
 |2024-07-08|4279695|无奈被些名利缚，无奈被些情担阁，可惜风流总闲却。|[图片链接](./backgrounds_no_countdown/4279695.jpg)|schedule|
 |2024-07-08|1234064|繁花血景在那一赛季达到巅峰，却也止于巅峰。|[图片链接](./backgrounds_no_countdown/1234064.jpg)|schedule|
+|2024-07-09|1146708|寒夜客来茶当酒，竹炉汤沸火初红。|[图片链接](./backgrounds_no_countdown/1146708.jpg)|schedule|
+|2024-07-09|280221|恰同学少年，风华正茂；书生意气，挥斥方遒。|[图片链接](./backgrounds_no_countdown/280221.jpg)|schedule|
+|2024-07-09|2748757|莫道儒冠误此生，从来诗书不负人。|[图片链接](./backgrounds_no_countdown/2748757.jpg)|schedule|
