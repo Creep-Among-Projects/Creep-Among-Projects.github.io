@@ -2187,3 +2187,6 @@ List of Backgrounds / 图片列表:
 |2024-07-09|1146708|寒夜客来茶当酒，竹炉汤沸火初红。|[图片链接](./backgrounds_no_countdown/1146708.jpg)|schedule|
 |2024-07-09|280221|恰同学少年，风华正茂；书生意气，挥斥方遒。|[图片链接](./backgrounds_no_countdown/280221.jpg)|schedule|
 |2024-07-09|2748757|莫道儒冠误此生，从来诗书不负人。|[图片链接](./backgrounds_no_countdown/2748757.jpg)|schedule|
+|2024-07-09|3225531|前进！前进！！不择手段地前进！！！|[图片链接](./backgrounds_no_countdown/3225531.jpg)|schedule|
+|2024-07-09|2192227|故事不长，也不难讲，脸红相遇，红眼而离。|[图片链接](./backgrounds_no_countdown/2192227.jpg)|schedule|
+|2024-07-09|2923156|昨夜雨疏风骤，浓睡不消残酒。|[图片链接](./backgrounds_no_countdown/2923156.jpg)|schedule|
