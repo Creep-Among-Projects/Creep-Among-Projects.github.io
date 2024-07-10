@@ -2193,3 +2193,6 @@ List of Backgrounds / 图片列表:
 |2024-07-10|632280|兰陵美酒郁金香，玉碗盛来琥珀光。|[图片链接](./backgrounds_no_countdown/632280.jpg)|schedule|
 |2024-07-10|210106|成王败寇，失败才是丑恶的。|[图片链接](./backgrounds_no_countdown/210106.jpg)|schedule|
 |2024-07-10|326082|你曾打马过银河，倒影一百光年长。|[图片链接](./backgrounds_no_countdown/326082.jpg)|schedule|
+|2024-07-10|534124|愿得此身长报国，何须生入玉门关。|[图片链接](./backgrounds_no_countdown/534124.jpg)|schedule|
+|2024-07-10|338713|理解别人远比审判别人更为快乐。|[图片链接](./backgrounds_no_countdown/338713.jpg)|schedule|
+|2024-07-10|1133584|衣带渐宽终不悔，为伊消得人憔悴。|[图片链接](./backgrounds_no_countdown/1133584.jpg)|schedule|
