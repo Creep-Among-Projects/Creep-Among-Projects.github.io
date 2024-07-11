@@ -2199,3 +2199,6 @@ List of Backgrounds / 图片列表:
 |2024-07-11|1146714|思念悬枝，月影迟迟。|[图片链接](./backgrounds_no_countdown/1146714.jpg)|schedule|
 |2024-07-11|4099388|秦时明月汉时关，万里长征人未还。|[图片链接](./backgrounds_no_countdown/4099388.jpg)|schedule|
 |2024-07-11|2395242|穹顶之下，仰望繁星。|[图片链接](./backgrounds_no_countdown/2395242.jpg)|schedule|
+|2024-07-11|2166553|人是生而自由的，但却无往不在枷锁之中。|[图片链接](./backgrounds_no_countdown/2166553.jpg)|schedule|
+|2024-07-11|1468379|亮，再不能临阵讨贼矣。悠悠苍天，何薄于我！|[图片链接](./backgrounds_no_countdown/1468379.jpg)|schedule|
+|2024-07-11|2886284|春空千鹤若幻梦，夕波千鸟若长鸣。|[图片链接](./backgrounds_no_countdown/2886284.jpg)|schedule|
