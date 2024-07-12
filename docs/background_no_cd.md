@@ -2208,3 +2208,6 @@ List of Backgrounds / 图片列表:
 |2024-07-12|2174656|明月几时有？把酒问青天。|[图片链接](./backgrounds_no_countdown/2174656.jpg)|schedule|
 |2024-07-12|3584309|青山隐隐水迢迢，秋尽江南草未凋。|[图片链接](./backgrounds_no_countdown/3584309.jpg)|schedule|
 |2024-07-12|1089164|料想得年年肠断处，明夜月，短松冈。|[图片链接](./backgrounds_no_countdown/1089164.jpg)|schedule|
+|2024-07-13|3631|只要一息尚存，就还有希望。|[图片链接](./backgrounds_no_countdown/3631.jpg)|schedule|
+|2024-07-13|1024981|必静必清，无劳女形。无摇女精，乃可以长生。|[图片链接](./backgrounds_no_countdown/1024981.jpg)|schedule|
+|2024-07-13|1024973|大鹏一日同风起，扶摇直上九万里。|[图片链接](./backgrounds_no_countdown/1024973.jpg)|schedule|
