@@ -2214,3 +2214,6 @@ List of Backgrounds / 图片列表:
 |2024-07-13|728880|我觉得百无聊赖，可我却经常什么事也不干。|[图片链接](./backgrounds_no_countdown/728880.jpg)|schedule|
 |2024-07-13|262967|有美一人，清扬婉兮。|[图片链接](./backgrounds_no_countdown/262967.jpg)|schedule|
 |2024-07-13|357275|所有命运的馈赠，早已暗中标注好了价码。|[图片链接](./backgrounds_no_countdown/357275.jpg)|schedule|
+|2024-07-14|1008357|落霞与孤鹜齐飞，秋水共长天一色。|[图片链接](./backgrounds_no_countdown/1008357.jpg)|schedule|
+|2024-07-14|443420|今日，吾爱，我们融为一体。|[图片链接](./backgrounds_no_countdown/443420.jpg)|schedule|
+|2024-07-14|258154|风停之后再扬帆，船绝不会前行。|[图片链接](./backgrounds_no_countdown/258154.jpg)|schedule|
