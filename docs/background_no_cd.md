@@ -2220,3 +2220,6 @@ List of Backgrounds / 图片列表:
 |2024-07-14|691637|你永远是我唯爱旅行中名为秘密的起点站。|[图片链接](./backgrounds_no_countdown/691637.jpg)|schedule|
 |2024-07-14|1062280|结发为夫妻，恩爱两不疑。|[图片链接](./backgrounds_no_countdown/1062280.jpg)|schedule|
 |2024-07-14|69198|抛得开手里玩具，先懂得好好进睡。|[图片链接](./backgrounds_no_countdown/69198.jpg)|schedule|
+|2024-07-15|1134190|少年与爱永不老去，即便披荆斩棘，丢失怒马鲜衣。|[图片链接](./backgrounds_no_countdown/1134190.jpg)|schedule|
+|2024-07-15|338504|相见争如不见，多情何似无情。|[图片链接](./backgrounds_no_countdown/338504.jpg)|schedule|
+|2024-07-15|219569|此身合是诗人未？细雨骑驴入剑门。|[图片链接](./backgrounds_no_countdown/219569.jpg)|schedule|
