@@ -2217,3 +2217,6 @@ List of Backgrounds / 图片列表:
 |2024-07-14|1008357|落霞与孤鹜齐飞，秋水共长天一色。|[图片链接](./backgrounds_no_countdown/1008357.jpg)|schedule|
 |2024-07-14|443420|今日，吾爱，我们融为一体。|[图片链接](./backgrounds_no_countdown/443420.jpg)|schedule|
 |2024-07-14|258154|风停之后再扬帆，船绝不会前行。|[图片链接](./backgrounds_no_countdown/258154.jpg)|schedule|
+|2024-07-14|691637|你永远是我唯爱旅行中名为秘密的起点站。|[图片链接](./backgrounds_no_countdown/691637.jpg)|schedule|
+|2024-07-14|1062280|结发为夫妻，恩爱两不疑。|[图片链接](./backgrounds_no_countdown/1062280.jpg)|schedule|
+|2024-07-14|69198|抛得开手里玩具，先懂得好好进睡。|[图片链接](./backgrounds_no_countdown/69198.jpg)|schedule|
