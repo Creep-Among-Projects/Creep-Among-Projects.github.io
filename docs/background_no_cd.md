@@ -2226,3 +2226,6 @@ List of Backgrounds / 图片列表:
 |2024-07-15|2065725|若言琴上有琴声，放在匣中何不鸣？|[图片链接](./backgrounds_no_countdown/2065725.jpg)|schedule|
 |2024-07-15|1013328|人亡则死，心亡则忘。|[图片链接](./backgrounds_no_countdown/1013328.jpg)|schedule|
 |2024-07-15|1013326|美丽的东西存在于世上，这一点本身就值得感谢了。|[图片链接](./backgrounds_no_countdown/1013326.jpg)|schedule|
+|2024-07-16|965988|南风知我意，吹梦到西洲。|[图片链接](./backgrounds_no_countdown/965988.jpg)|schedule|
+|2024-07-16|226424|数人世相逢，百年欢笑，能得几回又。|[图片链接](./backgrounds_no_countdown/226424.jpg)|schedule|
+|2024-07-16|1382392|我们最终都要远行，最终都要跟稚嫩的自己告别。|[图片链接](./backgrounds_no_countdown/1382392.jpg)|schedule|
