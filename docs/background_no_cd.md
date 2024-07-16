@@ -2229,3 +2229,6 @@ List of Backgrounds / 图片列表:
 |2024-07-16|965988|南风知我意，吹梦到西洲。|[图片链接](./backgrounds_no_countdown/965988.jpg)|schedule|
 |2024-07-16|226424|数人世相逢，百年欢笑，能得几回又。|[图片链接](./backgrounds_no_countdown/226424.jpg)|schedule|
 |2024-07-16|1382392|我们最终都要远行，最终都要跟稚嫩的自己告别。|[图片链接](./backgrounds_no_countdown/1382392.jpg)|schedule|
+|2024-07-17|2555656|万物初发清净明，可知此芽成何草。|[图片链接](./backgrounds_no_countdown/2555656.jpg)|schedule|
+|2024-07-17|2512388|试玉要烧三日满，辨材须待七年期。|[图片链接](./backgrounds_no_countdown/2512388.jpg)|schedule|
+|2024-07-17|673865|天自撰我命 唤魂为逆 肆酒行 削竹横笛借音|[图片链接](./backgrounds_no_countdown/673865.jpg)|schedule|
