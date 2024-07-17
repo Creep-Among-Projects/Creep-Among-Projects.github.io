@@ -2235,3 +2235,6 @@ List of Backgrounds / 图片列表:
 |2024-07-17|273786|藏好自己，做好清理。|[图片链接](./backgrounds_no_countdown/273786.jpg)|schedule|
 |2024-07-17|2251927|曾记否，到中流击水，浪遏飞舟？|[图片链接](./backgrounds_no_countdown/2251927.jpg)|schedule|
 |2024-07-17|1462892|别问我的心里有没有你，我余光中都是你。|[图片链接](./backgrounds_no_countdown/1462892.jpg)|schedule|
+|2024-07-18|1656687|只解沙场为国死，何须马革裹尸还。|[图片链接](./backgrounds_no_countdown/1656687.jpg)|schedule|
+|2024-07-18|235496|震骇一时的牺牲，不如深沉韧性的战斗。|[图片链接](./backgrounds_no_countdown/235496.jpg)|schedule|
+|2024-07-18|2248523|呐，我对你的沉沦，就像樱花落入大地~|[图片链接](./backgrounds_no_countdown/2248523.jpg)|schedule|
