@@ -2247,3 +2247,6 @@ List of Backgrounds / 图片列表:
 |2024-07-19|454880|生来一人，去时孤身，便是江澄其人|[图片链接](./backgrounds_no_countdown/454880.jpg)|schedule|
 |2024-07-19|1194408|千秋无绝色，悦目为佳人。|[图片链接](./backgrounds_no_countdown/1194408.jpg)|schedule|
 |2024-07-19|2901913|所谓癌症，治疗的过程就是痛苦。|[图片链接](./backgrounds_no_countdown/2901913.jpg)|schedule|
+|2024-07-20|1020017|如果不被畏惧，神又何以为神。|[图片链接](./backgrounds_no_countdown/1020017.jpg)|schedule|
+|2024-07-20|2889491|春风得意马蹄疾，一日看尽长安花。|[图片链接](./backgrounds_no_countdown/2889491.jpg)|schedule|
+|2024-07-20|756856|别把耿直当理由。|[图片链接](./backgrounds_no_countdown/756856.jpg)|schedule|
