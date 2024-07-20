@@ -2250,3 +2250,6 @@ List of Backgrounds / 图片列表:
 |2024-07-20|1020017|如果不被畏惧，神又何以为神。|[图片链接](./backgrounds_no_countdown/1020017.jpg)|schedule|
 |2024-07-20|2889491|春风得意马蹄疾，一日看尽长安花。|[图片链接](./backgrounds_no_countdown/2889491.jpg)|schedule|
 |2024-07-20|756856|别把耿直当理由。|[图片链接](./backgrounds_no_countdown/756856.jpg)|schedule|
+|2024-07-20|1763700|仙，这虚无缥缈的东西不要也罢，但怎能失去你！|[图片链接](./backgrounds_no_countdown/1763700.jpg)|schedule|
+|2024-07-20|459203|凡心所向，素履可往，生如逆旅，一苇以航。|[图片链接](./backgrounds_no_countdown/459203.jpg)|schedule|
+|2024-07-20|2670273|不识庐山真面目，只缘身在此山中。|[图片链接](./backgrounds_no_countdown/2670273.jpg)|schedule|
