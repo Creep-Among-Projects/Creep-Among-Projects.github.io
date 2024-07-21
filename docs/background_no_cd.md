@@ -2259,3 +2259,6 @@ List of Backgrounds / 图片列表:
 |2024-07-21|1562981|其实每个女孩身边都有张万森，只是女孩不想承认罢了。|[图片链接](./backgrounds_no_countdown/1562981.jpg)|schedule|
 |2024-07-21|2127789|我居北海君南海，寄雁传书谢不能。|[图片链接](./backgrounds_no_countdown/2127789.jpg)|schedule|
 |2024-07-21|1438680|凡是过去，皆为序章。|[图片链接](./backgrounds_no_countdown/1438680.jpg)|schedule|
+|2024-07-22|1157399|毁灭你，与你有何相干?|[图片链接](./backgrounds_no_countdown/1157399.jpg)|schedule|
+|2024-07-22|1167355|只要你想 你就是在天涯海角 我都会追去 。|[图片链接](./backgrounds_no_countdown/1167355.jpg)|schedule|
+|2024-07-22|248812|世间情动，不过盛夏白瓷梅子汤，碎冰碰壁当啷响。|[图片链接](./backgrounds_no_countdown/248812.jpg)|schedule|
