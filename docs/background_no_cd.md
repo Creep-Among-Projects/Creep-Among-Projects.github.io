@@ -2262,3 +2262,6 @@ List of Backgrounds / 图片列表:
 |2024-07-22|1157399|毁灭你，与你有何相干?|[图片链接](./backgrounds_no_countdown/1157399.jpg)|schedule|
 |2024-07-22|1167355|只要你想 你就是在天涯海角 我都会追去 。|[图片链接](./backgrounds_no_countdown/1167355.jpg)|schedule|
 |2024-07-22|248812|世间情动，不过盛夏白瓷梅子汤，碎冰碰壁当啷响。|[图片链接](./backgrounds_no_countdown/248812.jpg)|schedule|
+|2024-07-23|1966688|当两颗卫星的轨道偶尔交叉时，我们便这样相会了。|[图片链接](./backgrounds_no_countdown/1966688.jpg)|schedule|
+|2024-07-23|1074531|有些转身，真的就是一生，从此后会无期，永不相见。|[图片链接](./backgrounds_no_countdown/1074531.jpg)|schedule|
+|2024-07-23|236284|就算终有一散也别辜负相遇。|[图片链接](./backgrounds_no_countdown/236284.jpg)|schedule|
