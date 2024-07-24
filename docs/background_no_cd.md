@@ -2271,3 +2271,6 @@ List of Backgrounds / 图片列表:
 |2024-07-24|1533720|无边落木萧萧下，不尽长江滚滚来。|[图片链接](./backgrounds_no_countdown/1533720.jpg)|schedule|
 |2024-07-24|1655166|这个世界上，有种名为死后文的奇迹。|[图片链接](./backgrounds_no_countdown/1655166.jpg)|schedule|
 |2024-07-24|237272|自在飞花轻似梦，无边丝雨细如愁。|[图片链接](./backgrounds_no_countdown/237272.jpg)|schedule|
+|2024-07-25|1076758|残花无零，落红无情|[图片链接](./backgrounds_no_countdown/1076758.jpg)|schedule|
+|2024-07-25|1078981|夜月一帘幽梦，春风十里柔情。|[图片链接](./backgrounds_no_countdown/1078981.jpg)|schedule|
+|2024-07-25|7321|天街小雨润如酥，草色遥看近却无。|[图片链接](./backgrounds_no_countdown/7321.jpg)|schedule|
