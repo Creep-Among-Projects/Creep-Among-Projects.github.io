@@ -2280,3 +2280,6 @@ List of Backgrounds / 图片列表:
 |2024-07-26|847393|众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。|[图片链接](./backgrounds_no_countdown/847393.jpg)|schedule|
 |2024-07-26|103567|一寸相思千万绪。人间没个安排处。|[图片链接](./backgrounds_no_countdown/103567.jpg)|schedule|
 |2024-07-26|1320684|参差荇菜，左右采之。窈窕淑女，琴瑟友之。|[图片链接](./backgrounds_no_countdown/1320684.jpg)|schedule|
+|2024-07-26|235990|维罗纳的夏天找不到这样一朵好花。|[图片链接](./backgrounds_no_countdown/235990.jpg)|schedule|
+|2024-07-26|462162|华枝春满，天心月圆。|[图片链接](./backgrounds_no_countdown/462162.jpg)|schedule|
+|2024-07-26|1820041|来了，爱了，给了她一颗星星，走了。|[图片链接](./backgrounds_no_countdown/1820041.jpg)|schedule|
