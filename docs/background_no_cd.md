@@ -2286,3 +2286,6 @@ List of Backgrounds / 图片列表:
 |2024-07-27|1298684|山不在高，有仙则名。水不在深，有龙则灵。|[图片链接](./backgrounds_no_countdown/1298684.jpg)|schedule|
 |2024-07-27|386148|相思了无益，悔当初相见。|[图片链接](./backgrounds_no_countdown/386148.jpg)|schedule|
 |2024-07-27|175773|当时明月在，曾照彩云归。|[图片链接](./backgrounds_no_countdown/175773.jpg)|schedule|
+|2024-07-27|3369526|为你，所向披靡。|[图片链接](./backgrounds_no_countdown/3369526.jpg)|schedule|
+|2024-07-27|68767|西塞山前白鹭飞，桃花流水鳜鱼肥。|[图片链接](./backgrounds_no_countdown/68767.jpg)|schedule|
+|2024-07-27|88517|春潮带雨晚来急，野渡无人舟自横。|[图片链接](./backgrounds_no_countdown/88517.jpg)|schedule|
