@@ -2289,3 +2289,6 @@ List of Backgrounds / 图片列表:
 |2024-07-27|3369526|为你，所向披靡。|[图片链接](./backgrounds_no_countdown/3369526.jpg)|schedule|
 |2024-07-27|68767|西塞山前白鹭飞，桃花流水鳜鱼肥。|[图片链接](./backgrounds_no_countdown/68767.jpg)|schedule|
 |2024-07-27|88517|春潮带雨晚来急，野渡无人舟自横。|[图片链接](./backgrounds_no_countdown/88517.jpg)|schedule|
+|2024-07-28|1072842|大江东去，浪淘尽，千古风流人物。|[图片链接](./backgrounds_no_countdown/1072842.jpg)|schedule|
+|2024-07-28|1054391|把人分成好的与坏的是荒谬的，人要么迷人，要么乏味。|[图片链接](./backgrounds_no_countdown/1054391.jpg)|schedule|
+|2024-07-28|1074505|尔辈不能究物理。|[图片链接](./backgrounds_no_countdown/1074505.jpg)|schedule|
