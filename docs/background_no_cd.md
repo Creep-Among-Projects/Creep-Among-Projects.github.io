@@ -2295,3 +2295,6 @@ List of Backgrounds / 图片列表:
 |2024-07-28|1430677|空不是无，空是一种存在，你得用空这种存在填满自己。|[图片链接](./backgrounds_no_countdown/1430677.jpg)|schedule|
 |2024-07-28|691858|风萧萧兮易水寒，壮士一去兮不复还。|[图片链接](./backgrounds_no_countdown/691858.jpg)|schedule|
 |2024-07-28|66258|桃李不言，下自成蹊。|[图片链接](./backgrounds_no_countdown/66258.jpg)|schedule|
+|2024-07-29|26681|人必须先说很多话，然后保持静默。|[图片链接](./backgrounds_no_countdown/26681.jpg)|schedule|
+|2024-07-29|812958|相恨不如潮有信，相思始觉海非深。|[图片链接](./backgrounds_no_countdown/812958.jpg)|schedule|
+|2024-07-29|1555313|宇宙很大，生活更大，也许以后还有缘相见。|[图片链接](./backgrounds_no_countdown/1555313.jpg)|schedule|
