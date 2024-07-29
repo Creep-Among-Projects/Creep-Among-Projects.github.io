@@ -2298,3 +2298,6 @@ List of Backgrounds / 图片列表:
 |2024-07-29|26681|人必须先说很多话，然后保持静默。|[图片链接](./backgrounds_no_countdown/26681.jpg)|schedule|
 |2024-07-29|812958|相恨不如潮有信，相思始觉海非深。|[图片链接](./backgrounds_no_countdown/812958.jpg)|schedule|
 |2024-07-29|1555313|宇宙很大，生活更大，也许以后还有缘相见。|[图片链接](./backgrounds_no_countdown/1555313.jpg)|schedule|
+|2024-07-29|2127969|苟利国家生死以，岂因祸福避趋之！|[图片链接](./backgrounds_no_countdown/2127969.jpg)|schedule|
+|2024-07-29|416676|修行的路总是孤独的，因为智慧必然来自孤独。|[图片链接](./backgrounds_no_countdown/416676.jpg)|schedule|
+|2024-07-29|312105|荷叶罗裙一色裁，芙蓉向脸两边开。|[图片链接](./backgrounds_no_countdown/312105.jpg)|schedule|
