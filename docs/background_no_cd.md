@@ -2304,3 +2304,6 @@ List of Backgrounds / 图片列表:
 |2024-07-30|163872|悠悠天宇旷，切切故乡情。|[图片链接](./backgrounds_no_countdown/163872.jpg)|schedule|
 |2024-07-30|65322|人间有味是清欢。|[图片链接](./backgrounds_no_countdown/65322.jpg)|schedule|
 |2024-07-30|1268874|我会一直喜欢到你不再需要我喜欢你为止。|[图片链接](./backgrounds_no_countdown/1268874.jpg)|schedule|
+|2024-07-30|37487|关关雎鸠，在河之洲。窈窕淑女，君子好逑。|[图片链接](./backgrounds_no_countdown/37487.jpg)|schedule|
+|2024-07-30|1556797|选择最难的路走暗夜里看成群的星星涌来。|[图片链接](./backgrounds_no_countdown/1556797.jpg)|schedule|
+|2024-07-30|3099153|孤灯不明思欲绝，卷帷望月空长叹。|[图片链接](./backgrounds_no_countdown/3099153.jpg)|schedule|
