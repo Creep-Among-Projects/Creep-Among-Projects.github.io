@@ -2319,3 +2319,6 @@ List of Backgrounds / 图片列表:
 |2024-08-01|4035587|松树千年终是朽，槿花一日自为荣。|[图片链接](./backgrounds_no_countdown/4035587.jpg)|schedule|
 |2024-08-01|912108|知道各位都是不要命的，我们也是冲不要命来的。|[图片链接](./backgrounds_no_countdown/912108.jpg)|schedule|
 |2024-08-01|457878|易求无价宝，难得有心郎。|[图片链接](./backgrounds_no_countdown/457878.jpg)|schedule|
+|2024-08-02|734973|有情芍药含春泪，无力蔷薇卧晓枝。|[图片链接](./backgrounds_no_countdown/734973.jpg)|schedule|
+|2024-08-02|1661375|怎样都好，只要能让他们发笑就好。|[图片链接](./backgrounds_no_countdown/1661375.jpg)|schedule|
+|2024-08-02|1646311|出师未捷身先死，长使英雄泪满襟。|[图片链接](./backgrounds_no_countdown/1646311.jpg)|schedule|
