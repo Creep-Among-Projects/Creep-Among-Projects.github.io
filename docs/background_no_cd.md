@@ -2316,3 +2316,6 @@ List of Backgrounds / 图片列表:
 |2024-08-01|47480|醉后不知天在水，满船清梦压星河。|[图片链接](./backgrounds_no_countdown/47480.jpg)|schedule|
 |2024-08-01|37730|相思相见知何日？此时此夜难为情！|[图片链接](./backgrounds_no_countdown/37730.jpg)|schedule|
 |2024-08-01|4666751|我想抬头暖阳春草，你给我简单拥抱。|[图片链接](./backgrounds_no_countdown/4666751.jpg)|schedule|
+|2024-08-01|4035587|松树千年终是朽，槿花一日自为荣。|[图片链接](./backgrounds_no_countdown/4035587.jpg)|schedule|
+|2024-08-01|912108|知道各位都是不要命的，我们也是冲不要命来的。|[图片链接](./backgrounds_no_countdown/912108.jpg)|schedule|
+|2024-08-01|457878|易求无价宝，难得有心郎。|[图片链接](./backgrounds_no_countdown/457878.jpg)|schedule|
