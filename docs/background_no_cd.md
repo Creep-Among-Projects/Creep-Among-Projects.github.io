@@ -2331,3 +2331,6 @@ List of Backgrounds / 图片列表:
 |2024-08-03|889929|星垂平野阔，月涌大江流。|[图片链接](./backgrounds_no_countdown/889929.jpg)|schedule|
 |2024-08-03|3363331|锦瑟无端五十弦，一弦一柱思华年。|[图片链接](./backgrounds_no_countdown/3363331.jpg)|schedule|
 |2024-08-03|3894157|游戏是儿童最正当的行为，玩具是儿童的天使。|[图片链接](./backgrounds_no_countdown/3894157.jpg)|schedule|
+|2024-08-04|1535162|君子择而后交，故寡过；小人交而后择，故多怨。|[图片链接](./backgrounds_no_countdown/1535162.jpg)|schedule|
+|2024-08-04|1295036|稻花香里说丰年。听取蛙声一片。|[图片链接](./backgrounds_no_countdown/1295036.jpg)|schedule|
+|2024-08-04|1249586|我想带一人回云深不知处。带回去，藏起来。|[图片链接](./backgrounds_no_countdown/1249586.jpg)|schedule|
