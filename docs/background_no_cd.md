@@ -2328,3 +2328,6 @@ List of Backgrounds / 图片列表:
 |2024-08-03|1450340|如果你是一匹千里马，那么请做自己的伯乐|[图片链接](./backgrounds_no_countdown/1450340.jpg)|schedule|
 |2024-08-03|4666748|当夏季死时，所有的莲都殉情。|[图片链接](./backgrounds_no_countdown/4666748.jpg)|schedule|
 |2024-08-03|1456291|多情却被无情恼，今夜还如昨夜长。|[图片链接](./backgrounds_no_countdown/1456291.jpg)|schedule|
+|2024-08-03|889929|星垂平野阔，月涌大江流。|[图片链接](./backgrounds_no_countdown/889929.jpg)|schedule|
+|2024-08-03|3363331|锦瑟无端五十弦，一弦一柱思华年。|[图片链接](./backgrounds_no_countdown/3363331.jpg)|schedule|
+|2024-08-03|3894157|游戏是儿童最正当的行为，玩具是儿童的天使。|[图片链接](./backgrounds_no_countdown/3894157.jpg)|schedule|
