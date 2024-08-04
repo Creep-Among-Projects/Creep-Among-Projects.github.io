@@ -2337,3 +2337,6 @@ List of Backgrounds / 图片列表:
 |2024-08-04|1139962|不论斟满的是什么，都要——干杯！|[图片链接](./backgrounds_no_countdown/1139962.jpg)|schedule|
 |2024-08-04|3098977|锦官红妆否？不见故人裙。|[图片链接](./backgrounds_no_countdown/3098977.jpg)|schedule|
 |2024-08-04|1430671|记不分明疑是梦，梦来还隔一重帘。|[图片链接](./backgrounds_no_countdown/1430671.jpg)|schedule|
+|2024-08-05|96800|思悠悠，恨悠悠，恨到归时方始休。|[图片链接](./backgrounds_no_countdown/96800.jpg)|schedule|
+|2024-08-05|1536431|在月色与雪色之间，你是第三种绝色|[图片链接](./backgrounds_no_countdown/1536431.jpg)|schedule|
+|2024-08-05|1710795|能轻易离开的人确实谈不上遗憾|[图片链接](./backgrounds_no_countdown/1710795.jpg)|schedule|
