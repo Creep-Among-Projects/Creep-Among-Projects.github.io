@@ -2340,3 +2340,6 @@ List of Backgrounds / 图片列表:
 |2024-08-05|96800|思悠悠，恨悠悠，恨到归时方始休。|[图片链接](./backgrounds_no_countdown/96800.jpg)|schedule|
 |2024-08-05|1536431|在月色与雪色之间，你是第三种绝色|[图片链接](./backgrounds_no_countdown/1536431.jpg)|schedule|
 |2024-08-05|1710795|能轻易离开的人确实谈不上遗憾|[图片链接](./backgrounds_no_countdown/1710795.jpg)|schedule|
+|2024-08-05|1167021|相看两不厌，只有敬亭山。|[图片链接](./backgrounds_no_countdown/1167021.jpg)|schedule|
+|2024-08-05|7320|风一更，雪一更，聒碎乡心梦不成，故园无此声。|[图片链接](./backgrounds_no_countdown/7320.jpg)|schedule|
+|2024-08-05|154246|苍山负雪，明烛天南。|[图片链接](./backgrounds_no_countdown/154246.jpg)|schedule|
