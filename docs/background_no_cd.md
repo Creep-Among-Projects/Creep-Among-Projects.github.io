@@ -2346,3 +2346,6 @@ List of Backgrounds / 图片列表:
 |2024-08-06|1223649|面具戴久了，就会长在脸上哦。|[图片链接](./backgrounds_no_countdown/1223649.jpg)|schedule|
 |2024-08-06|3178881|去年花里逢君别，今日花开已一年。|[图片链接](./backgrounds_no_countdown/3178881.jpg)|schedule|
 |2024-08-06|1059979|思君如流水，何有穷已时。|[图片链接](./backgrounds_no_countdown/1059979.jpg)|schedule|
+|2024-08-06|1722206|昭昭若日月之明，离离如星辰之行。|[图片链接](./backgrounds_no_countdown/1722206.jpg)|schedule|
+|2024-08-06|726478|把酒祝东风。且共从容。|[图片链接](./backgrounds_no_countdown/726478.jpg)|schedule|
+|2024-08-06|1387037|灯把黑夜，烫了一个洞。|[图片链接](./backgrounds_no_countdown/1387037.jpg)|schedule|
