@@ -2352,3 +2352,6 @@ List of Backgrounds / 图片列表:
 |2024-08-07|315998|眼泪可以渡走悲伤,眼泪带不走的悲伤,就用笑声埋藏。|[图片链接](./backgrounds_no_countdown/315998.jpg)|schedule|
 |2024-08-07|2446439|夫天地者，万物之逆旅也；光阴者，百代之过客也。|[图片链接](./backgrounds_no_countdown/2446439.jpg)|schedule|
 |2024-08-07|678725|大厦之成，非一木之材也；大海之润，非一流之归也。|[图片链接](./backgrounds_no_countdown/678725.jpg)|schedule|
+|2024-08-07|2102367|恐惧意味着“软弱”。|[图片链接](./backgrounds_no_countdown/2102367.jpg)|schedule|
+|2024-08-07|831889|心系一处，守口如瓶|[图片链接](./backgrounds_no_countdown/831889.jpg)|schedule|
+|2024-08-07|358312|万事到头都是梦，休休。明日黄花蝶也愁。|[图片链接](./backgrounds_no_countdown/358312.jpg)|schedule|
