@@ -349,9 +349,9 @@ if CD_TARGET - datetime.datetime.now(tz=pytz.timezone('Asia/Shanghai')).date() >
 
 resized_image.save(f'./docs/backgrounds/{new_image.ID}.jpg')
 with open('./docs/background.md', 'a+', encoding='utf-8') as f:
-    f.writelines(f'|{datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).date().isoformat()}|{new_image.ID}|{new_quote.hitokoto}'
+    f.writelines(f'|{datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).date().isoformat()}|{new_image.ID}|'
                  f'|[图片链接](./backgrounds/{new_image.ID}.jpg)|{TRIGGER}|\n')
 
 with open('./docs/background_no_cd.md', 'a+', encoding='utf-8') as f:
-    f.writelines(f'|{datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).date().isoformat()}|{new_image.ID}|{new_quote.hitokoto}'
+    f.writelines(f'|{datetime.datetime.now(tz=pytz.timezone("Asia/Shanghai")).date().isoformat()}|{new_image.ID}|'
                  f'|[图片链接](./backgrounds_no_countdown/{new_image.ID}.jpg)|{TRIGGER}|\n')
