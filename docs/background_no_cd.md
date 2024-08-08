@@ -2358,3 +2358,6 @@ List of Backgrounds / 图片列表:
 |2024-08-08|1986374|你只需看着别人精彩，老天对你另有安排|[图片链接](./backgrounds_no_countdown/1986374.jpg)|schedule|
 |2024-08-08|988526|少年不惧岁月长，彼方尚有荣光在。|[图片链接](./backgrounds_no_countdown/988526.jpg)|schedule|
 |2024-08-08|382167|昆山玉碎凤凰叫，芙蓉泣露香兰笑。|[图片链接](./backgrounds_no_countdown/382167.jpg)|schedule|
+|2024-08-08|920163||[图片链接](./backgrounds_no_countdown/920163.jpg)|push|
+|2024-08-08|3591569||[图片链接](./backgrounds_no_countdown/3591569.jpg)|push|
+|2024-08-08|1770310||[图片链接](./backgrounds_no_countdown/1770310.jpg)|push|
