@@ -191,6 +191,7 @@ while True:
         pagination += 1
         continue
     break
+"""
 if not str(ISSUE_TITLE).startswith('SETHitokoto'):
     while True:
         hitokoto_result = requests.get(HITOKOTO_URL, headers=GENERAL_HEADERS).json()
@@ -223,6 +224,7 @@ else:
         typ='z',
         uuid=str(uuid.uuid4())
     )
+"""
 
 weather_info = requests.get(AMAP_ENDPOINT, params=AMAP_PARAMS).json()
 new_weather = Weathers(data=weather_info)
@@ -267,11 +269,13 @@ draw.rectangle([(0, 0), (3840, 800)], fill=opacity_color)
 quote = f'{new_quote.hitokoto}    --{new_quote.author} {new_quote.src}' if new_quote.author \
     else f'{new_quote.hitokoto}    --{new_quote.src}'
 '''
+"""
 try:
     quote = f'{iciba_result["content"]}\n{iciba_result["note"]}'
 except:
     quote = f'{new_quote.hitokoto}    --{new_quote.author} {new_quote.src}' if new_quote.author \
         else f'{new_quote.hitokoto}    --{new_quote.src}'
+"""
 
 try:
     shanbay = requests.get("https://apiv3.shanbay.com/weapps/dailyquote/quote/", headers=GENERAL_HEADERS).json()
@@ -291,21 +295,23 @@ draw.multiline_text((3000, 400),
                     anchor='la',
                     align='left')
 
+"""
 draw.multiline_text((1920, 70),
                     text=quote,
                     fill=(255, 255, 255),
                     font=get_smileysans(125),
                     anchor='ma',
                     align='center')
+"""
 
-draw.multiline_text((1920, 275),
+draw.multiline_text((1920, 225),
                     text=shanbay["content"],
                     fill=(255, 255, 255),
                     font=get_smileysans(125),
                     anchor="ma",
                     align="center")
 
-draw.multiline_text((1920, 475),
+draw.multiline_text((1920, 425),
                     text=shanbay["translation"],
                     fill=(255, 255, 255),
                     font=get_smileysans(125),
