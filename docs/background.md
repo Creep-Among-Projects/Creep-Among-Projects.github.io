@@ -2997,3 +2997,4 @@ List of Backgrounds / 图片列表:
 |2024-08-17|2860705||[图片链接](./backgrounds/2860705.jpg)|schedule|
 |2024-08-17|1142984||[图片链接](./backgrounds/1142984.jpg)|schedule|
 |2024-08-18|127673||[图片链接](./backgrounds/127673.jpg)|schedule|
+|2024-08-18|50594||[图片链接](./backgrounds/50594.jpg)|schedule|
