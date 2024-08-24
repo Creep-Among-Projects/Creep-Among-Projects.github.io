@@ -2393,3 +2393,4 @@ List of Backgrounds / 图片列表:
 |2024-08-23|62389||[图片链接](./backgrounds_no_countdown/62389.jpg)|schedule|
 |2024-08-24|1320755||[图片链接](./backgrounds_no_countdown/1320755.jpg)|schedule|
 |2024-08-24|3684415||[图片链接](./backgrounds_no_countdown/3684415.jpg)|schedule|
+|2024-08-25|1618606||[图片链接](./backgrounds_no_countdown/1618606.jpg)|schedule|
