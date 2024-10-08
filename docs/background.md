@@ -3097,3 +3097,4 @@ List of Backgrounds / 图片列表:
 |2024-10-07|1536435||[图片链接](./backgrounds/1536435.jpg)|schedule|
 |2024-10-07|1933239||[图片链接](./backgrounds/1933239.jpg)|schedule|
 |2024-10-08|996328||[图片链接](./backgrounds/996328.jpg)|schedule|
+|2024-10-08|320260||[图片链接](./backgrounds/320260.jpg)|schedule|
