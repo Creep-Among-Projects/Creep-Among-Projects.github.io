@@ -2525,3 +2525,4 @@ List of Backgrounds / 图片列表:
 |2024-10-29|636365||[图片链接](./backgrounds_no_countdown/636365.jpg)|schedule|
 |2024-10-30|613830||[图片链接](./backgrounds_no_countdown/613830.jpg)|schedule|
 |2024-10-30|319893||[图片链接](./backgrounds_no_countdown/319893.jpg)|schedule|
+|2024-10-31|260757||[图片链接](./backgrounds_no_countdown/260757.jpg)|schedule|
